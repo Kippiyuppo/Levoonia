@@ -107,22 +107,16 @@ blockquote {
   overflow-x: auto;         /* Görgethető, ha mégis kilóg */
   position: relative; /* szükséges az abszolút pozícionáláshoz */
   overflow: visible;  /* engedi, hogy a lenyíló menü kilógjon */
-  align-items: center;
-  vertical-align: middle;
   list-style: none; /* eltünteti a pontokat/karikákat */
   z-index: 10;
 }
 
 .dropdown-navbar li {
   position: relative;
-  align-items: center;
-  vertical-align: middle;
 }
 
 .dropdown-navbar > ul > li {
   padding: 10px;
-  align-items: center;
-  vertical-align: middle;
 }
 
 .dropdown-navbar a {
@@ -130,8 +124,6 @@ blockquote {
   color: #7a2b17;
   font-weight: bold;
   white-space: nowrap;      /* Ne törje meg a linket */
-  align-items: center;
-  vertical-align: middle;
 }
 
 .dropdown-navbar ul ul {
@@ -144,8 +136,6 @@ blockquote {
   border: 1px solid #ccc;
   padding: 0.5rem;
   z-index: 1000;
-  align-items: center;
-  vertical-align: middle;
 }
 
 .dropdown-navbar li:hover > ul {
