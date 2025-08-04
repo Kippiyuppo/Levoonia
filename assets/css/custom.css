@@ -44,7 +44,7 @@ p {
 }
 
 p + p {
-  text-indent: 24px;
+  text-indent: 0px;
   margin-top: 0 !important;
 }
 
