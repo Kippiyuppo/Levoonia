@@ -1,16 +1,21 @@
 ---
 layout: default
 title: Főoldal
-nav_order: 5
-has_children: true
 ---
 
 # Üdv az oldalamon!
 
-<nav class="custom-navbar">
-  <a href="/Levoonia/">Kezdőlap</a>
-  <a href="/Levoonia/bevezetes/">Bevezetés</a>
-  <a href="/Levoonia/hasznalat/">Használat</a>
-  <a href="/Levoonia/gyik/">GYIK</a>
-  <a href="/Levoonia/kapcsolat/">Kapcsolat</a>
+<nav class="dropdown-navbar">
+  <ul>
+    <li><a href="/Levoonia/">Kezdőlap</a></li>
+    <li>
+      <a href="#">Dokumentáció</a>
+      <ul>
+        <li><a href="/Levoonia/bevezetes/">Bevezetés</a></li>
+        <li><a href="/Levoonia/hasznalat/">Használat</a></li>
+        <li><a href="/Levoonia/gyik/">GYIK</a></li>
+      </ul>
+    </li>
+    <li><a href="/Levoonia/kapcsolat/">Kapcsolat</a></li>
+  </ul>
 </nav>
