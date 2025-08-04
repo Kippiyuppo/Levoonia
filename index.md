@@ -36,11 +36,3 @@ title: Főoldal
 
 # Üdv az oldalamon!
 A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló fantasy kalandjáték, ami a Dungeons & Dragons szerepjáték szabályait veszi alapul.
-
-<script>
-  function toggleMenu() {
-    const menu = document.querySelector('.dropdown-navbar ul');
-    menu.classList.toggle('mobile-hidden');
-    menu.classList.toggle('mobile-visible');
-  }
-</script>
