@@ -7,9 +7,10 @@ has_children: true
 
 # Üdv az oldalamon!
 
-## Races
-- Racial Traits
-- Dwarf
-    - Dwarf Traits
-- Elf
-    - Elf Traits
+<nav class="custom-navbar">
+  <a href="/Levoonia/">Kezdőlap</a>
+  <a href="/Levoonia/bevezetes/">Bevezetés</a>
+  <a href="/Levoonia/hasznalat/">Használat</a>
+  <a href="/Levoonia/gyik/">GYIK</a>
+  <a href="/Levoonia/kapcsolat/">Kapcsolat</a>
+</nav>
