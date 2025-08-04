@@ -1,0 +1,13 @@
+body {
+  background-color: #fff8f5;
+  color: #2b1a1a;
+  font-family: Georgia, serif;
+}
+
+a {
+  color: #7a2b17;
+}
+
+a:hover {
+  color: #c04a2d;
+}
