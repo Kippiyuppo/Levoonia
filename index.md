@@ -3,8 +3,6 @@ layout: default
 title: Főoldal
 ---
 
-# Üdv az oldalamon!
-
 <nav class="dropdown-navbar">
   <ul>
     <li><a href="/Levoonia/">Kezdőlap</a></li>
@@ -19,3 +17,6 @@ title: Főoldal
     <li><a href="/Levoonia/kapcsolat/">Kapcsolat</a></li>
   </ul>
 </nav>
+
+# Üdv az oldalamon!
+A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló fantasy kalandjáték, ami a Dungeons & Dragons szerepjáték szabályait veszi alapul.
