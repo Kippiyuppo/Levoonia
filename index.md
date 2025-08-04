@@ -6,7 +6,7 @@ title: Főoldal
 # Üdv az oldalamon!
 
 ## Races
-    - Racial Traits
+- Racial Traits
 - Dwarf
     - Dwarf Traits
 - Elf
