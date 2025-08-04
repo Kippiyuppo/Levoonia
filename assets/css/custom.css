@@ -145,3 +145,18 @@ blockquote {
   padding: 5px 10px;
   white-space: nowrap;
 }
+
+
+.navbar-container {
+  position: relative;
+  background-color: #f7ebcb;
+  padding: 10px;
+}
+
+.hamburger {
+  font-size: 24px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: none; /* csak mobilon jelenik meg */
+}
