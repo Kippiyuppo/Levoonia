@@ -1,6 +1,10 @@
-body {
+html, body {
+  font-family: 'Libre Baskerville', serif !important;
+}
+
+html, body {
   background: #f7ebcb;
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Libre Baskerville', serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
