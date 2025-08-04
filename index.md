@@ -7,14 +7,30 @@ title: Főoldal
   <ul>
     <li><a href="/Levoonia/">Kezdőlap</a></li>
     <li>
-      <a href="#">Dokumentáció</a>
+      <a href="#">Races</a>
       <ul>
-        <li><a href="/Levoonia/bevezetes/">Bevezetés</a></li>
-        <li><a href="/Levoonia/hasznalat/">Használat</a></li>
-        <li><a href="/Levoonia/gyik/">GYIK</a></li>
+        <li><a href="/Levoonia/Races/Elf">Elf</a></li>
+        <li><a href="/Levoonia/Races/Dwarf">Dwarf</a></li>
+        <li><a href="/Levoonia/Races/Halfling">Halfling</a></li>
+        <li><a href="/Levoonia/Races/Human">Human</a></li>
+        <li><a href="/Levoonia/Races/Gnome">Gnome</a></li>
+        <li><a href="/Levoonia/Races/Half-Elf">Half-Elf</a></li>
+        <li><a href="/Levoonia/Races/Half-Orc">Half-Orc</a></li>
       </ul>
     </li>
-    <li><a href="/Levoonia/kapcsolat/">Kapcsolat</a></li>
+    <li>
+      <a href="#">Classes</a>
+      <ul>
+        <li><a href="/Levoonia/Classes/Barbarian">Barbarian</a></li>
+        <li><a href="/Levoonia/Races/Dwarf">Dwarf</a></li>
+        <li><a href="/Levoonia/Races/Halfling">Halfling</a></li>
+        <li><a href="/Levoonia/Races/Human">Human</a></li>
+        <li><a href="/Levoonia/Races/Gnome">Gnome</a></li>
+        <li><a href="/Levoonia/Races/Half-Elf">Half-Elf</a></li>
+        <li><a href="/Levoonia/Races/Half-Orc">Half-Orc</a></li>
+      </ul>
+    </li>
+    <li><a href="/Levoonia/Characterization/Alignment">Alignment</a></li>
   </ul>
 </nav>
 
