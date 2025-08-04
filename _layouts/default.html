@@ -1,1 +1,15 @@
-{{ content }} {% if site.minima.include_custom_head %} {% include head-custom.html %} {% endif %} {% include navbar.html %} {{ content }}
+!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    {{ content }}
+    {% if site.minima.include_custom_head %}
+      {% include head-custom.html %}
+    {% endif %}
+  </head>
+  <body>
+    {% include navbar.html %}
+    {{ content }}
+  </body>
+</html>
