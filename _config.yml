@@ -1,1 +1,2 @@
-markdown: kramdown
+# _config.yml
+theme: jekyll-theme-cayman
