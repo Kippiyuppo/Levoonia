@@ -107,6 +107,7 @@ blockquote {
   overflow-x: auto;         /* Görgethető, ha mégis kilóg */
   position: relative; /* szükséges az abszolút pozícionáláshoz */
   overflow: visible;  /* engedi, hogy a lenyíló menü kilógjon */
+  align-items: center; /* függőleges középre igazítás */
   z-index: 10;
 }
 
