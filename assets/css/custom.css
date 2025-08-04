@@ -101,7 +101,7 @@ blockquote {
   margin: 0;
   display: flex;
   gap: 1rem;
-  background-color: #f8f8f8;
+  background-color: #f7ebcb;
   border-bottom: 1px solid #ddd;
 }
 
@@ -115,7 +115,7 @@ blockquote {
 
 .dropdown-navbar a {
   text-decoration: none;
-  color: #007acc;
+  color: #7a2b17;
   font-weight: bold;
 }
 
@@ -125,7 +125,7 @@ blockquote {
   top: 100%;
   left: 0;
   flex-direction: column;
-  background-color: #ffffff;
+  background-color: #f7ebcb;
   border: 1px solid #ccc;
   padding: 0.5rem;
   z-index: 1000;
