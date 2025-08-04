@@ -95,6 +95,7 @@ blockquote {
 }
 
 /* NAVBAR */
+/* NAVBAR alap */
 .dropdown-navbar {
   background-color: #f7ebcb;
   border-bottom: 1px solid #ddd;
@@ -157,19 +158,7 @@ blockquote {
   white-space: nowrap;
 }
 
-/* Hamburger gomb mobilra */
-.hamburger {
-  font-size: 24px;
-  background: none;
-  border: none;
-  cursor: pointer;
-  display: none;
-  margin-right: 1rem;
-  line-height: 1;
-  vertical-align: middle;
-}
-
-/* Mobilnézet */
+/* Mobilbarát alap (nem hamburger) */
 @media (max-width: 768px) {
   .dropdown-navbar ul {
     flex-direction: column;
@@ -182,17 +171,5 @@ blockquote {
     box-shadow: none;
     max-height: none;
     overflow: visible;
-  }
-
-  .hamburger {
-    display: block;
-  }
-
-  .dropdown-navbar ul.mobile-hidden {
-    display: none;
-  }
-
-  .dropdown-navbar ul.mobile-visible {
-    display: flex;
   }
 }
