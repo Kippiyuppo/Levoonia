@@ -70,7 +70,7 @@ a:hover {
 }
 
 blockquote {
-  background-color: #E8E9D7 !important;
+  background-color: #e9ecda !important;
   border-left: 4px solid #7a2b17;
   padding: 1em;
   margin: 1.5em 0;
@@ -86,7 +86,7 @@ blockquote {
   }
 
   .box {
-    background-color: C2E3BC;
+    background-color: e9ecda !important;
     margin: 1rem 0;
     padding: 1rem;
   }
