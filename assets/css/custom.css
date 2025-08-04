@@ -1,6 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
-
-/* Színváltozók kódba égetve, mert CSS nem támogat változókat ilyen módon */
 body {
   background: #f7ebcb;
   font-family: 'Libre Baskerville', serif;
