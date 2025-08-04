@@ -93,3 +93,22 @@ blockquote {
     color: #3E3838 !important;
   }
 }
+
+/* NAVBAR */
+.custom-navbar {
+  display: flex;
+  gap: 1rem;
+  background-color: #f8f8f8;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.custom-navbar a {
+  text-decoration: none;
+  color: #007acc;
+  font-weight: bold;
+}
+
+.custom-navbar a:hover {
+  text-decoration: underline;
+}
