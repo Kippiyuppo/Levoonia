@@ -1,13 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
+
+/* Színváltozók kódba égetve, mert CSS nem támogat változókat ilyen módon */
 body {
-  background-color: #fff8f5;
-  color: #2b1a1a;
-  font-family: Georgia, serif;
+  background: #f7ebcb;
+  font-family: 'Libre Baskerville', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+  color: #000;
+  line-height: 1.4;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: #7a2b17;
+  text-transform: uppercase;
+  line-height: 1.1;
+  margin: 24px 0 12px 0;
+}
+
+h1::first-letter,
+h2::first-letter,
+h3::first-letter,
+h4::first-letter,
+h5::first-letter,
+h6::first-letter {
+  font-size: 150%;
+}
+
+h1 {
+  font-size: 24px;
+  border-bottom: 2px solid tan;
+  padding-bottom: 4px;
+}
+
+h2 {
+  border-bottom: 2px solid tan;
+  padding-bottom: 2px;
+}
+
+p {
+  margin: 0;
+}
+
+p + p {
+  text-indent: 24px;
+  margin-top: 0 !important;
+}
+
+.box {
+  background-color: white;
+  padding: 16px;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  overflow: hidden;
+  margin: 16px 0;
+}
+
+/* Alap linkek */
 a {
   color: #7a2b17;
+  text-decoration: underline;
 }
 
 a:hover {
-  color: #c04a2d;
+  color: #a8371f;
+}
+
+/* Mobilbarát minimális igazítás */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 16px;
+    padding: 1rem;
+  }
+
+  .box {
+    margin: 1rem 0;
+    padding: 1rem;
+  }
 }
