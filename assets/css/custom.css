@@ -108,6 +108,7 @@ blockquote {
   position: relative; /* szükséges az abszolút pozícionáláshoz */
   overflow: visible;  /* engedi, hogy a lenyíló menü kilógjon */
   align-items: center; /* függőleges középre igazítás */
+  list-style: none; /* eltünteti a pontokat/karikákat */
   z-index: 10;
 }
 
