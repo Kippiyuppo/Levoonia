@@ -34,5 +34,18 @@ title: Főoldal
   </ul>
 </nav>
 
+### Itt a hamburger menüre egy példa:
+
+<div class="navbar-container">
+  <button class="hamburger" onclick="toggleMenu()">☰</button>
+  <nav id="mobile-menu" class="mobile-menu">
+    <a href="/Levoonia/">Kezdőlap</a>
+    <a href="/Levoonia/bevezetes/">Bevezetés</a>
+    <a href="/Levoonia/hasznalat/">Használat</a>
+    <a href="/Levoonia/gyik/">GYIK</a>
+    <a href="/Levoonia/kapcsolat/">Kapcsolat</a>
+  </nav>
+</div>
+
 # Üdv az oldalamon!
 A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló fantasy kalandjáték, ami a Dungeons & Dragons szerepjáték szabályait veszi alapul.
