@@ -5,7 +5,7 @@ title: Főoldal
 
 <nav class="dropdown-navbar">
   <ul>
-    <li><a href="/Levoonia/">Kezdőlapv2</a></li>
+    <li><a href="/Levoonia/">Kezdőlap</a></li>
     <li>
       <a href="#">Races</a>
       <ul>
