@@ -95,20 +95,47 @@ blockquote {
 }
 
 /* NAVBAR */
-.custom-navbar {
+.dropdown-navbar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
   display: flex;
   gap: 1rem;
   background-color: #f8f8f8;
-  padding: 10px;
   border-bottom: 1px solid #ddd;
 }
 
-.custom-navbar a {
+.dropdown-navbar li {
+  position: relative;
+}
+
+.dropdown-navbar > ul > li {
+  padding: 10px;
+}
+
+.dropdown-navbar a {
   text-decoration: none;
   color: #007acc;
   font-weight: bold;
 }
 
-.custom-navbar a:hover {
-  text-decoration: underline;
+.dropdown-navbar ul ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  flex-direction: column;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  z-index: 1000;
+}
+
+.dropdown-navbar li:hover > ul {
+  display: block;
+}
+
+.dropdown-navbar ul ul li {
+  padding: 5px 10px;
+  white-space: nowrap;
 }
