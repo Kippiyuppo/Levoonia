@@ -5,7 +5,7 @@ title: Főoldal
 A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló fantasy kalandjáték, ami a Dungeons & Dragons szerepjáték szabályait veszi alapul.
 
 ## Characters
-
+Az alábbi menüből válasszd, ami érdekel téged!
 <nav class="dropdown-navbar">
   <ul>
     <li><a href="/Levoonia/Characterizations/Step-by-Step Characters">Creating a character</a></li>
