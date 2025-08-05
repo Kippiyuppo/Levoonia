@@ -2,7 +2,9 @@
 layout: default
 title: Főoldal
 ---
-A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló fantasy kalandjáték, ami a Dungeons & Dragons szerepjáték szabályait veszi alapul.
+This ruleset offers a hybrid role-playing system that merges the structure and tone of AD&D with the streamlined mechanics of 5th Edition, creating a modern framework designed to support old-school style gameplay.
+
+The system is built for those who appreciate the challenge, unpredictability, and player-driven problem solving of classic tabletop adventures, but who also seek the clarity, consistency, and accessibility found in contemporary rulesets. It does not attempt to reinvent the genre; rather, it provides a refined set of tools to emulate the experience of early fantasy gaming, without the burden of outdated mechanics or unnecessary complexity.
 
 <nav class="dropdown-navbar">
   <ul>
