@@ -95,9 +95,14 @@ blockquote {
 }
 
 /* NAVBAR */
-.dropdown-navbar {
+.dropdown-navbar 1st {
   position: relative;
-  z-index: 1;
+  z-index: 10;
+}
+
+.dropdown-navbar 2nd {
+  position: relative;
+  z-index: 10;
 }
 
 .dropdown-navbar ul {
@@ -146,7 +151,19 @@ blockquote {
   z-index: 500;
 }
 
-.dropdown-navbar ul ul {
+.dropdown-navbar 1st ul ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  flex-direction: column;
+  background-color: #f7ebcb;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  z-index: 2000;
+}
+
+.dropdown-navbar 2nd ul ul {
   display: none;
   position: absolute;
   top: 100%;
