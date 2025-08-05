@@ -67,14 +67,5 @@ The system is built for those who appreciate the challenge, unpredictability, an
         <li><a href="/Levoonia/Spells/magic-user-spells">Magic User</a></li>
       </ul>
     </li>    
-    <li>
-      <a href="#">Spell Lists</a></li>
-      <ul>
-        <li><a href="/Levoonia/Spells/cleric-spells">Cleric</a></li>
-        <li><a href="/Levoonia/Spells/druid-spells">Druid</a></li>
-        <li><a href="/Levoonia/Spells/illusionist-spells">Illusionist</a></li>
-        <li><a href="/Levoonia/Spells/magic-user-spells">Magic User</a></li>
-      </ul>
-    </li>
   </ul>
 </nav>
