@@ -75,8 +75,9 @@ a.anchorjs-link::after {
   font-size: 1em;
   vertical-align: middle;
   margin-left: 0.25em;
-  color: currentColor;
+  color: red;
   user-select: none;
+  text-decoration: none;
 }
 
 blockquote {
