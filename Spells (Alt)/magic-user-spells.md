@@ -1,0 +1,3514 @@
+# Magic User Spells
+
+[Affect Normal Fires](#MagicUserSpells-AffectNormalFires) | [Airy Water](#MagicUserSpells-AiryWater) | [Animal Growth (Reversible)](#MagicUserSpells-AnimalGrowth(Reversible)) | [Animate Dead](#MagicUserSpells-AnimateDead) | [Anti-Magic Shell](#MagicUserSpells-Anti-MagicShell) | [Antipathy/Sympathy](#MagicUserSpells-Antipathy/Sympathy) | [Astral Spell](#MagicUserSpells-AstralSpell) | [Audible Glamour](#MagicUserSpells-AudibleGlamour) | [Blink](#MagicUserSpells-Blink) | [Burning Hands](#MagicUserSpells-BurningHands) | [Cacodemon](#MagicUserSpells-Cacodemon) | [Charm Monster](#MagicUserSpells-CharmMonster) | [Charm Person](#MagicUserSpells-CharmPerson) | [Charm Plants](#MagicUserSpells-CharmPlants) | [Clairaudience](#MagicUserSpells-Clairaudience) | [Clairvoyance](#MagicUserSpells-Clairvoyance) | [Clenched Fist](#MagicUserSpells-ClenchedFist) | [Clone](#MagicUserSpells-Clone) | [Cloudkill](#MagicUserSpells-Cloudkill) | [Comprehend Languages (Reversible)](#MagicUserSpells-ComprehendLanguages(Reversible)) | [Cone of Cold](#MagicUserSpells-ConeofCold) | [Confusion](#MagicUserSpells-Confusion) | [Conjure Elemental](#MagicUserSpells-ConjureElemental) | [Contact Other Plane](#MagicUserSpells-ContactOtherPlane) | [Continual Light](#MagicUserSpells-ContinualLight) | [Control Weather](#MagicUserSpells-ControlWeather) | [Crushing Hand](#MagicUserSpells-CrushingHand) | [Dancing Lights](#MagicUserSpells-DancingLights) | [Darkness, 15-ft Radius](#MagicUserSpells-Darkness,15-ftRadius) | [Death Spell](#MagicUserSpells-DeathSpell) | [Delayed Blast Fireball](#MagicUserSpells-DelayedBlastFireball) | [Detect Evil (Reversible)](#MagicUserSpells-DetectEvil(Reversible)) | [Detect Invisibility](#MagicUserSpells-DetectInvisibility) | [Detect Magic](#MagicUserSpells-DetectMagic) | [Dig](#MagicUserSpells-Dig) | [Dimension Door](#MagicUserSpells-DimensionDoor) | [Disintegrate](#MagicUserSpells-Disintegrate) | [Dispel Magic](#MagicUserSpells-DispelMagic) | [Distance Distortion](#MagicUserSpells-DistanceDistortion) | [Duo-Dimension](#MagicUserSpells-Duo-Dimension) | [Enchant an Item](#MagicUserSpells-EnchantanItem) | [Enchanted Weapon (Reversible)](#MagicUserSpells-EnchantedWeapon(Reversible)) | [Enlarge (Reversible)](#MagicUserSpells-Enlarge(Reversible)) | [Erase](#MagicUserSpells-Erase) | [ESP](#MagicUserSpells-ESP) | [Explosive Runes](#MagicUserSpells-ExplosiveRunes) | [Extension I](#MagicUserSpells-ExtensionI) | [Extension II](#MagicUserSpells-ExtensionII) | [Extension III](#MagicUserSpells-ExtensionIII) | [False Trap](#MagicUserSpells-FalseTrap) | [Fear](#MagicUserSpells-Fear) | [Feather Fall](#MagicUserSpells-FeatherFall) | [Feeblemind](#MagicUserSpells-Feeblemind) | [Feign Death](#MagicUserSpells-FeignDeath) | [Find Familiar](#MagicUserSpells-FindFamiliar) | [Fire Charm](#MagicUserSpells-FireCharm) | [Fire Shield](#MagicUserSpells-FireShield) | [Fire Trap](#MagicUserSpells-FireTrap) | [Fireball](#MagicUserSpells-Fireball) | [Flame Arrow](#MagicUserSpells-FlameArrow) | [Floating Disk](#MagicUserSpells-FloatingDisk) | [Fly](#MagicUserSpells-Fly) | [Fool's Gold](#MagicUserSpells-Fool'sGold) | [Forceful Hand](#MagicUserSpells-ForcefulHand) | [Forget](#MagicUserSpells-Forget) | [Freezing Sphere](#MagicUserSpells-FreezingSphere) | [Friends](#MagicUserSpells-Friends) | [Fumble](#MagicUserSpells-Fumble) | [Gate](#MagicUserSpells-Gate) | [Geas](#MagicUserSpells-Geas) | [Glass-steel](#MagicUserSpells-Glass-steel) | [Glasseye](#MagicUserSpells-Glasseye) | [Globe of Invulnerability](#MagicUserSpells-GlobeofInvulnerability) | [Grasping Hand](#MagicUserSpells-GraspingHand) | [Guards and Wards](#MagicUserSpells-GuardsandWards) | [Gust of Wind](#MagicUserSpells-GustofWind) | [Hallucinatory Terrain](#MagicUserSpells-HallucinatoryTerrain) | [Haste](#MagicUserSpells-Haste) | [Hold Monster](#MagicUserSpells-HoldMonster) | [Hold Person](#MagicUserSpells-HoldPerson) | [Hold Portal](#MagicUserSpells-HoldPortal) | [Ice Storm](#MagicUserSpells-IceStorm) | [Identify](#MagicUserSpells-Identify) | [Imprisonment (Reversible)](#MagicUserSpells-Imprisonment(Reversible)) | [Incendiary Cloud](#MagicUserSpells-IncendiaryCloud) | [Infravision](#MagicUserSpells-Infravision) | [Instant Summons](#MagicUserSpells-InstantSummons) | [Interposing Hand](#MagicUserSpells-InterposingHand) | [Invisibility](#MagicUserSpells-Invisibility) | [Invisibility, 10-ft Radius](#MagicUserSpells-Invisibility,10-ftRadius) | [Invisible Stalker](#MagicUserSpells-InvisibleStalker) | [Irresistible Dance](#MagicUserSpells-IrresistibleDance) | [Jump](#MagicUserSpells-Jump) | [Knock](#MagicUserSpells-Knock) | [Legend Lore](#MagicUserSpells-LegendLore) | [Levitate](#MagicUserSpells-Levitate) | [Light](#MagicUserSpells-Light) | [Lightning Bolt](#MagicUserSpells-LightningBolt) | [Limited Wish](#MagicUserSpells-LimitedWish) | [Locate Object](#MagicUserSpells-LocateObject) | [Lower Water (Reversible)](#MagicUserSpells-LowerWater(Reversible)) | [Mage's Faithful Hound](#MagicUserSpells-Mage'sFaithfulHound) | [Mage's Sword](#MagicUserSpells-Mage'sSword) | [Magic Aura](#MagicUserSpells-MagicAura) | [Magic Jar](#MagicUserSpells-MagicJar) | [Magic Missile](#MagicUserSpells-MagicMissile) | [Magic Mouth](#MagicUserSpells-MagicMouth) | [Mass Charm](#MagicUserSpells-MassCharm) | [Mass Invisibility](#MagicUserSpells-MassInvisibility) | [Massmorph](#MagicUserSpells-Massmorph) | [Maze](#MagicUserSpells-Maze) | [Mending](#MagicUserSpells-Mending) | [Message](#MagicUserSpells-Message) | [Meteor Swarm](#MagicUserSpells-MeteorSwarm) | [Mind Blank](#MagicUserSpells-MindBlank) | [Minor Globe of Invulnerability](#MagicUserSpells-MinorGlobeofInvulnerability) | [Mirror Image](#MagicUserSpells-MirrorImage) | [Mnemonic Enhancement](#MagicUserSpells-MnemonicEnhancement) | [Monster Summoning I](#MagicUserSpells-MonsterSummoningI) | [Monster Summoning II](#MagicUserSpells-MonsterSummoningII) | [Monster Summoning III](#MagicUserSpells-MonsterSummoningIII) | [Monster Summoning IV](#MagicUserSpells-MonsterSummoningIV) | [Monster Summoning V](#MagicUserSpells-MonsterSummoningV) | [Monster Summoning VI](#MagicUserSpells-MonsterSummoningVI) | [Monster Summoning VII](#MagicUserSpells-MonsterSummoningVII) | [Move Earth](#MagicUserSpells-MoveEarth) | [Part Water](#MagicUserSpells-PartWater) | [Passwall](#MagicUserSpells-Passwall) | [Permanency](#MagicUserSpells-Permanency) | [Phantasmal Force](#MagicUserSpells-PhantasmalForce) | [Phase Door](#MagicUserSpells-PhaseDoor) | [Plant Growth](#MagicUserSpells-PlantGrowth) | [Polymorph Object](#MagicUserSpells-PolymorphObject) | [Polymorph Other](#MagicUserSpells-PolymorphOther) | [Polymorph Self](#MagicUserSpells-PolymorphSelf) | [Power Word, Blind](#MagicUserSpells-PowerWord,Blind) | [Power Word, Kill](#MagicUserSpells-PowerWord,Kill) | [Power Word, Stun](#MagicUserSpells-PowerWord,Stun) | [Prismatic Sphere](#MagicUserSpells-PrismaticSphere) | [Project Image](#MagicUserSpells-ProjectImage) | [Protection From Evil (Reversible)](#MagicUserSpells-ProtectionFromEvil(Reversible)) | [Protection From Evil, 10-ft Radius (Reversible)](#MagicUserSpells-ProtectionFromEvil,10-ftRadius(Reversible)) | [Protection From Normal Missiles](#MagicUserSpells-ProtectionFromNormalMissiles) | [Push](#MagicUserSpells-Push) | [Pyrotechnics](#MagicUserSpells-Pyrotechnics) | [Ray of Enfeeblement](#MagicUserSpells-RayofEnfeeblement) | [Read Magic (Reversible)](#MagicUserSpells-ReadMagic(Reversible)) | [Remove Curse (Reversible)](#MagicUserSpells-RemoveCurse(Reversible)) | [Reincarnation](#MagicUserSpells-Reincarnation) | [Repulsion](#MagicUserSpells-Repulsion) | [Reverse Gravity](#MagicUserSpells-ReverseGravity) | [Rope Trick](#MagicUserSpells-RopeTrick) | [Scare](#MagicUserSpells-Scare) | [Secret Chest](#MagicUserSpells-SecretChest) | [Shape Change](#MagicUserSpells-ShapeChange) | [Shatter](#MagicUserSpells-Shatter) | [Shield](#MagicUserSpells-Shield) | [Shocking Grasp](#MagicUserSpells-ShockingGrasp) | [Simulacrum](#MagicUserSpells-Simulacrum) | [Sleep](#MagicUserSpells-Sleep) | [Slow](#MagicUserSpells-Slow) | [Spell Immunity](#MagicUserSpells-SpellImmunity) | [Spider Climb](#MagicUserSpells-SpiderClimb) | [Spirit-Rack](#MagicUserSpells-Spirit-Rack) | [Statue](#MagicUserSpells-Statue) | [Stinking Cloud](#MagicUserSpells-StinkingCloud) | [Stone Shape](#MagicUserSpells-StoneShape) | [Stone to Flesh (Reversible)](#MagicUserSpells-StonetoFlesh(Reversible)) | [Strength](#MagicUserSpells-Strength) | [Suggestion](#MagicUserSpells-Suggestion) | [Symbol](#MagicUserSpells-Symbol) | [Telekinesis](#MagicUserSpells-Telekinesis) | [Teleport](#MagicUserSpells-Teleport) | [Temporal Stasis (Reversible)](#MagicUserSpells-TemporalStasis(Reversible)) | [Time Stop](#MagicUserSpells-TimeStop) | [Tiny Hut](#MagicUserSpells-TinyHut) | [Tongues (Reversible)](#MagicUserSpells-Tongues(Reversible)) | [Transformation](#MagicUserSpells-Transformation) | [Transmute Rock to Mud](#MagicUserSpells-TransmuteRocktoMud) | [Trap the Soul](#MagicUserSpells-TraptheSoul) | [Unseen Servant](#MagicUserSpells-UnseenServant) | [Vanish](#MagicUserSpells-Vanish) | [Ventriloquism](#MagicUserSpells-Ventriloquism) | [Wall of Fire](#MagicUserSpells-WallofFire) | [Wall of Force](#MagicUserSpells-WallofForce) | [Wall of Ice](#MagicUserSpells-WallofIce) | [Wall of Iron](#MagicUserSpells-WallofIron) | [Wall of Stone](#MagicUserSpells-WallofStone) | [Water Breathing (Reversible)](#MagicUserSpells-WaterBreathing(Reversible)) | [Web](#MagicUserSpells-Web) | [Wish](#MagicUserSpells-Wish) | [Wizard Eye](#MagicUserSpells-WizardEye) | [Wizard Lock](#MagicUserSpells-WizardLock) | [Write](#MagicUserSpells-Write)
+
+Unlike clerical and druidic spells, magic user spells do not require a holy symbol or mistletoe as material components.
+
+### Affect Normal Fires
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 5-ft/caster level |
+| **Duration:** | 1 round/caster level |
+| **Area of Effect:** | 1½-ft radius fire |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+With arcane words and gestures, the magic user may command small fires, up to a limit of 1½-ft in radius, to grow smaller or larger. Any fire within the spell's size limitations may be made as small as a candle flame or turned into a bonfire up to 3-ft in diameter. An affected fire only consumes fuel appropriate to its new size, but will continue to radiate the same heat as a fire of its original size.
+
+### Airy Water
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | Caster |
+| **Duration:** | 1 turn/level |
+| **Area of Effect:** | 10-ft radius sphere or 20-ft radius hemisphere |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+This spell transforms water or other non-magical liquids into a bubble of air in the area surrounding the caster. The bubble has the same density as water and will not support the magic user in the water; he or she will sink or float as normal, surrounded by the bubble's atmosphere. The oxygen content of the air in the bubble does not run out until the spell expires.
+
+### Animal Growth (Reversible)
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 60-ft |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Up to 8 animals in a 20-ft square area |
+| **Components:** | V,S |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+This spell causes up to 8 animals in the area of effect to grow to twice normal size, doubling their hit dice and the damage they inflict. The spell does not influence the animals' attitude toward the caster, so it is advisable to ensure ahead of time that they are friendly. The reverse of the spell halves their size and damage inflicted.
+
+### Animate Dead
+
+*Arcane Necromancy*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 10-ft |
+| **Duration:** | Permanent |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 rounds |
+| **Saving Throw:** | None |
+
+By casting this spell, the caster calls the bones or bodies of dead humans or humanoids to rise and become lesser undead (skeletons or zombies). The undead will obey their creator's simple commands, following him or her, or perhaps guarding a location he or she designates against any creature (or not guarding it against certain creatures) that might enter. The spell's effects are permanent, but can be dispelled by the use of *dispel magic*. Use of this spell is inherently not in accordance with the good alignments and is seldom used by good characters unless there is pressing need. Moreover, casting the spell in the confines of a city may subject the caster to inquiry by secular and religious authorities alike. A caster may animate one zombie or skeleton per caster level.
+
+### Anti-Magic Shell
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | Caster |
+| **Duration:** | 1 turn/level |
+| **Area of Effect:** | 5-ft radius/level globe |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+An *anti-magic shell* is a bubble of space around the magic user that completely prevents all magic from operating within its confines. Spell effects do not enter or function within the shell, providing the caster with complete protection from gaze attacks, hostile spells, and even the entrance of conjured or summoned creatures into his or her vicinity. The drawback of an anti-magic shell, of course, is that the caster him- or herself cannot cast spells or avail him- or herself of magic items while inside. Magic weapons, armour, and the like do not gain their bonuses or abilities while inside the shell, but would still function as non-magical weapons or armour.
+
+### Antipathy/Sympathy
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 30-ft |
+| **Duration:** | 12 turns/level |
+| **Area of Effect:** | Area 10 cubic-ft/level, or a single object |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 turns |
+| **Saving Throw:** | See below |
+
+This spell affects an area or an object with a magical aura that repels or attracts a certain, specified type of being. Either a race of creature or an alignment must be specified. Note that if the spell is cast upon an object rather than an area, the targeted type of creature will have a penalty of -2 on the saving throw. If the magic user creates an antipathy for the area or object, the targeted creature type will feel an intense desire to stay away from it. A saving throw applies, permitting the creature to remain, or to touch the object, but even if the saving throw is successful the creature will feel extremely uncomfortable in its presence. Creatures that are able to remain in the area or near the object will begin to lose 1 point of dexterity per round (maximum 4 points) from discomfort.
+
+If the magic user creates sympathy for an object or area, on the other hand, the targeted creature type will feel attracted to the area or object, pleased to remain in the vicinity, or covetous of the “precious” item. If the creature does not make a saving throw, it will do whatever is in its power to stay in contact with the area or the enchanted object.
+
+### Astral Spell
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | Touch |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V,S |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | None |
+
+*Astral spell* allows the caster and up to five companions to leave their material bodies and travel through the astral plane to other planes of existence. As the spell is cast, the character's material body enters a trance-like state of suspended animation while his or her consciousness enters the astral plane. The astral plane is a nexus with other planes of existence beyond, and the caster may choose to enter these other planes of existence. If a character does transcend from the astral into another plane, he or she becomes a physical manifestation in that existence, forming a duplicate body identical to the one left in stasis back in the material plane. It is possible to travel astrally to other locations in the material plane, but a new body cannot be formed in a plane where the character already has a physical manifestation. While travelling in the astral plane, and after a new physical manifestation has formed on a plane beyond the astral, the character remains connected to his or her original body by a “silver cord,” an invisible, mystical link. If the silver cord is broken or severed (some threats in the astral plane can cause this to happen), the character dies, both on the material plane and in astral form.
+
+Most magic items lose some or all of their power on the astral plane. Unless an item's magical qualities are imbued so deeply as to exist in many planes, an astral traveller's physical manifestation on another plane will be equipped with only the unenchanted substance of otherwise magic items and weapons.
+
+### Audible Glamour
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 60-ft+10-ft/level |
+| **Duration:** | 2 rounds/level |
+| **Area of Effect:** | Hearing distance from targeted point |
+| **Components:** | V,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | See below |
+
+This spell is, as its name suggests, the creation of illusory sounds. The caster designates a focal point for the spell, which must, of course, be within the spell's range. The focal point can be moved by the caster at will until the spell's duration expires. The spell can create any type of sound, but the maximum volume of the noise depends upon the caster's level. A third level caster can produce the noise of 4 people shouting (or acting more quietly). Each additional caster level allows the caster to add the sound of four more people into the illusion. As a benchmark, the sound of an explosion or landslide would require a caster level of approximately 8th. Listeners are only entitled to saving throws if they have cause to doubt the apparent sounds. Players must state such disbelief, while the GM will make such determinations for monsters and NPCs based on the plausibility of the audible glamour.
+
+### Blink
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Caster |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Caster |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+This spell is a weak and rather unreliable form of one of the true mage's most powerful capabilities: teleportation magic. For the duration of the spell, the magic user teleports 2-ft in a random direction once per round. The segment in which the magic user disappears and reappears is determined on 2d4, while the compass direction is rolled on a d8. If the direction roll would result in the caster being teleported into a solid object, the caster will blink a second time, for a distance of no more than 10-ft. If this second blink also results in the caster occupying a solid object, the spell will end, marooning the caster in the æthereal plane of existence. During and after the segment in which the teleportation occurs, the magic user's sudden change of location prevents any direct attacks upon him or her. The caster may only be attacked directly if the attack is made before the blink takes place. If the caster teleports both from and into an area which is affected by an area-of-effect spell, he will suffer its effects. The constant changes of location take a toll upon the caster, who has a 25% chance of failing at attempts to cast spells, use most magic items, or take any action beyond making physical attacks.
+
+### Burning Hands
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Caster |
+| **Duration:** | 1 round |
+| **Area of Effect:** | Fan of flame 3-ft long in a 120-degree arc |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+While casting this spell, the magic user touches his or her thumbs together, and a sheet of flame explodes from his or her fingers to burn opponents within the spell's short (3-ft) range. The flames inflict 1 hp of damage per caster level (no saving throw applies). Any combustible items caught in the sheet of flame must pass a saving throw against normal fire or be destroyed.
+
+### Cacodemon
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | 10-ft |
+| **Duration:** | See below |
+| **Area of Effect:** | One summoned creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 hours |
+| **Saving Throw:** | See below |
+
+This spell summons a demon or other fiend (such as a devil) from the lower planes of existence into the material planes. In order to cast the spell, the caster must know the fiend's true name, but such information is often contained in forbidden tomes of lost lore. The spell cannot summon the lesser sorts of demons that have no personal names, nor is it powerful enough to summon members of the demonic or diabolical nobility. The spell provides no protection whatsoever against the wrath of the summoned creature–and make no mistake, the summoned creature will be extremely resentful of the caster's temerity.
+
+In general, this spell is cast only with multiple protections against the summoned fiend, such as a pentacle to contain the demon and a magic circle to protect the magic user. The exact nature of any discussions or negotiations with creatures of the nether planes is, of course, a matter to be handled in the course of the game, with the GM deciding what the fiend is thinking and how it acts.
+
+It is treacherous in the extreme to deal with demons, for they are intelligent and ruthless. They are not, however, unreliable; since the caster knows the fiend's true name, it is compelled to abide by any agreements it might make, although it might be able to twist the spirit of the agreement while still abiding to the letter of it.
+
+Certain spells (*spirit-rack* or *trap the soul*, for example) can be (and often are) used to strengthen the magic user's hand in any negotiations with a demon.
+
+### Charm Monster
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 60-ft |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V,S |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | Negates |
+
+This spell operates as *charm person* does, but can affect any living creature; possibly more than one, depending on the monsters' level value. See the chart below:
+
+|     |     |     |
+| --- | --- | --- |
+| **Level value of monsters** | **Number affected** | **Chance/week to break enchantment** |
+| Level 1 | 2d4 | 5%  |
+| Level 2 | 1d4 | 10% |
+| Level 3 | 1d2 | 15% |
+| Level 4 | 1   | 25% |
+| Level 5 | 1   | 35% |
+| Level 6 | 1   | 45% |
+| Level 7 | 1   | 60% |
+| Level 8 | 1   | 75% |
+| Level 9+ | 1   | 90% |
+
+### Charm Person
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 120-ft |
+| **Duration:** | See below |
+| **Area of Effect:** | One person |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | Negates |
+
+The powerful enchantment woven by this spell will affect any “person,” meaning character races (but note that elves are 90% resistant), and humanoids (as defined in Chapter 5) up to a ceiling of one hit die of charmed creatures per character level at any one time. If the target creature fails a saving throw, it will view the magic user as a trusted friend, interpreting his or her every word in its most positive light.
+
+Charmed creatures will place themselves into moderate danger, including combat, on the caster's behalf, but will not undertake risks beyond those the creature might ordinarily take. The magic user must be able to talk to the charmed creature if he or she is to give it any sort of complex “request.” Charmed creatures are allowed periodic saving throws to break the charm, based on intelligence:
+
+|     |     |
+| --- | --- |
+| 19+ | one saving throw/day |
+| 18  | one saving throw/2 days |
+| 17  | one saving throw/3 days |
+| 15-16 | one saving throw/week |
+| 13-14 | one saving throw/2 weeks |
+| 10-12 | one saving throw/3 weeks |
+| 7-9 | one saving throw/month |
+| 4-6 | one saving throw/2 months |
+| 3 or less | one saving throw/3 months |
+
+The charm will be broken automatically if the magic user obviously tries to harm the charmed creature.
+
+### Charm Plants
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | 30-ft |
+| **Duration:** | Permanent |
+| **Area of Effect:** | 30-ft×10-ft |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | Negates |
+
+This spell grants the magic user the ability to communicate with (for a period of 1 turn) and command plants (the obedience is permanent) in the spell's area of effect. No unusual abilities are granted to the plants; they have no additional capabilities beyond those they had before the spell was cast. Only intelligent plants are entitled to a saving throw, but at a penalty of -4.
+
+### Clairaudience
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | See below |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+*Clairaudience* allows the caster to eavesdrop magically upon a particular location. There is no effective limit to the spell's range, but the location must either be familiar to the caster or be obvious, such as the top floor inside a tower the caster can see, or just beyond a dungeon door. The spell cannot penetrate metal; sheets of any type of metal between the caster and the target area will prevent the magic user from being able to scry upon the area. The caster will be able to hear sounds in a 6-ft radius of the spell's focal point. The spell cannot be used to scry across planes of existence; it is limited to locations in the same plane in which it is cast.
+
+### Clairvoyance
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | See below |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+*Clairvoyance*, together with *clairaudience*, is one of the classic “scrying” spells–spells that allow the caster to extend his or her perception and senses far into the distance to spy upon enemies and scout locations. *Clairvoyance* is a means of seeing events in a distant location. There is no effective limit to the spell's range, but the location must either be familiar to the caster or be obvious, such as the top floor inside a tower the caster can see, or just beyond a dungeon door.
+
+The spell cannot penetrate metal; sheets of any type of metal between the caster and the target area will prevent the magic user from being able to scry upon the area. The caster will be able to hear sounds in a 10-ft radius of the spell's focal point even if the area is dark. If the area is not dark, the caster will be able to see as if he or she were standing at the spell's focal point, for a normal distance but in all directions at once (for the vision is in his or her mind's eye).
+
+The spell cannot be used to scry across planes of existence; it is limited to locations in the same plane in which it is cast.
+
+### Clenched Fist
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 5-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Enchanted hand |
+| **Components:** | V,S,M |
+| **Casting Time:** | 8 segments |
+| **Saving Throw:** | None |
+
+As with the other *hand* spells, *clenched fist* evokes a magical hand, but in this case the hand is always at least as large as a giant's and is curled into a fist rather than held open. The clenched fist strikes one of the magic user's enemies per round, never missing, for so long as the caster concentrates upon it. No other activity is possible while concentrating, and breaking the caster's concentration ends the spell. The fist rolls a d20 to determine damage (it hits automatically): on a roll of 1-12, the fist deals 1d6 hp of damage; on a 13-15, it deals 2d6 hit points, on a roll of 16-19 it deals 3d6 hit points and stuns the opponent for one round, and on a roll of 20+ it deals 4d6 hit points and stuns the opponent for 3 rounds. If the opponent has already been stunned, the d20 roll receives a +4 bonus. As with the other *hand* spells, the hand has as many hit points as the caster's full hit points.
+
+### Clone
+
+*Arcane Necromancy*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | Touch |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | One clone |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn (See below) |
+| **Saving Throw:** | None |
+
+This eerie spell creates a true, living duplicate of a creature, grown in a vat in the magic user's laboratory and matured rapidly to adulthood. The clone has the level, the experience points, and the memories of the original person as of the time a piece of that person was obtained for the purpose of making a clone. If a clone and its original exist simultaneously, the magical flux of such a situation can drive either or both of them insane. Each will seek to destroy the other with an uncontrollable sense that something is horribly wrong while both exist.
+
+If the situation persists, the clone is 70% likely to go insane, a 20% chance that the original will go insane, and a 5% chance that both will become insane, with a 5% chance that both will somehow accept that they co-exist.
+
+It takes 2d4 months for the caster to grow the clone in his vats before it becomes a true duplicate of the original. If the process of vat-growth is interrupted prematurely, the clone will be utterly insane, hating all living things, and may become psychotic.
+
+### Cloudkill
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 10-ft |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Cloud 40-ft wide, 20-ft high, 20-ft deep |
+| **Components:** | V,S |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | See below |
+
+This spell calls into being a poisonous cloud of roiling vapour, heavier than air, which moves along the ground (or into holes) at a movement rate of 10-ft/round. The eldritch poison of the cloud is so virulent that it kills creatures of fewer than 4+1 HD instantly, with no saving throw. Creatures with 4+1 HD up to 5+1 HD are allowed a saving throw at -4, and creatures of 5+2 up to 6 HD must make a normal saving throw. Failure on the saving throw means that the victim dies. The spell is affected normally by winds, although it magically avoids rolling back over the caster under any circumstances. It is dispersed in 4 rounds by a strong wind, and by thick growths of vegetation if it rolls through these for a distance of 20-ft.
+
+### Comprehend Languages (Reversible)
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Caster |
+| **Duration:** | 5 rounds/caster level |
+| **Area of Effect:** | One written object or one creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | None |
+
+This spell allows the magic user to decipher a written language (including pictographs, but not including magical script), or to understand the speech of another creature. The spell does not permit the magic user to understand the “speech” of animals; only true, spoken languages can be understood. The caster gains no ability to speak or write the language, only to comprehend meaning. The spell's reverse makes a particular creature or piece of writing indecipherable, or may be used to cancel the effects of a *comprehend languages* spell.
+
+### Cone of Cold
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 0   |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | Cone 5-ft long per level, 1-ft radius at base per level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | Half |
+
+A *cone of cold* is a blast of magical cold originating from the caster's outstretched hand. The cone inflicts 1d4+1 hit points per level of the caster. All unprotected items in the area of effect may be destroyed if they fail item saving throws.
+
+### Confusion
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 120-ft |
+| **Duration:** | 2 rounds+1 round/level |
+| **Area of Effect:** | Up to 60-ft×60-ft |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | See below |
+
+This spell affects a base number of 2-16 creatures, but is otherwise identical to the druidic spell of the same name except as noted in the summary information above.
+
+### Conjure Elemental
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 60-ft |
+| **Duration:** | 1 turn/level |
+| **Area of Effect:** | Elemental creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+By means of this spell, the magic user calls an elemental being from the plane of air, fire, earth or water to do his or her bidding. The particular form of elemental to be summoned is a part of the spell's incantation, so the magic user must memorise the spell for a particular element. The magic user exerts control over the elemental by concentrating upon it, and if his or her concentration is broken by being damaged or grabbed, he or she will lose control of the elemental. The magic user's ability to control the elemental is limited to 30-ft. There is a 1 in 20 chance per round after the second round that the elemental will break free of the magic user's control even if the magic user is concentrating upon maintaining it.
+
+If the elemental breaks free of the magic user's control or if the magic user ceases to concentrate upon it, it will seek to attack the magic user as soon as it can finish any combat in which it is involved. A magic user can, of course, avail him- or herself of protections against an elemental such as the use of a magic circle or a *protection from evil* spell.
+
+The material component for this spell is a large quantity of the appropriate elemental substance.
+
+### Contact Other Plane
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | Caster |
+| **Duration:** | See below |
+| **Area of Effect:** | Caster |
+| **Components:** | V   |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+The caster divorces his or her mind from the rational reality of the material plane, accepting the fundamental contradictions of extra-planar realities, and making contact with the powers of the beyond. By means of this contact, he or she can query the powers and gain “yes or no” answers to the questions he or she poses. One question may be asked per 2 caster levels. The caster decides how deeply he or she wishes to probe into the realities beyond the material (unless he or she chooses to contact an elemental plane for information about that plane).
+
+The difficulty of the mental task is measured in terms of how many fundamental contradictions of reality the caster can assimilate and simultaneously juggle in his or her mind. The price of failure is insanity. Contacting an elemental plane provides a 90% chance that the being contacted will have the knowledge the magic user seeks, if the magic user is asking about the particular elemental plane.
+
+There is a 25% chance that the being will tell a lie, or that the information will be couched in such inherently contradictory language that it cannot be understood. If the magic user seeks information about the material plane or non-elemental planes, he or she must delve into the fundamental contradictions of extra-planar metaphysics, described on the following table;
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Number of fundamental metaphysical contradictions (selected by the caster)** | **Likelihood that the knowledge is available at this level of metaphysical abstraction** | **Likelihood that the interpretation of the information gleans the wrong result** | **Chance of insanity (reduced by 5% per point of intelligence over 15)** |
+| 1   | 60% | 35% | 5%  |
+| 2   | 65% | 33% | 10% |
+| 3   | 70% | 30% | 15% |
+| 4   | 75% | 27% | 20% |
+| 5   | 80% | 25% | 25% |
+| 6   | 85% | 22% | 30% |
+| 7   | 90% | 19% | 35% |
+| 8   | 95% | 15% | 40% |
+| 9   | 98% | 10% | 50% |
+
+If the caster is driven insane by what he or she finds or by simple cognitive breakdown, the insanity will last 1-10 weeks, and there is a 1% chance that the caster will die or commit suicide at the end of this period if it is not removed (by a *remove curse* spell, *wish*, etc.).
+
+### Continual Light
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 60-ft |
+| **Duration:** | Permanent |
+| **Area of Effect:** | 60-ft radius sphere |
+| **Components:** | V,S |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | See below |
+
+This spell brings into being a bright, magical illumination almost sufficient to rival the light of day. In all respects, the spell is identical to the first level cleric spell *light*, but its effects are permanent until dispelled. The light cast is greater than that produced by a *light* spell, extending 60-ft into the darkness. The magic user spell cannot be used to create *continual darkness*.
+
+### Control Weather
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 0   |
+| **Duration:** | 4d6 hours |
+| **Area of Effect:** | 4d4 square miles |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+The *control weather* spell brings about a rapid change in the weather for several square miles surrounding the point where the spell is cast. It requires no more than 10-40 minutes for the spell to take its full effect across the vast area it covers. The spell affects precipitation, temperature, and wind speed. Existing weather conditions cannot be utterly changed by the force of this spell; a clear day cannot be made cloudy, for instance, but it can be made partly cloudy. Hot weather can be made merely warm, and only a light breeze can be raised from calm weather.
+
+This spell may be cast successively to bring about a dramatic change, moving, for example, from a calm to a light breeze, from the breeze to a strong wind, and on the third casting to transform the strong wind into a gale.
+
+### Crushing Hand
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | 5-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | None |
+
+This spell calls into existence a large, floating hand much like that summoned by the other *hand* spells. The *crushing hand* attacks any foe the caster directs, grabbing it and squeezing with great power. Damage increases as the hand continues to constrict, doing 1d10 points of damage in the first round, 2d10 points of damage in the second and third round, and 4d10 points of damage per round thereafter. As with the other *hand* spells, the hand has as many hit points as its caster. The caster cannot engage in any other activity while directing the hand.
+
+### Dancing Lights
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 40-ft+10-ft/caster level |
+| **Duration:** | 2 rounds/caster level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+This spell creates small lights at a chosen distance, under the caster's control. The magic user may create 1-4 (at his or her option) torch-like lights, 1-4 (at his or her option) spherical lights, or a single, faintly human-like glow. The lights move at the caster's mental command, without any particular concentration required. If the magic user allows the lights to move beyond the spell's range, the lights will disappear and the spell will end.
+
+### Darkness, 15-ft Radius
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 turn+1 round/level |
+| **Area of Effect:** | 15-ft radius sphere |
+| **Components:** | V,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | See below |
+
+This spell creates an area of utter lightlessness, a magical darkness that prevents all natural vision, even infravision. The spell's effect is neutralised by (and neutralises) the counteracting effect of a light or continual light spell.
+
+### Death Spell
+
+*Arcane Necromancy*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 10-ft/level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | 5-ft×5-ft/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | None |
+
+Within its limit as to hit dice, this spell slays living creatures in the area of effect. Creatures of 9 or higher hit dice are not affected. The spell kills 4d20 “points” worth of creatures, where (for the purposes of this spell) any creature of fewer than 2 HD counts as one point, creatures of 2 to less than 4 HD count as 4 points, creatures of 4 to less than 7 HD count as 8 points, and creatures from 7 to less than 9 HD count as 10 points. Creatures of the lowest hit dice die first, and fractional “kills” (where insufficient points remain completely to slay the creature) have no effect. Material components for the spell cost 1,000 gp.
+
+### Delayed Blast Fireball
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | 100-ft+10-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | 20-ft radius sphere |
+| **Components:** | V,S,M |
+| **Casting Time:** | 7 segments |
+| **Saving Throw:** | Half |
+
+A delayed *blast fireball* is somewhat more powerful than a normal *fireball* (+1 damage on each die). At the time of casting, the magic user states an amount of time, from 1 segment (6 seconds) to 5 rounds (5 minutes), and the fireball will not explode until that time is reached. Otherwise, except as noted above, the spell functions as per the description of the *fireball* spell.
+
+### Detect Evil (Reversible)
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | Caster |
+| **Duration:** | 5 rounds/level |
+| **Area of Effect:** | Path 10-ft wide, 60-ft long |
+| **Components:** | V,S |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+This spell allows the magic user to detect emanations of evil (or good, in the case of the spell's reverse) within the spell's area of effect, a beam-like pathway. The spell detects evil, not danger, so it will be useless to discover such things as a mindless trap or a poisoned wineglass. Neither will it detect a cursed item unless the nature of the curse is such that the cursed item becomes inherently evil.
+
+### Detect Invisibility
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | Caster |
+| **Duration:** | 5 rounds/level |
+| **Area of Effect:** | Path 10-ft wide, 10-ft long/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+This spell allows the caster to see that which is invisible or hidden, and also to perceive the astral and æthereal planes.
+
+The spell's sight is limited to the stated range of 10-ft/caster level.
+
+### Detect Magic
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Caster |
+| **Duration:** | 2 rounds/caster level |
+| **Area of Effect:** | Path 10-ft wide, 60-ft long |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+*Detect magic* creates a tunnel of magical vision in a path 10-ft wide and 30-ft long, in which the caster sees the aura of any magic item as a glowing blue nimbus. The spell's effect is blocked by solid wood 3-ft thick, by stone 1-ft thick, and by solid metal 1 inch thick. The caster can only scan a 60° arc during the course of a round: turning more quickly does not allow magic auras enough time to form in the caster's vision.
+
+### Dig
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 30-ft |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | 5-ft cube/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+This spell causes dirt to begin piling out from the ground, digging a hole with tremendous speed. The excavation proceeds at a rate of one 5-ft×5-ft cube per round, as earth boils out of the area the caster directs, landing to the edges of the pit. If the spell is cast directly beneath a creature, the creature will fall in without any possibility of a saving throw. Creatures at the edge of the pit have some likelihood of falling in; they must roll lower than their dexterity score on a d20 to avoid sliding into the sudden maelstrom of moving earth. A creature moving toward the pit during the first round in which digging begins must make a saving throw vs spells (unlisted categories) or fall into the hole. The spell can be used to excavate in dirt, sand, or mud. Note that if the pit is taken deeper than 5-ft, there is a chance that it will collapse in on itself (roughly 25%, adjusted by the GM for the type of material being dug).
+
+### Dimension Door
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | Caster |
+| **Duration:** | See below |
+| **Area of Effect:** | Caster |
+| **Components:** | V   |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+*Dimension door* is a weak form of teleportation, more controllable than *blink*, but severely limited in range. The teleportation is limited to 30-ft per caster level. Unlike *blink*, a *dimension door* spell operates with perfect accuracy, either to a place the caster can see or clearly visualize, or in response to directions (example: “120-ft forward and 30-ft to the right”). If the caster's directions land him or her inside a solid object, he or she is stunned and trapped in the astral plane, held in a sort of suspended animation for eternity unless rescued. The spell is subject to a maximum weight limit of 500 lbs of additional weight, with each pound of living matter counting for twice its actual weight. Recovery from the experience of this form of teleportation is not immediate, although it is quite rapid. The caster cannot act for a period of 6 segments following the transition.
+
+### Disintegrate
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 5-ft/level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | Negates |
+
+This spell disintegrates matter of any kind: animal, vegetable, or mineral. Matter of a magical nature will also be destroyed, although evocations of magic force (such as a *wall of force*, *globe of invulnerability*, or *shield*) are not affected (not being matter). An entire creature, or an area of non-living matter up to 10-ft×10-ft/level, will be utterly obliterated by this powerful spell. The spell cannot be used to destroy both living and non-living matter; once it hits its first target it will take effect upon that matter and not pass beyond.
+
+### Dispel Magic
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 120-ft |
+| **Duration:** | Permanent |
+| **Area of Effect:** | 30-ft cube |
+| **Components:** | V,S |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+*Dispel magic* has a base chance of 50% permanently to negate magic–both the magical properties of potions and the ongoing effects of certain spells. All spell effects and relevant items within the stated area of effect are subject to dispelling. Permanent magical items are not disenchanted by the spell, with the exception of potions, which are treated as 12th level for purposes of resolution. However, even a permanently enchanted item must make a saving throw or become non-operational for one round. Any spells in the process of being cast in the spell's area of effect will be lost, and any ongoing spell effects (such as *invisibility*) will be dispelled.
+
+With respect to each potion, casting, or ongoing spell effect, the base chance of successful dispelling is increased 5% for every level by which the caster's level exceeds the caster level of the potion, the casting, or the spell effect. The base chance is conversely reduced by 2% per level of difference if the caster is lower level than the caster of the magic to be dispelled. The spell will automatically negate the caster's own spells if it is used for this purpose or if the caster has previously cast a spell into the same area.
+
+### Distance Distortion
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 turn/level |
+| **Area of Effect:** | 100 square-ft/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | None |
+
+This spell is cast with a summoned earth elemental as its focus. The casting of the spell is fascinating to summoned elementals and is sufficient to maintain the caster's control over the elemental (although he or she cannot command it to act while in the process of casting). When the casting is completed, the earth elemental disperses into the substance of the earth as directed, where it creates a dimensional distortion of the spell's area of effect. Travel through the distorted area takes twice as long (and seems twice as far) as it should, or seems half as long and takes half the normal travel time (determined by the caster when casting the spell). The area does radiate magic, slightly, and the reality will be perceived by true seeing (although the travel time will still be altered even for those who know that the distance is distorted). Otherwise, the spell is utterly undetectable.
+
+### Duo-Dimension
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | Caster |
+| **Duration:** | 3 rounds+1/level |
+| **Area of Effect:** | Caster |
+| **Components:** | V,S,M |
+| **Casting Time:** | 7 segments |
+| **Saving Throw:** | None |
+
+By means of this spell, the caster reduces him- or herself to a two-dimensional sheet with no third dimension. He or she can fit through the thinnest of spaces provided they are large enough to accommodate his or her remaining two dimensions–he or she cannot bend down while two-dimensional. Moreover, he or she can become invisible by the simple expedient of turning sideways. While two-dimensional, the caster can move, cast spells, and otherwise act normally. If attacked from the front or back, however, he or she takes three times normal damage. Casting the spell requires expensive material components of (1d4+4)×1,000 gp in value.
+
+### Enchant an Item
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | Touch |
+| **Duration:** | See below |
+| **Area of Effect:** | One item |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1d8+2 days |
+| **Saving Throw:** | See below |
+
+This spell is the culminating moment involved in the creation of a true magic item, when the item is actually infused with the magic properties it has been painstakingly prepared to hold. Before the spell can actually be cast, the magic user must engage in considerable time-consuming and meticulous work, or the spell will certainly fail.
+
+Firstly, the item itself must be of absolutely the finest quality available, in terms of craftsmanship, although it need not necessarily be fancy. In most cases, special components such as powders or threads will be incorporated into the item's construction, costing not less than 100 gp. The casting of the spell takes 1d8+2 days, with the caster working steadily upon the item for eight hours per day. No other spells may be cast during this period of time, nor can the magic user engage in any other meaningful work. When the final words of the spell are spoken, the item makes a saving throw against spells at the same level as the magic user, but with success on the saving throw indicating that the spell has succeeded. A natural result of 1 on this roll always indicates failure of the spell. At this point, the magic user may begin to infuse the item with enchantments, each of which requires 5d8 hours to complete. Most magic items will require unusual components; dragon scales or blood for a sword with an unusually high bonus against dragons, for example. The GM will determine exactly what is required for any particular magic item.
+
+This spell is not permanent unless a *permanency* spell is cast upon it; the duration of the enchantment may be for a year or more without a *permanency* spell, but the enchantment will eventually fail if it is not locked in to the item.
+
+### Enchanted Weapon (Reversible)
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | Touch |
+| **Duration:** | 5 rounds/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+With a touch of his or her hand, the magic user creates a weak and temporary enchantment upon a full-sized weapon, or upon two smaller weapons such as arrows, bolts, or daggers. The enchantment lends no bonus to hit, but may be used to strike creatures that can be hit only with a magical weapon. When the weapon hits successfully, the enchantment ends.
+
+### Enlarge (Reversible)
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 5-ft/caster level |
+| **Duration:** | 1 turn/caster level |
+| **Area of Effect:** | One creature or object |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | Negates |
+
+This spell causes a creature or object to grow in size and weight. The spell increases a creature's size and weight by 20% for each level of the caster (to a maximum increase of 200%) or increases an object's size and weight by 10% per caster level (to a maximum increase of 100%). The magic user's power limits the volume of material that he or she can enlarge; the mage can affect no more than 10 cubic-ft of living matter, or 5 cubic-ft of non-living matter, per level. A normal sized person doubled in size will generally have strength of 18, and tripled in size would have strength of 20+. The spell's reverse applies in the same ratios, but with the effect of reducing the size of an object or creature. If the spell is cast on an unwilling recipient, a successful saving throw will negate the spell, but willing recipients may choose to forgo the save.
+
+### Erase
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 30-ft |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | Scroll or two pages of writing |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | See below |
+
+This spell may be used to erase normal or magical writing from an area about two pages wide. The base chance to erase a magical writing is 50%+2%/caster level, and the base chance to erase non-magical writing is 50%+4%/caster level.
+
+Obviously, the main benefit of this spell is that the erasure can be made at a distance. The spell does not remove such magical rune-traps as symbol, glyph of warding or explosive runes (exception: the caster may use it to remove such spells if he or she originally cast them him- or herself).
+
+### ESP
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | Caster |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | 5-ft radius/level, maximum 90-ft |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+This spell allows the caster to overhear the surface thoughts of any thinking being in the spell's radial area of effect. The caster need not be able to see the creature whose thoughts he is reading; the spell can be used to listen beyond a closed door. The spell cannot penetrate more than two feet of stone or more than two inches of any metal, and it is foiled by even a thin sheet of lead.
+
+### Explosive Runes
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Touch |
+| **Duration:** | Permanent until triggered |
+| **Area of Effect:** | One object |
+| **Components:** | V,S |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | See below |
+
+This spell creates a magical trap in the form of traceries and sigils placed upon a piece of writing that create a magical detonation when they are read. It is possible to detect the presence of *explosive runes* without detonating them: a magic user has a 5% chance per level to notice their presence, and a thief has a 1% chance per level.
+
+When the runes are read, the resulting explosion causes 6d4+6 points of damage (half with a successful saving throw) to any creature within a 10-ft radius. The reader of the runes does not receive a saving throw. The caster and any other magic user with whom the caster has made familiar the secret pattern of the runes can read the protected document or tome without danger, and the caster can erase them at will. Otherwise, only a *dispel magic* or similar enchantment will remove the runes before they are triggered.
+
+Note that the item upon which the runes are scribed, if it is not resistant to fire, will undoubtedly be destroyed when the runes detonate.
+
+### Extension I
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | Caster |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V   |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+The arcane words of an *extension I* spell act to lengthen the duration of another spell previously cast by the magic user by 50%. The previous spell must still be active and may only be of level 1, 2, or 3.
+
+### Extension II
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | Caster |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V   |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+Except as noted, this spell is identical to the spell *extension I*, but may be used to extend by 50% the duration of any spell up to and including fourth-level spells.
+
+### Extension III
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | Caster |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V   |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+This spell functions in the same manner as *extension I*, but it doubles the duration of spells level 1-3, and extends the duration of spells level 4 or 5 by 50%.
+
+### False Trap
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | Touch |
+| **Duration:** | Permanent |
+| **Area of Effect:** | One object |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 rounds |
+| **Saving Throw:** | None |
+
+By means of this spell, the mage weaves an illusion around an object, making it appear trapped to any normal inspection (such as by a thief). Any such examiner has an 80% chance of finding and believing the *false trap*. This likelihood decreases by 3% per level of experience of the thief. Furthermore, if a thief attempts to remove the illusory trap, believing it to be real, there is only a 20% likelihood that the illusion will be dispelled or exposed by these efforts. In this case, the thief, seeing the illusion unchanged, will usually conclude that the attempt to remove the “trap” has failed. Only one *false trap* may be placed within a 50-ft radius, and if two items bearing this illusion come within 50-ft of each other, both will be dispelled.
+
+### Fear
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 0   |
+| **Duration:** | See below |
+| **Area of Effect:** | Cone, 60-ft long, 5-ft at origin, 30-ft diameter at terminus |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | Negates |
+
+This spell causes utter panic in the creatures exposed to the cone-shaped emanation of phantasmal terror the caster hurls forth. If any creature, of any level or hit dice, fails its saving throw against the spell, it will bolt away from the caster as fast as possible for as many rounds as the caster's level. There is a base 60% chance for a creature to drop whatever it is holding (immediately upon failing the saving throw), reduced by 5% per HD or level of the panicked creature.
+
+### Feather Fall
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 10-ft/caster level |
+| **Duration:** | 1 segment/caster level |
+| **Area of Effect:** | 10 cubic-ft |
+| **Components:** | V,M |
+| **Casting Time:** | Less than 1 segment |
+| **Saving Throw:** | None |
+
+This spell causes creatures or objects in the area of effect to fall as slowly and lightly as feathers, at a rate of about 10-ft in six seconds (1 segment). No damage is taken from the distance spent falling under the influence of the spell, but it is worthy of note that if the spell's target has not landed by the time the spell expires, the fall will resume at normal speed and damage will be taken for the remaining distance. The magic user can affect a weight of up to 200 lbs plus another 200 lbs/caster level. The spell may be used to slow propelled objects such as arrows, but will not affect sword blows or other non-propelled forces.
+
+### Feeblemind
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 10-ft/level |
+| **Duration:** | Permanent |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | Negates |
+
+The insidious *feeblemind* spell affects only those who can cast spells, tracing and poisoning the mystical channels of their arcane power like a viral infection. The spell reduces a victim into a state of extreme mental retardation, which persists until the victim is magically restored by means of a heal, wish, or restoration spell. The different types of spell casting ability are not equally vulnerable to the *feeblemind* spell. Practitioners of clerical magic gain a bonus of +1 to saving throws; druids save at -1; magic users and illusionists save at -4. (Those who can use more than one type of magic must save using the average of their modifiers.)
+
+### Feign Death
+
+*Arcane Necromancy*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Touch |
+| **Duration:** | 6 rounds+1 round/level |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None; willing recipient only |
+
+This spell magically slows the recipient's metabolism into a state so close to death that it is impossible to distinguish the enspelled person from a corpse by any means other than magical. The recipient can hear, smell, and think; the senses of touch and sight no longer function. Damage caused to the pseudo-corpse is reduced by one half, and the spell's recipient will not even know that the damage has been caused–potentially a dangerous situation. A person under the influence of this spell is not subject to level draining by the undead and will not be affected by poisons until the spell wears off or is otherwise removed; the caster can remove the catalepsy at will, and the spell is subject to being dispelled.
+
+### Find Familiar
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level** | Magic user 1 |
+| **Range:** | 0   |
+| **Duration:** | See below |
+| **Area of Effect:** | 1 mile radius/caster level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2d12 hours |
+| **Saving Throw:** | See below |
+
+Magic users of higher level often summon familiars to assist them with various tasks. Indeed, a familiar can also be of considerable benefit to a lower level magic user (even increasing others' estimation of his or her power), but the risks inherent in losing a familiar can be daunting to a weaker spell caster. To summon a familiar, the magic user must intone the words of the spell over a stocked fire source, sprinkling the flames with expensive incense and powders (100 gp in total value). The caster must maintain his or her casting for as long as necessary (2d12 hours) until a familiar arrives (or the casting time expires without success). The spell may be attempted only once per year, and the caster has no control over the type of animal that will respond. When it arrives, the familiar is a faithful servant and ally to the caster. Normal familiars have 1d3+1 hit points, are AC 7, and are as intelligent as a lower-than-average human. When the familiar is within 120-ft of the magic user, the magic user gains additional hit points equal to the familiar's. However, if the familiar is ever killed, the magic user permanently loses twice the familiar's hit points.
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Caster Level** | **Familiar** |     |     |     |     |     |
+| **1-2** | **3-5** | **6-8** | **9-11** | **12-14** | **15+** |     |
+| 01-05 | 01-05 | 01-06 | 01-06 | 01-07 | 01-07 | Special |
+| 06-25 | 06-25 | 07-29 | 07-29 | 08-33 | 08-33 | Cat |
+| 26-35 | 26-36 | 30-40 | 30-41 | 34-45 | 34-46 | Hawk |
+| 36-45 | 37-47 | 41-51 | 42-53 | 46-57 | 47-59 | Owl |
+| 46-55 | 48-58 | 52-62 | 54-65 | 58-69 | 60-72 | Raven |
+| 56-65 | 59-69 | 63-73 | 66-77 | 70-81 | 73-85 | Toad |
+| 66-75 | 70-80 | 74-84 | 78-89 | 82-93 | 86-98 | Weasel |
+| 76-00 | 81-00 | 85-00 | 90-00 | 94-00 | 99-00 | None |
+
+A special familiar is entitled to a saving throw in order to avoid the effect of the spell. The type of special familiar to appear depends upon the magic user's alignment:
+
+|     |     |
+| --- | --- |
+| Lawful good or Lawful neutral: | Brownie |
+| Chaotic good, Neutral good, or Neutral: | Pseudo-dragon |
+| Lawful evil or Neutral evil: | Imp |
+| Chaotic evil or Chaotic Neutral: | Quasit |
+
+### Fire Charm
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 10-ft |
+| **Duration:** | 2 rounds/level |
+| **Area of Effect:** | 15-ft radius around fire |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | Negates |
+
+This spell transforms an existing fire into a powerful mental snare. Any creature within the spell's radius who even so much as glances at the fire must make a saving throw vs spells or be entranced by the dancing flames. While so entranced, the creature becomes susceptible to the caster's words, in the same manner as with a *suggestion* spell, but with a penalty of -3 to the saving throw. The enchantment will be broken if the entranced creature can no longer see the flames or if it is attacked.
+
+### Fire Shield
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | Caster |
+| **Duration:** | 2 rounds+1 round/level |
+| **Area of Effect:** | Caster |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+Pale flames envelope the caster upon the completion of this spell, rendering him or her protection against either fire- or cold-based attacks, depending upon whether the magic user elects to wreath him- or herself in cold flame or hot flame. Cold flame grants the magic user a +2 bonus on any saving throw vs fire damage, also guaranteeing half damage (or no damage against all fire attacks that allow a saving throw for half damage) provided the saving throw is successful. If the magic user fails a saving throw against a cold based attack, however, he or she will suffer twice the normal damage. Hot flame offers the converse of the protections afforded by cold flame. Cold based attacks receive a bonus of +2 on saving throws and guarantee that the caster receives only half damage (or none at all) if his or her saving throw is successful against attacks that would cause full or half damage.
+
+### Fire Trap
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | Touch |
+| **Duration:** | Permanent until triggered |
+| **Area of Effect:** | One object |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 rounds |
+| **Saving Throw:** | Half |
+
+This spell enchants any item that can be opened or closed with a magical trap. When the item is opened by any person other than the caster, magical fire explodes in an area 5-ft in radius around the *fire trapped* object, causing 1d4 plus the caster's level hit points of damage to all creatures in this area. A successful saving throw indicates half damage. The item upon which this spell is cast suffers no damage from the explosion. Detecting a *fire trap* is extraordinarily difficult; attempts to find traps are reduced by one-half in efficacy if the trap is a *fire trap*, and the trap will detonate if an attempt to remove traps fails.
+
+### Fireball
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 100-ft+10-ft/level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | 20-ft radius sphere |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | Half |
+
+With a pointing gesture at the ending of the incantation, the magic user causes a massive explosion of magical fire at the target point. The fireball detonates with a low roar, causing 1d6 damage per caster level to all creatures within the area of effect. Creatures making successful saving throws suffer only half the indicated damage. When the magic user casts the spell, a bead of light streaks from his or her pointed finger to the target area, and if it strikes another object directly in its path the fireball will detonate immediately. The blast fills the entire volume of the spell radius, and if it is cast into an enclosed area smaller than the area of effect the flames will expand from this area until the spell's full volume has been reached. The volume of a 20-ft radius sphere is approximately 33,500 cubic-ft, and there are 1,000 cubic-ft in a 10-ft×10-ft×10-ft area, so in an area with a 10-ft ceiling the *fireball* will fill approximately thirty-three 10-ft×10-ft squares. Thus, if a fireball explodes in the middle of a corridor 10-ft wide and 10-ft high, the blast will extend a staggering 165-ft in both directions. It is quite possible, particularly in dungeoneering environments, for the magic user to be caught in the backblast of his or her own *fireball* spell. The flames do not create any significant change in air pressure, but the furnace-like heat causes all items in the blast to make saving throws against magical fire or ignite (or, in the case of metals, melt).
+
+### Flame Arrow
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Touch |
+| **Duration:** | 1 segment/level |
+| **Area of Effect:** | Arrows or bolts |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+By means of this spell, the magic user may enchant one arrow per segment, causing it to burst into normal flame. The enchanted arrows have no bonus to hit, and the enchantment is not powerful enough to hit a creature that can be damaged only by magical weapons. Each arrow causes 1 hp of fire damage in addition to its normal damage. The arrows (or crossbow bolts) will burn up in one round, so they must be shot before this time.
+
+### Floating Disk
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 20-ft |
+| **Duration:** | 3 turns+1 turn/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+This evocation produces an invisible disk about 3-ft across, shaped like a shallow bowl. The disk floats in the air and moves in accordance with the caster's commands (although if it is allowed more than 20-ft from the caster it will disappear). The disk cannot move faster than 60-ft per round. A *floating disk* can carry up to 100 lbs per level of the caster.
+
+### Fly
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Touch |
+| **Duration:** | 6 turns/level+1d6 turns |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+This spell grants the power of flight with aerial agility level V (see Chapter 3) to any creature the magic user touches. The base movement rate for flight is 120-ft per round, with the base speed being doubled when diving, halved when climbing. The GM secretly rolls a 1d6 to determine how much time the spell will last after the base duration expires.
+
+### Fool's Gold
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 10-ft |
+| **Duration:** | 6 turns/level |
+| **Area of Effect:** | 1 cubic foot/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | See below |
+
+This spell achieves the much sought-after goal of transmuting copper or brass into gold. Regrettably, the effect is temporary, but an amoral caster might seek to shift the consequent feelings of regret onto another person than him- or herself. Whatever motives drive the caster, he or she may use this spell to transmute roughly 2,000 copper coins (about a cubic foot) per caster level into a metal that closely resembles gold. Anyone viewing this metal has a chance to notice that it is not truly gold. If the result of d20 plus the caster's level is equal to or less than the observer's intelligence, the fraud is detected (the GM may pick a representative number for creatures whose exact intelligence is not known, or roll a die). By combining expensive material components with the spell, the caster can make it more likely that the gold will seem true–conversely, there are mundane methods that give a chance to detect this very spell, such as striking the “gold” with cold iron (10% chance of changing the metal back). The GM will decide for his or her campaign exactly what can be done to improve and detect this spell.
+
+### Forceful Hand
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | None |
+
+This spell creates a powerful, magical hand similar to that of the magic user spell *interposing hand*. Unlike the *interposing hand*, the *forceful hand* can push opponents or objects. The hand can move a creature weighing 500 lbs or less. It reduces the speed of a creature between 500 and 2,000 lbs to no greater than 10-ft/round, and it slows the movement of creatures heavier than 2,000 lbs but smaller than 8,000 lbs to one-half. As in the case of the *interposing hand*, the *forceful hand* has as many hit points as the caster.
+
+### Forget
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 30-ft |
+| **Duration:** | Instantaneous (permanent) |
+| **Area of Effect:** | 1-4 creatures in a 20-ft square area |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | Negates |
+
+This extremely potent spell causes the victims to forget events of the immediate past. The spell obliterates memory of the last round plus one additional round per three caster levels. The caster decides which creatures in the spell's area to affect, and these must make saving throws or suffer the loss of memory. The caster may designate 1-4 creatures as the targets of the spell. If one is targeted, the saving throw is made with a -2 penalty; if two are targeted, the penalty is -1; and if 3 or 4 creatures are targeted they suffer no penalty to the saving throw. Lost memories can only be restored by *heal*, *restoration*, or *wish*; the spell's effect is not subject to being merely dispelled.
+
+### Freezing Sphere
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | See below |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | See below |
+
+This spell may be employed in one of three different forms, depending upon the words and material component used during casting. At the time of memorisation, the magic user need not specify which will be used; these are alternate uses of the same spell, not different versions of it.
+
+**Ice seed:** conjures a sphere of an intensely cold magical substance that freezes water to a depth of 6 inches over a surface area 100 square-ft/caster level. The ice is thick enough to walk upon without fear of falling through. The duration of the ice is 1 round/level. The material component for this use is a piece of crystal.
+
+**Ice ray:** A ray of cold lances from the caster's hand, inflicting 4 hp/caster level against anything in its path. A successful saving throw results in no damage. Even if the ray strikes an object, it continues on the other side until it has extended 10-ft/caster level or is stopped by a thickness of stone of 1-ft or more. The material component for this use is a gem worth 1,000 gp.
+
+**Shattering globe:** The spell forms a globe one inch in diameter, cold but not uncomfortable to the touch. When this sphere is thrown (by hand or sling), it will explode upon impact for 4d6 hit points of damage within a 10-ft radius (half if save vs spells). If not used within 1 round/caster level, it will explode at the time its duration ends. The material component for this use is also a gem worth 1,000 gp.
+
+### Friends
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Caster |
+| **Duration:** | 1 round/caster level |
+| **Area of Effect:** | 10-ft radius+10-ft/caster level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | See below |
+
+This spell increases the magic user's charisma in the eyes of all creatures within the area of effect that fail saving throws. For these creatures, the magic user's charisma will effectively be increased by 2d4 (one roll for all). For those who succeed in making the saving throw, the caster's charisma will effectively be lowered by 1d4.
+
+Unless the exact numbers are required for some purpose, the normal result of the spell will be that those who failed the saving throw will be disposed and friendly toward the caster, and those that succeeded in making the save will find him or her distasteful and somewhat suspect.
+
+### Fumble
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | Half |
+
+This enchantment causes intense clumsiness in the affected creature. Attempting to run will result in an immediate fall to a prone position, and anything held in hand (or claw, etc.) will be dropped. A successful saving throw allows the affected creature to act as if under the influence of a *slow* spell in order to avoid the spell's full effects.
+
+### Gate
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | 30-ft |
+| **Duration:** | See below |
+| **Area of Effect:** | One summoned creature |
+| **Components:** | V,S |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | None |
+
+A *gate* spell creates an opening between the material plane and another plane of existence, summoning forth a being from the other plane. The caster must know the name of the creature he or she is attempting to summon, or the spell will fail. The particular creature named in the spell's casting might choose not to step through the gate into the material plane–summoning Thor is unlikely to bring the thunder god from the halls of Valhalla–however, a being of some kind will certainly respond to the summons. Thor, if summoned, might choose to send a Valkyrie, for instance. Casting this spell can be risky, for the caster has no control over the summoned creature unless proper precautions are taken, such as a *protection from evil* spell, the drawing of appropriate magical circles, etc. Beings summoned from distant planes, particularly beings with individual names of their own, can be powerful and irascible.
+
+### Geas
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | Touch |
+| **Duration:** | See below |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+A *geas* is a magical compulsion placed upon an intelligent creature to perform, or refrain from performing, some task set by the caster. While the geas cannot compel suicide or its equivalent, it is a very powerful spell. If the creature under the *geas* avoids or is prevented from performing the task, it will sicken and die within 1d4 weeks if the task is not resumed. The disease will, of course, create symptoms that the GM will determine; if the *geas* is resumed, these may or may not remain until the task is completed. Even a *remove curse* spell will not remove a *geas*, although a *wish* spell is powerful enough to dispel it.
+
+### Glass-steel
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | Touch |
+| **Duration:** | Permanent |
+| **Area of Effect:** | One object |
+| **Components:** | V,S,M |
+| **Casting Time:** | 8 segments |
+| **Saving Throw:** | None |
+
+This spell grants a glass object the strength of steel, while retaining its transparent properties. The weight of the object can be no more than 10 lbs per caster level. In most cases, the object will make item saving throws on the more favourable of the glass or metal tables.
+
+### Glasseye
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | Touch |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | None |
+
+This spell causes opaque materials to become transparent, either to the caster alone or to anyone, at the caster's option. The dimensions of the transparent area are 3-ft×2-ft, and the depth depends upon the nature of the substance being made transparent. Lead and gold, being the base and pure metals respectively, are not affected by the spell at all. Only four inches of any other metal can be made transparent, but stone can be seen through to a distance of 6-ft, and wood to a distance of 20-ft.
+
+### Globe of Invulnerability
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 0   |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Sphere, 5-ft radius |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | None |
+
+This spell creates a spherical shield, impermeable to spells. It functions as the spell *minor globe of invulnerability* except as noted above and in that it protects against spells level 1-4 rather than 1-3.
+
+### Grasping Hand
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Magical hand |
+| **Components:** | V,S,M |
+| **Casting Time:** | 7 segments |
+| **Saving Throw:** | None |
+
+This spell is a more powerful evocation of the *forceful hand* spell, acting in the same manner but able to hold motionless a creature of up to 1,000 lbs or move creatures with twice the force of a *forceful hand*.
+
+### Guards and Wards
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 0   |
+| **Duration:** | 2 hours/level |
+| **Area of Effect:** | Up to 200 sq. ft/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 turns |
+| **Saving Throw:** | See below |
+
+This powerful spell is primarily used to defend the caster's stronghold. The ward protects 200 square-ft per caster level. The warded area can be as much as 20-ft high and shaped as the caster desires. The magic user can ward several stories of a stronghold by dividing the area among them; he or she must be somewhere within the area to be warded to cast the spell. The spell creates the following magical effects within the warded area:
+
+**Fog:** Fog fills all corridors, obscuring all sight, including infravision, beyond 10-ft.
+
+**Wizard Locks:** All doors in the warded area are wizard locked.
+
+**Webs:** Webs fill all stairs from top to bottom. These strands are identical to those created by the web spell, except that they regrow in 10 minutes if they are burned or torn away while the guards and wards spell lasts.
+
+**Confusion:** Where there are choices in direction–such as a corridor intersection or side passage–a minor confusion-type effect functions so as to make it 50% probable that intruders believe they are going in the opposite direction from the one they actually chose. This is an enchantment/charm effect that will not affect elves or other creatures immune to *charm*.
+
+**Lost Doors:** One door per caster level is covered by an illusion to appear as if it were a plain wall.
+
+In addition, the magic user can place his or her choice of one of the following five magical effects:
+
+- *Dancing lights* in four corridors.
+- A *magic mouth* in two places.
+- A *stinking cloud* in two places. The vapours return within 10 turns if dispersed by wind while the *guards and wards* spell lasts.
+- A *gust of wind* in one corridor or room.
+- A *suggestion* in one place. The caster selects an area of up to 5-ft square, and any creature who enters or passes through the area receives the *suggestion* mentally.
+
+The whole warded area radiates strong magic. A *dispel magic* cast on a specific effect, if successful, removes only that effect.
+
+### Gust of Wind
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 0   |
+| **Duration:** | 1 segment |
+| **Area of Effect:** | 10-ft wide path, 10-ft long/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+Hand outstretched in the final somatic gesture of this spell, the magic user summons forth a powerful blast of air, forceful enough to blow out unprotected flames smaller than a campfire. Flames the size of a campfire or greater will flare back as far as 1d6 feet, and even shielded flames have a high chance of being extinguished (5% per caster level). The wind is strong enough to hurl a small flying creature backwards by 1d6×10-ft, and will hold medium-sized creatures back from moving.
+
+### Hallucinatory Terrain
+
+*Arcane Illusion/ Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 20-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | 10-ft×10-ft square/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+This spell masks the true appearance of an area, making it appear as something else. A road can be made to appear as a river, a forest can be made to appear as a ravine, etc. The spell's effect remains until some intelligent being touches the area (or until it is dispelled). The spell is particularly useful for hiding pits or making cliff edges seem to extend more than they actually do, but it has many other useful applications for the creative player.
+
+### Haste
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 60-ft |
+| **Duration:** | 3 rounds+1 round/level |
+| **Area of Effect:** | 1 creature/level in a 40-ft×40-ft area |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None (willing targets only) |
+
+This spell imbues creatures in the targeted area with preternatural speed, allowing them to move and attack at twice the normal rate. The rate of spell casting cannot be increased. Within the area of effect, creatures closest to the caster will be affected first by the spell if the caster's level is not sufficient to affect all of the creatures in the area. The spell ages the creatures upon which it is cast by 2 years.
+
+### Hold Monster
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 5-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | 1-4 creatures |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | Negates |
+
+A hold monster spell completely immobilises up to four creatures of any kind for the spell's duration. The magic user decides how many creatures he or she will target with the spell: if there is only one target, the saving throw is made at -3; if two, each makes the saving throw at -1; and if the magic user seeks to hold three or four enemies, each makes its saving throw with no penalty.
+
+If a magic item or spell operates partially to negate the effects of paralysis, failure on the saving throw will have the effect of a *slow* spell rather than completely immobilising the target.
+
+Creatures held by this spell may be killed or bound at a rate of one per round, or, if the attacker chooses, may be attacked at twice the normal rate with an automatic hit, for maximum damage.
+
+### Hold Person
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 120-ft |
+| **Duration:** | 2 rounds/level |
+| **Area of Effect:** | See below |
+| **Components:** | V   |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | Negates |
+
+This spell has the same effect as the clerical spell *hold person*: to immobilise foes and render them helpless. However, the magic user's version of the spell is some what more flexible in terms of the caster's options. A hold person spell completely immobilises up to four Man-sized or smaller persons for the spell's duration. The magic user decides how many of his or her foes he or she will target with the spell: if there is only one target, the saving throw is made at -3, if two, each makes the saving throw at -1, and if the magic user seeks to hold three or four enemies, each makes his or her saving throw with no penalty.
+
+Creatures affected by this spell would include humans, Demi-humans and humanoids. Ultimately, it is in the discretion of the GM to decide if a creature is considered a “person” for the purposes of this spell. If a magic item or spell operates to partially negate the effects of paralysis, failure on the saving throw will have the effect of a *slow* spell rather than completely immobilising the target.
+
+Persons held by this spell may be killed or bound at a rate of one per round, or, if the attacker chooses, may be attacked at twice the normal rate with an automatic hit, for maximum damage.
+
+### Hold Portal
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 20-ft/caster level |
+| **Duration:** | 1 round/caster level |
+| **Area of Effect:** | One portal up to 80 square-ft/caster level |
+| **Components:** | V   |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+This quickly-shouted spell holds fast a door or similar aperture as if it were securely locked. The portal must be something that normally opens and closes, such as a door, gate, valve, or portcullis, and it must be closed for the spell to function. A magically held portal can be battered apart, but will not open normally until the spell's duration expires. This is not a particularly powerful spell; any being not native to the material planes (such as a demon) will ignore its effects, as will a magic user four or more levels higher than the caster. The spell may also be negated by means of a *knock* or *dispel magic* spell.
+
+### Ice Storm
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 round |
+| **Area of Effect:** | 10-ft×10-ft/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+The caster may evoke one of two different forms of ice storm with this spell: a hailstorm or a sleet storm. The hail storm is a vicious barrage of huge hailstones that pound into a 40-ft×40-ft area, throwing up bits of shrapnel-like ice fragments as the hail shatters. Any creature within the area suffers 3d10 hit points of damage with no saving throw. The sleet storm is a maelstrom of frozen rain in an 80-ft×80-ft area, blinding all creatures in the area of effect and making the footing so slippery that all movement is cut by 50%. There is also a 50% probability that any creature attempting to move while in the sleet storm will slip and fall prone.
+
+### Identify
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Touch |
+| **Duration:** | 1 segment/caster level |
+| **Area of Effect:** | One item |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | See below |
+
+This expensive and unreliable spell allows the magic user to discern the magical properties of an item. The magic user must hold or wear the item as intended for use (thereby placing himself at risk of a cursed item). For every segment of the spell's duration, the magic user has a 15% +5%/caster level of gaining an insight into the nature of the item's enchantment. Insights include magical effects (and the corresponding command word) and number of charges (plus or minus 25% of the actual number). The exact bonus (or penalty) of a weapon is not revealed to the player, unless the GM chooses to do so for convenience; the character, of course, would not think of a magic sword as being “+1” or “+3,” just as “enchanted” or “powerfully enchanted,” and the spell reveals information in these terms. The spell must be cast within 1 hour/caster level of the time a magic item first comes near the caster, or the magic user's own aura will have blended too much in to the item's aura, contaminating his ability to read it. Upon casting the spell, the magic user temporarily loses 8 points of constitution, and regains them by resting for one hour per recovered point. The material component for the spell is a pearl worth 100 gp.
+
+### Imprisonment (Reversible)
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | Touch |
+| **Duration:** | Permanent |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | None |
+
+The power of this spell hurls the victim deep beneath the earth, placing it into a state of suspended animation for eternity, entombed within a cyst of rock. The only way to free an imprisoned creature is with the reverse of the spell, and the caster must know the name of the prisoner together with enough detail to clearly identify him or her. A creature freed from *imprisonment* appears at the exact spot where the *imprisonment* took place. When casting the spell's reverse, if the caster is not specific enough about the imprisoned creature's identity the spell will normally fail; but there is also a chance it will free the intended creature together with several other imprisoned victims from other places in the ground–some far, some (perhaps) near. Some of these freed victims might be from ancient ages and may have been imprisoned for a very good reason. The chance of freeing unintended recipients is 1 in 10, and their number can vary considerably (d%).
+
+### Incendiary Cloud
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 30-ft |
+| **Duration:** | 1d6+4 rounds |
+| **Area of Effect:** | Cloud, 10-ft high, 20-ft radius |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | Half |
+
+The *incendiary cloud* begins as a choking cloud of thick smoke, with the attributes of a pyrotechnics spell's smoke cloud, billowing from an existing fire source as per the *pyrotechnics* spell. The cloud has a radius of 20-ft and is 10-ft high. On the third round of the cloud's existence, it bursts into hot, magical flame. A saving throw for half damage is permitted to every creature in the cloud for each round of exposure to the flames.
+
+In the first round of the flare, the blazing cloud inflicts one hit point of damage for every two levels of the caster. In the second round of the flare, the heat increases to inflict 1 hit point per caster level, and in the third round of the blaze, damage falls again to one point per two levels. After three rounds, the cloud burns out, and for any further duration it retains only the properties of pyrotechnic smoke.
+
+### Infravision
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Touch |
+| **Duration:** | 12 turns+6 turns/level |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | None |
+
+This spell allows the magic user to confer the ability to see in the dark, perceiving variations of heat in the infrared spectrum. The range of this vision is 60-ft. Lamps and other light sources tend to spoil the effects of infravision. Infravision does not perceive invisibility any more than normal vision.
+
+### Instant Summons
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | See below |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | One object |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+This spell calls a specific, desired object into the caster's hand from wherever it might be. The object must be prepared ahead of time, with the first part of the spell being cast upon it at that time–all but the final word of the incantation. The item is then touched with another item, the spell's focus, which must be of at least 5,000 gp in value (usually a gem). When the caster seeks to summon the item by means of this spell, he must hold the focus item in his hand and speak the final word of the spell. The focus item will disappear and the summoned item will appear in its place. The summoned item cannot be heavier than 8 lbs or the spell will not function. Moreover, if the item is in the possession (not necessarily in the hand) of another creature, the spell will fail. However, in this instance, the caster will learn the item's location, and some details about the owner, as determined by the GM. The spell will function across the planes.
+
+### Interposing Hand
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Magical disembodied hand |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+This spell creates a magical hand with the same number of hit points as the caster. The magic user can cause the hand to be as small as his or her own, or as large as a shield. The caster selects a foe, and the hand will place itself between the magic user and that particular enemy, moving so rapidly that it cannot be avoided. It is strong enough to hold back any creature weighing 200 lbs or less and will slow heavier opponents to half movement. The movement rates of opponents of truly massive size (such as dragons) will be adjudicated by the GM, being slowed to a quarter movement rate or pushing the hand aside entirely.
+
+### Invisibility
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | Touch |
+| **Duration:** | See below |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+When the words of this spell are completed, the recipient and all he or she carries fade from sight, becoming invisible. Even infravision cannot detect an invisible creature. The spell remains in effect until the invisible creature attacks someone, the caster ends the spell, or the magic is dispelled. Note that the spell does not make the recipient any more quiet than normal, nor does it eliminate scents. The invisible person can see him- or herself, but the caster (unless they are one and the same) cannot. The spell cannot be cast upon an unwilling subject.
+
+### Invisibility, 10-ft Radius
+
+*Arcane Illusion/ Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Touch |
+| **Duration:** | See below |
+| **Area of Effect:** | All creatures within a 10-ft radius |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None (willing target only) |
+
+This spell operates as does the invisibility spell, but affects all creatures within 10-ft of the recipient at the time the final words of the spell are uttered. If the creature upon which the spell was cast makes an attack, the attack will negate the invisibility of all the others. However, if one of the creatures affected by the spell's radius (not the direct recipient) attacks, the invisibility only of that one creature is negated thereby. In order to remain invisible, those who were made invisible by virtue of the spell's radius must remain within 10-ft of the creature upon whom the spell is centred. All creatures affected can see each other.
+
+### Invisible Stalker
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 10-ft |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | None |
+
+This spell summons an invisible stalker (see Chapter 5). The stalker will perform one task as commanded by the caster, but resents its slavery and will always seek to misinterpret a command if it is worded ambiguously.
+
+### Irresistible Dance
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | Touch |
+| **Duration:** | 1d4 +1 rounds |
+| **Area of Effect:** | One creature |
+| **Components:** | V   |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+The creature touched (successful “to hit” roll) flies into an uncontrollable, twitching tarantella, dancing wildly. The creature's armour class is penalised by -4, and it will fail any and all saving throws during the spell's duration. It cannot act in any way, or gain benefit from a shield.
+
+### Jump
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Touch |
+| **Duration:** | See below |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+This spell allows the subject to make one or more prodigious leaps, one additional leap for each three caster levels above 1. Thus, at a caster level of 4, the spell permits a second leap, with additional leaps at level 7, 10, 13, etc. The recipient of the spell may bound forward 30-ft, or may leap backward or straight up for a distance of 10-ft. The leap is almost perfectly straight, with no arc.
+
+### Knock
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 60-ft |
+| **Duration:** | See below |
+| **Area of Effect:** | 10 square-ft/level |
+| **Components:** | V   |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+The powerful magic words of a *knock* spell open doors that are stuck, barred, locked, or even wizard locked. Chains (even those that are welded) and chests will also spring open under this spell. Doors that operate by gravity, such as portcullises, will not be opened by means of the spell. If a door is secured by a number of devices, only two will be opened by the spell; a triple-locked door is proof against a single casting of the enchantment.
+
+### Legend Lore
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | Caster |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | See below |
+| **Saving Throw:** | None |
+
+This spell, when cast, gathers mystical echoes of legend and rumour about a specific person, place, or object. These inchoate rhymes, whispers, and memories form in the caster's mind until he can finally piece them together into meaningful information. The spell's power is far greater if the item is actually at hand when the spell is cast, for it can then be used as a focus for the gathering of echoes; casting time under these circumstances will be 1d4 turns. If the item (or place) is not at hand, but some detailed information can be woven into the casting of the spell as a focus for the gathering of legend-echoes, the casting time will be 1d10 days. If all that the caster knows about the object or place is rumour, the casting time will be 2d6 weeks. While casting the spell, the caster may not engage in any other activity other than short breaks to eat and sleep.
+
+When completed, the spell will reveal the location of any legendary material about the object (or person, or place), and if the spell is cast in the presence of the place, person, or object the spell will invariably gather the legendary lore together into a piece of true information about it. This in formation, coming as it does from mystical echoes, will take the form of a riddle, rhyme, or other puzzle. In order to cast the spell an item of some value–often a potion–must be used and destroyed in the process. The spell can garner no information about things that have not been the subject of discussion, rumour, rhyme, or legend.
+
+### Levitate
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 20-ft/level |
+| **Duration:** | 1 turn/level |
+| **Area of Effect:** | Caster or one creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | Negates |
+
+This spell allows the magic user to levitate him- or herself or another person, to a maximum weight of 100 lbs/level. The magic user can move vertically up or down at a rate of 20-ft per round, and can levitate another at a rate of 10-ft per round. The spell may be cast upon an unwilling enemy, but in this case the intended target is entitled to a saving throw. The spell does not allow any sort of horizontal movement (aerial agility level I–see Chapter 3), but it is possible for a levitated person to pull him- or herself along if there is something upon which to gain purchase, such as a wall.
+
+### Light
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 60-ft |
+| **Duration:** | 1 turn/caster level |
+| **Area of Effect:** | 20-ft radius globe |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+The *light* spell creates a globe of light 20-ft in radius, centered upon whatever spot or object the caster indicates at the time of casting (including a location in thin air). The caster may extinguish the magical light at any time. If it is cast upon a living creature, the creature is entitled to a saving throw (success indicating that the spell affects the area just behind the creature). A *light* spell cast upon a creature's eyes will blind it for the spell's duration, causing it a penalty of -4 on all rolls “to hit” if sight is its primary sense. The *light* spell remains stationary if it was not originally cast upon a movable object or creature (in which case the target will bring the illumination with it as it moves).
+
+### Lightning Bolt
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 40-ft+10-ft/level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | Half |
+
+As the caster completes this spell, he or she unleashes a bolt of lightning from the spell's point of origin, which may be as far away from the caster as the spell's maximum range. The bolt extends in a straight line from the caster beginning, at whatever point along the spell's range the caster desires, and may extend beyond the spell's range. The bolt deals 1d6 damage per caster level to all creatures standing in the bolt's area of effect. Creatures that make successful saving throws suffer half damage. The area of effect may be either a branching, forking maelstrom of electricity 10-ft wide and 40-ft long, or it may be a concentrated blast 5-ft wide and 80-ft long. The length of the bolt itself is not affected by the caster's level, only the range at which the caster may cause the bolt to originate.
+
+All items hit by the full force of the bolt must make item saving throws or be destroyed. The force of the bolt is often sufficient to blast doors into smouldering ruin. If the bolt strikes an object that does not conduct electricity, such as a stone wall, it will be deflected backward toward the caster (potentially inflicting a second shock upon those in the target area). Note that the length of a deflected bolt is not increased; the bolt will only rebound for the distance remaining in its original area of effect.
+
+### Limited Wish
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | Unlimited |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | See below |
+| **Components:** | V   |
+| **Casting Time:** | See below |
+| **Saving Throw:** | See below |
+
+*Limited wish* is a powerful spell, allowing the caster to reshape reality in accordance with his or her desire, but only to a limited degree. The spell may be used to grant minor wishes (undoing curses, granting small quantities of gold, duplicating the effects of lower level spells, etc.) The effects of the spell will be permanent for most minor requests, particularly when used to duplicate a lower-level spell that has a permanent or instantaneous duration.
+
+However, a *limited wish* is not powerful enough to make major changes in reality. It cannot bring the dead back to life, grant a level, or permanently change ability scores. In many cases, the GM will be called upon to determine whether the caster's wish is within the power of a limited wish spell or whether the results of the request will suffer from flaws due to the spell's limitations. Flaws would include limited durations or partial results. The guidelines set forth above should give the GM some assistance in making such determinations.
+
+In the case of unreasonable wishes, the GM may decide to follow the wording of the spell precisely but pervert the intent, limit the duration of the spell to a very limited time (perhaps mere seconds!) or simply rule that the whole spell fails.
+
+The guideline here is that wishes are granted by someone or something, which may or may not be kindly disposed to the player characters. The more greedy or selfish a wish, the greater the chance that a mischievous or actually evil power will take the opportunity to teach this upstart mortal a lesson.
+
+### Locate Object
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 20-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+Other than as noted above, this spell is identical to the clerical spell *locate object*.
+
+### Lower Water (Reversible)
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 80-ft |
+| **Duration:** | 5 rounds/level |
+| **Area of Effect:** | 5-ft×5-ft square area/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+With a majestic gesture, the caster forces an area of water to sink downward by 5% of its original depth per caster level. Despite its name, the spell's power is not limited to water; it can affect other non-living fluid substances as well, including gases and materials slightly more viscous than water. The GM may adjust the amount by which the spell affects other substances based upon the difference of their material properties from those of water. The spell's area of effect is a square with sides measuring 10-ft per level. For example, a caster of 7th level can affect a square area up to 70-ft×70-ft. The reverse of the spell raises water in an area of effect similar to that of *lower water*, but not to the same degree of height, returning water to its natural level plus 5 feet per caster level.
+
+### Mage's Faithful Hound
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 10-ft |
+| **Duration:** | 2 rounds/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+This spell summons an invisible watchdog to guard an area. The hound is invisible to all but the caster, who may order it to keep watch over a particular area. The area must be close to the caster, however, for if the caster is more than 30-ft from the area the hound guards, it will return to the spirit realm. The hound can detect virtually any creature that enters the area: it can detect invisibility (which includes creatures on the astral and æthereal planes), can see creatures that are moving between dimensions, and can detect virtually any other method that might be employed to sneak into an area. If any creature larger than a cat or small dog enters the area, the hound will begin baying with its echoing, supernatural bark. Moreover, it will seek to attack intruders from behind (it does not make frontal assaults) and can attack as a monster of 10 HD for 3d6 damage, even if the opponent requires up to a +3 magical weapon to be hit. The hound cannot be harmed by any means other than by dispelling it.
+
+### Mage's Sword
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | 30-ft |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Summoned sword |
+| **Components:** | V,S,M |
+| **Casting Time:** | 7 segments |
+| **Saving Throw:** | None |
+
+The caster evokes a magical sword into being and can wield it by exerting his or her will. While doing so, he or she cannot cast spells, use magic items, or move, although the spell does not end if the magic user's concentration is broken; the sword simply does not attack during that round. The sword attacks as a fighter one-half the magic user's caster level (and always hits on a natural 19 or 20), and it can hit creatures that can ordinarily be hit only with magic weapons. The damage caused by the sword is considerable; it inflicts 5d4 hp against size S and M creatures, or 5d6 against larger creatures. The sword can be dispelled by *dispel magic*. The material components for the spell cost 500 gp or more.
+
+### Magic Aura
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Touch |
+| **Duration:** | 1 day/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | See below |
+
+This spell creates a false magical aura around a single object of not more than five lbs per caster level. A *detect magic* spell will incorrectly perceive the item as magical, but if it is actually handled by the caster of the *detect magic* spell, he or she will be permitted a saving throw to realize that the aura is, in fact, not a true magical aura but a counterfeit.
+
+### Magic Jar
+
+*Arcane Possession*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 10-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | Negates |
+
+This risky spell allows the caster to transfer his or her mind into that of another creature, trapping the other creature's soul in a gem (of not less than 100 gp value) that is the material component of the spell and becomes the magic jar. To accomplish the transfer of souls, the magic user must trap his or her own life essence within the jar prior to the transfer. If the transfer fails (e.g., if the targeted creature makes a successful saving throw), the caster's soul is trapped until it can take over a host or otherwise escape.
+
+The caster can make successive attempts to take over the same host, but no more than one per round. The spell's range applies to two matters; when the magic user first transfers his or her own life essence into the jar, his or her body must be within the spell's range of the jar. The range also limits the distance at which the magic user's soul may later escape from the jar and into another body. After the caster's soul moves into the jar, his or her physical body becomes inert and lifeless.
+
+The spell represents, in many ways, a contest of will between the magic user and the creature whose body he or she seeks to possess. The caster and the target creature each total their intelligence and wisdom scores (such being calculated or approximated by the GM for a monster). This combined score represents the character's mental power for purposes of the spell. The two numbers are compared, and the difference is used in two important calculations: the saving throw and the chance for escape. One third of the difference (rounded down) is the modifier on the saving throw, a bonus if the target creature has the higher mental power, a penalty if the magic user's mental power is higher.
+
+If a creature's soul is trapped in the magic jar by the caster, it has a chance to escape. If it escapes, the caster's soul is returned to the magic jar. If the difference in mental power between the caster and the possessed creature is 4 or less in favour of the caster, or is in favour of the possessed creature, the creature can attempt a new saving throw every round. If the difference is from 5 to 8 in the caster's favour, one saving throw is permitted per turn. If the difference is 9 to 12 in the caster's favour, the saving throw is made once per day, and if the caster's mental power exceeds that of the target creature by 13+, the saving throw can only be made once per week.
+
+While the caster is in the magic jar waiting to possess another body, he or she can sense creatures beyond the jar, but not their nature. The jar may be moved from its original location, but not, obviously, by the caster. When the caster possesses another body, he or she gains complete control of its movement and acquires any memories that the body might reflexively recall (how to fly, fight with claws, use innate magical powers, etc). He or she does not gain any knowledge from the creature's mind, such as languages known or the location of a lair, for the mind is trapped in the magic jar. The caster retains his or her own mind while possessing the other body, so if the body possesses the correct physical attributes the caster can continue to cast his or her spells from within the new body.
+
+### Magic Missile
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 60-ft+10-ft/caster level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | 1+ creatures in a 10-ft×10-ft area |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+When this spell is cast, missiles of magical energy dart forth from the caster's fingertips, striking unerringly at his or her intended target(s), even if the target(s) are in melee or are partially concealed. The missiles inflict 1d4+1 points of damage each. For every two caster levels beyond first, the caster gains an additional missile; thus, a first-level magic user can cast one missile, a third-level caster may cast 2, a fifth-level caster may cast 3, and so on.
+
+### Magic Mouth
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | See below |
+| **Duration:** | Permanent until triggered |
+| **Area of Effect:** | One object |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+This spell is cast upon an object, so that when a set of particular conditions are met, a mouth will appear in the object and speak a specific message. The length of the message cannot exceed 25 words. The magic user can set any condition for the appearance of the magic mouth, but the caster's power limits the range at which the mouth can detect the triggering events. The mouth can “perceive” events at a range of 5-ft/caster level, but cannot detect invisible creatures. It has no perceptions other than visual, although it does not actually see. Obviously, a player cannot try to phrase conditions using game terms such as “hit dice,” “class,” “level,” etc. but must use terms that would be familiar to the character.
+
+### Mass Charm
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 5-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V   |
+| **Casting Time:** | 8 segments |
+| **Saving Throw:** | Negates |
+
+This spell functions as does *charm monster*, but affects more than one creature. Total hit dice limits the number of creatures affected; the caster cannot affect a total number of hit dice more than twice his or her caster level. All of the target creatures must be within a 30-ft×30-ft area.
+
+### Mass Invisibility
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | 10-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | 30-ft×30-ft radius |
+| **Components:** | V,S,M |
+| **Casting Time:** | 7 segments |
+| **Saving Throw:** | None |
+
+This spell acts in the same manner as an *invisibility* spell, but has an effective radius of 30-ft×30-ft, possibly hiding as many as 300 medium-sized creatures if they are packed in close and do not jostle one another.
+
+### Massmorph
+
+*Arcane Illusion/ Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 10-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | 10-ft×10-ft square/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None (willing creatures only) |
+
+This spell causes creatures of man size or smaller to appear like an innocent grove of trees to any observers. Up to 10 creatures may be enchanted in this manner. The illusion is so powerful that it is maintained even if the massmorphed creatures are touched. The “tree's” reaction to being stabbed or hacked at is fairly likely to indicate that it is no normal tree, of course, although the illusion is not actually dispelled by a successful attack. The illusion persists until the caster dies or dismisses it (or it is dispelled).
+
+### Maze
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 5-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+The targeted creature is trapped by this spell into an interdimensional reality similar to that created by the second level spell *ropetrick*. This wormhole has an entrance, which closes immediately after the target is trapped, and an exit, which is difficult to find in the branching, twisting maze of the dimensional labyrinth. A creature's intelligence determines the amount of time required to find the way out and emerge back into the material plane.
+
+### Mending
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 30-ft |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | One object |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+This spell repairs small breaks or tears in an object. It can weld together broken metallic objects, such as a chain link or a broken dagger, rejoin a broken bottle, and repair holes in leather or cloth, for example. The spell does not repair magic items in any way that would restore or affect their magical qualities.
+
+### Message
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 60-ft+10-ft/level |
+| **Duration:** | 5 segments+1 segment/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+Once this spell is cast, the magic user may point to any creature in range and whisper a message that the other creature will hear. If there is time remaining, the recipient may whisper a message in reply. Only one creature may be in contact with the caster at a time, but if time allows, the caster may make contact with more than one possible recipient. The gestures of this spell are subtle, and it is easy to conceal that the enchantment is being cast. Note that the path between the magic user and the recipient must be a straight line and not completely blocked.
+
+### Meteor Swarm
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | 40-ft+10-ft/level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | See below |
+| **Components:** | V,S |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | None or Half (see below) |
+
+Meteor-like chunks of magical fire streak from the magic user's outstretched hand, exploding into an inferno of flame when they strike the intended targets. The caster may hurl four large meteors or eight small meteors. These missiles strike the first creature in their straight-line trajectories automatically, granting no saving throw and inflicting full damage. When the meteor strikes its target, the explosion of fire may catch other creatures in its radius. These creatures receive saving throws for half damage. Large meteors inflict 10d4 hp damage and explode in a radius of 15-ft. Small meteors inflict 5d4 hp damage and explode in a radius of 7½-ft. If the explosions overlap, a creature in this area is subject to damage from all the explosions, but is entitled to a separate saving throw (halving damage) for each.
+
+### Mind Blank
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 30-ft |
+| **Duration:** | 24 hours |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+By means of this spell, the person upon whom it is cast becomes completely protected from all divination and scrying magic. His or her thoughts cannot be detected in any way, he or she cannot be magically overheard when speaking, his or her soul cannot be trapped or affected, etc.
+
+### Minor Globe of Invulnerability
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 0   |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | 5-ft radius sphere |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+A globe of eldritch power forms around the magic user, hedging out all spells of third or lower level. Spells may be cast from within the globe. Dispel magic, if cast upon the globe, will destroy it.
+
+### Mirror Image
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | Caster |
+| **Duration:** | 2 rounds/level |
+| **Area of Effect:** | 6-ft radius |
+| **Components:** | V,S |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+The *mirror image* spell creates 1d4 phantasmal images of the magic user, all mirroring his or her actions. The spell's 6-ft radius also becomes slightly blurred to sight, like the reflection of a slightly distorted mirror. The combination of these two magical phenomena makes it impossible to distinguish the images from the caster without aid of a magical nature, such as *true seeing*. When an opponent makes a successful hit against one of the images, the image breaks up and disappears (the others remain). If an opponent attempts to attack a magic user obscured by this spell, it is randomly determined whether the “to hit” roll is directed toward the person or one of the images. At the end of the spell's duration, the images fade from sight.
+
+### Mnemonic Enhancement
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | Caster |
+| **Duration:** | 24 hours |
+| **Area of Effect:** | Caster |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+This spell enhances the magic user's precision of memory, allowing him or her to retain up to three additional spell levels in his or her mind (3 first level, 1 first and one second level, or 1 third level). The spell may be used for memorisation, or may be used to hold onto the memory of a spell just cast. The spell components are expensive, costing at least 100 gp, and might not be available in rural communities.
+
+### Monster Summoning I
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 30-ft |
+| **Duration:** | 2 rounds+1 round/level |
+| **Area of Effect:** | Summoned creatures |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+By casting this spell, the magic user conjures up 2d4 monsters to serve him or her as allies in combat or to perform other services. The monsters appear from thin air within 1d4 rounds of the spell's completed casting. If the caster is in combat, the monsters will fight on his or her behalf, attacking whatever foes he directs, or guarding him or her. For more complex tasks, the magic user must somehow have the ability to communicate these more specific commands. The GM has the ultimate discretion as to what monsters will appear, but the general likelihood is described in the following table:
+
+**Monster Summoning I Results (magic user level 3)**
+
+|     |     |
+| --- | --- |
+| **d6** | **Monster Summoned** |
+| 1   | Rat, giant |
+| 2   | Goblin (dwarf) |
+| 3   | Hobgoblin (elf) |
+| 4   | Kobold (halfling) |
+| 5   | Orc (gnome) |
+| 6   | Kullule (badger, giant) |
+
+Evil casters may get the monsters in parentheses, at the GM's option.
+
+### Monster Summoning II
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 40-ft |
+| **Duration:** | 3 rounds+1 round/level |
+| **Area of Effect:** | Summoned creatures |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+This spell functions in the same manner as *monster summoning I*, but calls 1d6 creatures as determined on the following table:
+
+**Monster Summoning II Results (magic user level 4)**
+
+|     |     |
+| --- | --- |
+| **d6** | **Monster Summoned** |
+| 1   | Centipede, giant |
+| 2   | Devil, lemure |
+| 3   | Gnoll |
+| 4   | Stirge |
+| 5   | Toad, giant |
+| 6   | Troglodyte |
+
+### Monster Summoning III
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 50-ft |
+| **Duration:** | 4 rounds+1 round/level |
+| **Area of Effect:** | Summoned creatures |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+This spell functions in the same manner as *monster summoning I*, but calls 1d4 creatures as determined on the following table:
+
+**Monster Summoning III Results (magic user level 5)**
+
+|     |     |
+| --- | --- |
+| **d10** | **Monster Summoned** |
+| 1   | Beetle, giant boring |
+| 2   | Bugbear |
+| 3   | Gelatinous Cube |
+| 4   | Ghoul |
+| 5   | Lizard, giant |
+| 6   | Lycanthrope, wererat |
+| 7   | Ogre |
+| 8   | Spider, huge |
+| 9   | Spider, large |
+| 10  | Weasel, giant |
+
+### Monster Summoning IV
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 60-ft |
+| **Duration:** | 5 rounds+1/level |
+| **Area of Effect:** | Summoned creatures |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | None |
+
+This spell functions in the same manner as *monster summoning I*, but calls 1d4 creatures as determined on the following table:
+
+**Monster Summoning IV Results (magic user level 6)**
+
+|     |     |
+| --- | --- |
+| **d10** | **Monster Summoned** |
+| 1   | Blink dog |
+| 2   | Gargoyle |
+| 3   | Ghast |
+| 4   | Hell hound |
+| 5   | Hydra, five headed |
+| 6   | Lycanthrope, werewolf |
+| 7   | Owlbear |
+| 8   | Shadow |
+| 9   | Snake, giant constrictor |
+| 10  | Grey ooze |
+
+### Monster Summoning V
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | 70-ft |
+| **Duration:** | 6 rounds+1 round/level |
+| **Area of Effect:** | Summoned creatures |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | None |
+
+This spell functions in the same manner as *monster summoning I*, but calls 1d2 creatures as determined on the following table, the monsters appearing in 1d3 rounds:
+
+**Monster Summoning V Results (magic user level 7)**
+
+|     |     |
+| --- | --- |
+| **d6** | **Monster Summoned** |
+| 1   | Cockatrice |
+| 2   | Doppelgänger |
+| 3   | Hydra (7 heads) |
+| 4   | Lycanthrope (wereboar) |
+| 5   | Minotaur |
+| 6   | Snake, giant poisonous |
+
+### Monster Summoning VI
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 80-ft |
+| **Duration:** | 7 rounds+1 round/level |
+| **Area of Effect:** | Summoned creatures |
+| **Components:** | V,S,M |
+| **Casting Time:** | 8 segments |
+| **Saving Throw:** | None |
+
+This spell functions in the same manner as *monster summoning I*, but calls 1d2 creatures as determined on the following table, the monsters appearing in 1d3 rounds:
+
+**Monster Summoning VI Results (magic user level 8)**
+
+|     |     |
+| --- | --- |
+| **d10** | **Monster Summoned** |
+| 1   | Devil, Erinyes |
+| 2   | Hydra, 8 headed |
+| 3   | Manticore |
+| 4   | Ogre Mage |
+| 5   | Rakshasa |
+| 6   | Troll |
+| 7   | Wight |
+| 8   | Wraith |
+| 9   | Wyvern |
+| 10  | Lycanthrope, weretiger |
+
+### Monster Summoning VII
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | 90-ft |
+| **Duration:** | 8 rounds+1 round/level |
+| **Area of Effect:** | Summoned creatures |
+| **Components:** | V,S,M |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | None |
+
+This spell functions in the same manner as *monster summoning I*, but calls 1d2 creatures as determined on the following table, the monsters appearing in 1 round:
+
+**Monster Summoning VII Results (magic user level 9)**
+
+|     |     |
+| --- | --- |
+| **d6** | **Monster Summoned** |
+| 1   | Cockatrice |
+| 2   | Doppelgänger |
+| 3   | Hydra (7 heads) |
+| 4   | Lycanthrope (wereboar) |
+| 5   | Minotaur |
+| 6   | Snake, giant poisonous |
+
+### Move Earth
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 10-ft/level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | See below |
+| **Saving Throw:** | None |
+
+By casting this spell, the magic user gains the ability to move earth, sand, and clay in vast quantities by the mere gestures of his or her hands. The spell does not affect rock or stone. Unlike most spells, the area of effect does not depend upon the caster's level but upon the amount of time spent in casting. For every turn spent casting, the magic user can move a cube of earth 40-ft×40-ft×40-ft.
+
+The spell is normally used to create walls, moats, etc., but can also be used to move an intact terrain feature from one place to another (although the spell cannot move rock unless the rock is carried within the moved earth).
+
+If an intact feature (such as a portion of a forest or the foundations under a cottage) is to be moved, an earth elemental must also be summoned. Without the assistance of an elemental, the earth under a cottage could certainly be moved, but with the–presumably undesired–result of destroying the cottage in the process.
+
+### Part Water
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 5 rounds/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+This spell causes water to draw apart, forming a trench. The depth and length of the water displacement is determined by the caster's level. For each caster level, they may displace an area of water 30-ft deep and 20-ft wide. The spell can affect other liquids besides water, but the more different the physical properties of the other liquid, the less the caster may be capable of displacing.
+
+### Passwall
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 30-ft |
+| **Duration:** | 6 turns+1/level |
+| **Area of Effect:** | Passage 5-ft wide, 10-ft high, and 10-ft long |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+By means of a *passwall* spell, the magic user creates an inter-dimensional opening through any non-metallic material, allowing him or her and any others to simply walk directly into the hillside or through a wall. More than one spell may be used in succession to create longer passages. The inside of the passageway is still a part of the material plane; the inter-dimensional warping of space simply acts to “remove” the material through which the passage is created.
+
+### Permanency
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | See below |
+| **Duration:** | Permanent |
+| **Area of Effect:** | One object or creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 rounds |
+| **Saving Throw:** | None |
+
+The *permanency* spell makes the temporary effects of other spells permanent. It is also used to lock the enchantments of a magic item permanently into the item. Certain spells can be made permanent upon the caster or another creature, and other spells can be made permanent only if cast upon an area or an object. Each use of this spell reduces the caster's constitution by 1 point.
+
+Spells that can be made permanent upon a person or other creature include: c*omprehend languages*, d*etect evil*, d*etect invisibility*, d*etect magic*, *infravision*, *protection from evil*, *protection from normal missiles*, *read magic*, *tongues* and *unseen servant*. Only a magic user of higher level than the caster can dispel these spells.
+
+Spells that can be made permanent upon an area or object include: *enlarge*, *fear*, *gust of wind*, *invisibility*, *magic mouth*, *prismatic sphere*, *stinking cloud*, *wall of fire*, *wall of force* and *web*.
+
+These spells may be dispelled by any caster subject to the normal rules for *dispel magic*.
+
+### Phantasmal Force
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 80-ft+10-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | 80 square-ft+10 square-ft/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | See below |
+
+This extremely flexible spell allows the magic user to craft a visual illusion of virtually anything that can fit within the spell's area of effect. The spell creates no sound whatsoever. The caster must maintain his or her concentration upon the illusion, or it will evaporate, but while concentrating the caster is able to make the illusion move and respond to events.
+
+The illusion is dispelled if it is struck with a blow, a falling person, etc. There is no saving throw against the illusion if the observer believes it, and the illusion can actually cause damage to such a deceived victim. A demon wielding a sword can attack and do damage, and the appearance of a pit full of spikes can be fatal even though it is not real. If the observer doubts the reality of the illusion, he or she will be permitted a saving throw to see the illusion for what it really is. If one observer disbelieves the illusion and this disbelief is communicated to others, the others will also gain a saving throw at a bonus of +4.
+
+Note that the spell relies purely on a visual effect; it will have no effect upon a creature that does not see it. Furthermore, the lack of any audible component can make certain illusions completely non-credible. An explosion, for example, is not likely to be believed by anyone if it creates no sound. Various methods may be used by the GM to determine if an NPC or monster believes the effect of a phantasmal force, common sense being the first thing to consider. A player who takes care to craft a believable illusion should be rewarded for skilful use of the spell, not forced into a table of random results.
+
+### Phase Door
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | Touch |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V   |
+| **Casting Time:** | 7 segments |
+| **Saving Throw:** | None |
+
+The caster opens, by means of this spell, a dimensional pathway through a solid object, 10-ft in depth. It is a pathway that only the caster may use, and it remains until the caster has traversed it twice. In other respects, the spell is similar to a *passwall*.
+
+### Plant Growth
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 10-ft/level |
+| **Duration:** | Permanent |
+| **Area of Effect:** | 10-ft×10-ft square/level |
+| **Components:** | V,S |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+By means of this spell, the caster causes plants and vines to grow with unbelievable speed, forming a tangled barrier of thick vegetation. The enchantment may be dispelled, or the plants cleared by normal means. Chopping a way through the barrier is possible, but movement is restricted to 10-ft/turn (20-ft for size L creatures).
+
+### Polymorph Object
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 5-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | One object or creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | See below |
+
+This spell allows the magic user to transform one thing, living or not, into another sort of thing. If the spell is used simply to duplicate the effects of a *polymorph other* spell or a *stone to flesh* spell, it will function in the same manner as these spells but with a -4 penalty to the victim's saving throw. Otherwise, the spell's duration depends upon the degree of change involved in the transformation. The calculation is made using a “duration factor” found on table 1, and the explanation of the resulting duration factor is found on table 2.
+
+**Polymorph Object–Table 1 (magic user level 8)**
+
+|     |     |
+| --- | --- |
+| **Changed Subject Is:** | **Increase to Duration Factor** |
+| Same kingdom (animal, vegetable, mineral) | +5  |
+| Same class (mammals, fungi, metals, etc .) | +2  |
+| Same size | +2  |
+| Related (twig is to tree, wolf fur is to wolf, etc .) | +2  |
+| Same or lower intelligence | +2  |
+
+Add all that apply. Look up the total on the next table.
+
+**Polymorph Object–Table 2 (magic user level 8)**
+
+|     |     |     |
+| --- | --- | --- |
+| **Duration Factor** | **Duration** | **Example** |
+| 0   | 20 rounds | Pebble to human |
+| 2   | 1 hour | Marionette to human |
+| 4   | 3 hours | Human to marionette |
+| 5   | 12 hours | Lizard to manticore |
+| 6   | 48 hours | Sheep to woolen cloak |
+| 7   | 1 week | Shrew to manticore |
+| 9+  | Permanent | Manticore to shrew |
+
+This spell can be dispelled.
+
+### Polymorph Other
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 5-ft/level |
+| **Duration:** | Permanent |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | Negates |
+
+This spell transforms the victim into another type of creature; a person might be changed into a newt, or a newt into a dragon, for example. Such a transformation can, in rare cases, be fatal. If the spell's target is successfully transformed, it must make a system shock test against its constitution or die (see, “Constitution”). Moreover, there is a base 100% likelihood that the transformed creature will lose its memories and former identity in the change, becoming, for all intents and purposes, the creature into which it was transformed (intelligence cannot be increased by virtue of such a transformation, however).
+
+For every intelligence point of the transformed creature, the base chance is reduced by 5%, and there is a further ±5% alteration for each level (or HD) by which the original form's level (or HD) differs from that of the new form. This check is made on a daily basis, so such a transformation will, eventually, become inevitable according to the laws of chance if the transformed creature is not magically brought back to its original form. A transformed creature retains its former hit points, but otherwise assumes all the physical characteristics of the new form immediately. The transformation may be dispelled, but the second change of shape will necessitate another system shock check.
+
+### Polymorph Self
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | Caster |
+| **Duration:** | 2 turns/level |
+| **Area of Effect:** | Caster |
+| **Components:** | V   |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+This spell enables the magic user to cloak him- or herself in the physical shape of another creature, and to continue shape-shifting at will for the length of the spell's duration. The transformation is of an entirely lesser order than that of *polymorph other*, incurring no risk of a system shock or of truly becoming the transformed creature. Changing from one shape to another requires only 30 seconds, and when the caster returns to his or her original form (ending the spell) he or she will be healed of 1d12 points of any damage inflicted against the polymorphed forms he or she assumed.
+
+The caster can polymorph into forms no smaller than a songbird and no heavier than 2,000 lbs. Only the movement capabilities of the new form can be used, not its attacks, defences, or other abilities. The magic user can transform him- or herself into a lion, and run as fast as a lion, but his or her claws will do no more damage than a human's soft fists. Similarly, if he or she transforms into a dragon, he or she will have the dragon's ability to fly but no breath weapon. As an orc, he or she would be able to use whatever weapons he or she could use in his original shape, but would lack infravision. The caster retains his or her own hit points and armour class.
+
+### Power Word, Blind
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 5-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | 15-ft radius |
+| **Components:** | V   |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+The word of *power to blind* removes vision from creatures within the area of effect. The duration of the blindness depends on how many total hp the affected creatures have. If the total is 50 or less, the blindness lasts 1d4+1 turns. If the total is 51 hit points to 100, the blindness lasts 1d4+1 rounds, as opposed to turns. The spell does not affect more than 100 hp of creatures in total. The caster may target specific creatures within the area of effect.
+
+### Power Word, Kill
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | 2½-ft/level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | 10-ft radius |
+| **Components:** | V   |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+Upon the casting of this spell, the magic user specifies whether the spell is to kill one creature or multiple creatures. The spell will instantly deal death to a creature of up to 60 hit points, offering no saving throw (magic resistance does apply). The spell may, alternatively, be used to slaughter up to 120 hp of creatures with 10 or fewer hit points each. The total number of hit points is based upon the target's current hit points, not maximum hit points, so wounded creatures are more vulnerable to the spell. All creatures to be killed must be within the spell's area of effect.
+
+### Power Word, Stun
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | 5-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | One creature |
+| **Components:** | V   |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+The creature targeted by a stunning power word hears the word as a thundering roar, although others hear it normally. The impact of the word's magical power stuns the victim, rendering him unable to think clearly or act in any manner (including movement). The duration of the spell's effect is determined by the target's current hit points (not its normal maximum). A creature with 1-30 remaining hit points will be stunned for 4d4 rounds, a creature with 31-60 hp remaining will be stunned for 2d4 rounds, a creature with 61-90 hp remaining will be stunned for 1d4 rounds, and creatures with 90+ hit points will be able to shrug off the effect of the spell entirely.
+
+### Prismatic Sphere
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | 0   |
+| **Duration:** | 1 turn/level |
+| **Area of Effect:** | 10-ft radius sphere |
+| **Components:** | V   |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | See below |
+
+*Prismatic sphere* creates a shimmering, multicoloured globe of light that protects those within it from all forms of attack (it will normally appear as a hemisphere, with its lower half below ground). The sphere flashes with seven colours, each of which has a distinct power and purpose. It is immobile, but the caster can pass through and remain near it without harm. However, any other creature with fewer than 8 HD within 20-ft of the sphere will be blinded for 2d4 rounds by the colours if it looks at them. The sphere can be destroyed, colour by colour, in consecutive order, by various magical effects; however, the first colour must be brought down before the second can be affected, and so on. A ***rod of cancellation*** destroys a *prismatic sphere*, but an *anti-magic shell* will fail to penetrate it. *Dispel magic* cannot dispel the sphere or anything beyond it (unless the first six colours have already been brought down). Magic resistance is effective against a *prismatic sphere*, but the check must be repeated for each colour present.
+
+Each colour in the sphere has a different effect. The accompanying table shows the seven colours, the order in which they appear, their effects on creatures trying to attack the caster or pass through the sphere, and the magic needed to negate each colour.
+
+**Prismatic Sphere Effects (magic user level 9)**
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Colour** | **Order** | **Effect** | **Negated by** |
+| Red | 1st | Stops nonmagical ranged weapons. Deals 20 points of damage (saving throw for half damage) . | *Cone of cold* |
+| Orange | 2nd | Stops magical ranged weapons. Deals 40 points of damage (saving throw for half) . | *Gust of wind* |
+| Yellow | 3rd | Stops poisons, gases, and petrifaction. Deals 80 points of damage (saving throw for half) . | *Disintegrate* |
+| Green | 4th | Stops breath weapons. Poison (saving throw or die) . | *Passwall* |
+| Blue | 5th | Stops divination and mental attacks. Turns to stone (saving throw negates) . | *Magic missile* |
+| Indigo | 6th | Stops all spells. Causes insanity (saving throw negates) | *Continual light* |
+| Violet | 7th | Force shield (as per *wall of force*). Creatures sent to another plane (saving throw negates) . | *Dispel magic* |
+
+### Project Image
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | None |
+
+This spell creates an illusory duplicate of the magic user in another place within the spell's range. The image must remain visible to the caster or the spell will end. Much like *mirror image*, the projected image mimics all the caster's movements, but it is not affected by attacks of any kind. The image possesses an arcane link to the caster; if desired, the magic user can cast spells that originate at the image rather than at the caster, as if the image, rather than the magic user, cast the spell. Thus, the effective range of an attack spell can be increased, or a spell that would ordinarily centre on the caster could be brought into effect around the projected image.
+
+### Protection From Evil (Reversible)
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Touch |
+| **Duration:** | 2 rounds/level |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+Other than as noted above, this spell is identical to the clerical spell *protection from evil*.
+
+### Protection From Evil, 10-ft Radius (Reversible)
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Touch |
+| **Duration:** | 2 rounds/level |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+This spell has effects and limitations identical to *protection from evil*, but the radius of divine protection extends a full 10-ft around the spell's recipient, allowing allies to shelter within the protective ambience.
+
+### Protection From Normal Missiles
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Touch |
+| **Duration:** | 1 turn/level |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+The subject of this spell becomes completely invulnerable to the effects of projectiles. The spell's power is not sufficient to completely ward off the larger missiles hurled by siege engines such as catapults and ballistae, nor the enchantment of a magic arrow or bolt, but does reduce any damage caused by such weapons by 1 hit point per die of damage. The spell conveys no protection whatsoever against spells, including spells with missile-like qualities such as *fireball* or *ray of enfeeblement*.
+
+### Push
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 10-ft+3-ft/level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+The magic user casts this spell and points toward the desired target, which is instantly pushed away from the caster. The supernatural force exerted by the spell is only about one pound per level of the caster, but the spell can be used to move small objects or to throw enemies off balance. A small object can be moved at a rate of 10-ft/round(directly away from the caster), and if the object is a weapon held by a creature, the creature will suffer a penalty “to hit” equal to the caster's level. For example, a tenth level magic user could exert so much eldritch force against an attacking orc's axe that the orc would suffer a -10 “to hit” with it. Moving an actual creature or a heavier object is only possible if the creature's weight in pounds is not more than 50 times the caster's level.
+
+### Pyrotechnics
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 120-ft |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V,S |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+With any exceptions noted above, this spell is identical to the druidic spell *pyrotechnics*.
+
+### Ray of Enfeeblement
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 10-ft+3-ft/level |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | Negates |
+
+As this spell is cast, a ray of unpleasant and indescribable colour arcs from the caster's hand to strike the chosen target. No attack roll is required to hit. If the target fails a saving throw, its strength and the effect of all attacks which are dependent upon strength are reduced by 25%. The amount of reduction is increased by 1%/caster level (to be rounded off in the case of lower-level magic users simply as a matter of convenience). Thus, if an orc is struck with the *ray* by a level one magic user, the orc would lose 26% (rounded to 25%, at the option of the GM) of its strength. Its “to hit” rolls are not affected, but any damage it inflicts is reduced to 75% (or 74%) of the damage rolled (a good GM avoids minuscule calculations that might bog down the game). A *ray of enfeeblement* may technically reduce the target's strength below the required minimum to qualify for a class, but its effects are too temporary to affect class choices (so an enfeebled paladin with a temporary strength of 8 retains his or her paladinhood). Any further effects of the reduced strength are determined by the GM.
+
+### Read Magic (Reversible)
+
+*Arcane Divination*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Caster |
+| **Duration:** | 2 rounds/level |
+| **Area of Effect:** | Caster (see below) |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | None |
+
+*Read magic* is normally the first spell in every magic user's spell book, and its mastery is the first task of every apprentice. The spell allows the caster to read magical writings (other than his or her own, of course, which are always intelligible to the original author).
+
+Unless the writings are cursed, reading magical script does not normally activate the magic formulae described therein–reviewing a scroll prior to casting from it does not, for instance, actually cast whatever spell is written upon the scroll. Once the magic user has read a particular set of magical inscriptions by use of this spell, the spell is no longer needed to re-read the writing at a later time.
+
+The reverse of the spell allows the magic user to make magical writings indecipherable for the spell's duration, and is cast upon the writing rather than upon the caster him- or herself.
+
+### Remove Curse (Reversible)
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | Touch |
+| **Duration:** | Instantaneous (permanent) |
+| **Area of Effect:** | See below |
+| **Components:** | V,S |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | See below |
+
+Other than as noted above, this spell is identical to the clerical spell *remove curse*.
+
+### Reincarnation
+
+*Arcane Necromancy*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | Touch |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | Person touched |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+Provided that a body has been dead for no more than one day per caster level, a powerful magic user can recall its spirit from the dead, investing it into another body. The form of the new body is not subject to the magic user's control and is determined by means of the table below. The new body will appear within 1d6 turns near the soul's former body. Elves may be brought back to life by reincarnation.
+
+The new incarnation will retain the original character's experience points, but will have new physical (Str, Dex, Con) ability scores randomly rolled and adjusted for the new race. The character will retain his or her original mental ability scores (Int, Wis, Cha).
+
+**Arcane Reincarnation Table**
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Die Roll** | **New Incarnation** | **Die Roll** | **New Incarnation** |
+| 01-03 | Bugbear | 40-42 | Half-orc |
+| 04-06 | Dwarf | 43-45 | Hobgoblin |
+| 07-14 | Elf | 46-85 | Human |
+| 15-17 | Gnoll | 86-88 | Kobold |
+| 18-25 | Gnome | 89-91 | Orc |
+| 26-28 | Goblin | 92-94 | Ogre |
+| 29-36 | Half-elf | 95-97 | Ogre Mage |
+| 37-39 | Halfling | 98-00 | Troll |
+
+### Repulsion
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 round/2 levels |
+| **Area of Effect:** | 10-ft wide path |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | None |
+
+All living creatures in the spell's path will move away from the caster at their normal movement rates for the spell's duration, as if by choice.
+
+### Reverse Gravity
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | 5-ft/level |
+| **Duration:** | 1 second (1/6 segment) |
+| **Area of Effect:** | 30-ft×30-ft×1 mile |
+| **Components:** | V,S,M |
+| **Casting Time:** | 7 segments |
+| **Saving Throw:** | None |
+
+The caster momentarily reverses gravity in the area of effect, which is a 30 square-ft area, extending a mile into the air. Any object or creature in this area will “fall” upwards for a distance of 20-ft, striking intervening objects as per a normal, downward fall. When the duration ends, of course, they will fall downward again.
+
+### Rope Trick
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | Touch |
+| **Duration:** | 2 turns/level |
+| **Area of Effect:** | One piece of rope |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+This spell enchants a rope to become a portal into an extra-dimensional pocket of unreality opened by the spell. The rope rises in the air and then hangs, suspended by its connection to the extra-dimensional hideaway. Up to six medium-size people can hide in the space (five, if the rope is to be pulled up and into the space as well). At the spell's expiration, the inhabitants or contents of the space will fall into normal reality if they have not already departed. True reality is visible through the portal, but cannot be affected from within.
+
+### Scare
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 10-ft |
+| **Duration:** | 3d4 rounds |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | Negates |
+
+This spell causes terror in creatures of less than 6th level or 6 HD. Such creatures are entitled to a saving throw, which, if successful, allows them to shake off the spell's effect entirely. If a creature fails the saving throw, however, it will become frozen with terror. If forced, it can fight, but it suffers a penalty of -1 to all attacks, damage, and saving throw rolls.
+
+### Secret Chest
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | See below |
+| **Duration:** | 60 days |
+| **Area of Effect:** | One chest or box, 12 cubic-ft |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+This spell allows the magic user to shift a magically crafted treasure chest into the æthereal plane, where it will be safe from those who might seek to steal the caster's possessions. The chest itself must be crafted of the finest materials in order to support the spell's magic, and it will cost a minimum of 5,000 gp to have a craftsman or craftsmen build it, together with a second, miniature copy. When the magic user casts the spell, one hand upon the chest and one upon the miniature, the chest disappears into the æthereal plane, together with its contents. These contents may be up to one cubic foot of material per caster level (and no more than this) regardless of the chest's actual volume. If the chest contains any living matter, there is a 75% chance that the spell will completely fail, although if it should succeed, the living creature will be imprisoned in the æthereal plane until freed. The caster (and only the caster) can use the miniature chest to pull the larger one from the æther wherever he or she might be. It is possible, although not likely, that some æthereal creature or æthereal traveller might happen upon the chest while it is in the æthereal plane. So long as the chest remains in the æthereal plane, the magic user will still be able to retrieve it (although it may have been looted). No creature on the material plane has any chance using any magic known to humanity to locate a secret chest that has been hidden in the æthereal plane by means of this spell. After the spell duration expires, there is a cumulative 1 in 20 chance per day that the spell's link to the chest will fail, and the chest will be irrecoverable.
+
+### Shape Change
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | 0   |
+| **Duration:** | 1 turn/level |
+| **Area of Effect:** | Caster\` |
+| **Components:** | V,S,M |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | None |
+
+Upon casting this spell, the magic user becomes able to change shape almost at will (each change takes one segment, and incurs no system shock check). The caster retains his or her own mind and hit points, but assumes the magical properties of the shape-changed form as well as its physical capabilities. The spell does not allow the caster to assume the form of any greater creature native to another plane of existence, but virtually any other form can be assumed, from a tree to an insect to a treasure chest to a dragon. The material component of the spell is a piece of jewellery worth 5,000 gp.
+
+### Shatter
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 60-ft |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | One object |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | Negates |
+
+This spell causes an item to shatter into pieces. It can affect objects of up to 10 lbs weight per caster level. Only brittle materials are affected by the spell (glass, earthenware, etc.) excluding magical items of any kind. The item is permitted a saving throw against a crushing blow to avoid destruction.
+
+### Shield
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Caster |
+| **Duration:** | 5 rounds/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+By means of this spell, the caster creates an invisible barrier of magical force. *Magic missiles* cannot penetrate the barrier at all. The magic user gains an armour class of 2 against any hurled weapon, armour class of 3 against propelled weapons such as arrows, and armour class of 4 against all other attacks. All saving throws against frontal attacks (by wands, dragon breath, etc.) are made at +1 during the spell's duration. The shield is a frontal defence and grants no benefits against attacks from behind or from the rear flanks.
+
+### Shocking Grasp
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Touch |
+| **Duration:** | 1 round |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+This spell imbues the caster's hand with a powerful electrical charge that the magic user may use to deliver a deadly shock. The electrical charge can be delivered either by a direct touch (requiring a successful attack roll) or through a conductive material such as metal. This spell is not powerful enough to deliver a dangerous shock through any significant volume of water, but a small quantity of water (a shallow puddle, for instance) could be used as a suitable conductor. The shocking grasp inflicts 1d8 hp of damage, +1 hp per level of the caster.
+
+### Simulacrum
+
+*Arcane Illusion/ Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | Touch |
+| **Duration:** | Instantaneous (permanent) |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 day |
+| **Saving Throw:** | None |
+
+This eerie spell permits the magic user to make a living duplicate of another creature using ice or snow as the raw material of the duplicate's substance. The simulacrum is identical in appearance to the original in even the minutest detail, although there are many differences in other respects. The simulacrum will always be weaker than the original, having only half of the original hit points and a lower level of experience (1d4+1×10%). The simulacrum does not have its own personality; it is under the caster's control and has no volition without the caster's spoken command. A simulacrum can be improved by the use of other spells; a *reincarnation* spell will provide it with its own personality, and a *limited wish* may be used to give it the original's personality and 40-60% of the original's memories. Casting the spell requires material components of 1,000 gp in value, and a part (even so small as a piece of hair) of the creature to be duplicated.
+
+### Sleep
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 30-ft+10-ft/level |
+| **Duration:** | 5 rounds/level |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+This spell affects a circular area with a 15-ft radius. A number of creatures within this radius (determined by their HD) fall into a deep magical slumber with no saving throw allowed. Magically sleeping creatures may be killed or tied up at a rate of one per round by a single person, or can be attacked at twice the normal rate with an automatic hit for maximum damage, if the attacker chooses not to kill or bind them. A sleeping creature requires a full round to waken and must be shaken or slapped to bring it to consciousness; mere noise, however loud, will not disturb the enchanted slumber of a *sleep* spell's victim. The number of enemies affected by the *spell* is a function of their hit dice. If there are creatures of different hit dice in the area, the weaker ones will be affected first. Creatures with hit dice over 4+4 are not affected by the spell.
+
+**Sleep Spell Effectiveness (magic user level1)**
+
+|     |     |
+| --- | --- |
+| **Hit Dice of Victim** | **Number Affected** |
+| 1 or less | 4d4 |
+| 1+ to 2 | 2d4 |
+| 2+ to 3 | 1d4 |
+| 3+ to 4 | 1d2 |
+| 4+1 to 4+4 | 0 or 1 (d2-1) |
+
+### Slow
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 90-ft+10-ft/level |
+| **Duration:** | 3 rounds+1 round/level |
+| **Area of Effect:** | 1 creature/level in a 40-ft×40-ft area |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+This spell acts upon its targets to slow down their movements, or can be used to negate the effects of a haste spell. Any creature affected by a slow spell will find that it can only move at half normal speed and attack at half its normal rate. The spell may be cast upon up to 1 creature/caster level, but all must be within the area of the spell's area of effect at the time of casting. If more than one slow spell is cast upon the same subject, the effects of the two spells will be cumulative.
+
+### Spell Immunity
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | Touch |
+| **Duration:** | 1 turn/level, divided among recipients |
+| **Area of Effect:** | One creature/ 4 levels |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round/ recipient |
+| **Saving Throw:** | None |
+
+This spell confers tremendous protection against magical attacks that affect the mind. A creature warded by this spell gains a +8 bonus to such saving throws. The caster may divide the spell's duration among as many recipients as his or her caster level divided by four. The material component for this spell is a gem of any kind or size.
+
+### Spider Climb
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Touch |
+| **Duration:** | 1 round+1 round/ evel |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+When the magic user casts this spell, the recipient's bare hands and feet become sticky enough to allow him or her to climb walls and even crawl along a ceiling. The movement rate for such climbing is 30-ft per round. The subject of this spell will find it difficult to employ tools or handle small objects with precision while the spell is in effect.
+
+### Spirit-Rack
+
+*Arcane Abjuration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 10-ft+1ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | One fiend |
+| **Components:** | V,M |
+| **Casting Time:** | 8d6 hours |
+| **Saving Throw:** | None |
+
+This spell is used to utterly banish a particular demon, devil, or the like to its home plane of existence for a number of years equal to the caster's level. To cast the spell, the magic user must know the fiendish creature's name, and inscribe it into a scroll, the preparation of which requires 8d6 hours and the expenditure of at least 5,000 gp. Once the spell is cast, if the scroll is read aloud by the caster in the fiend's presence it will have the effects described below. A caster can create no more than one scroll for any particular fiend and can only keep three such scrolls in existence at any one time; the magic of one will fade if a fourth is created.
+
+When the caster speaks the first words of the scroll in the fiend's presence, the demon is immediately held in place (unless its innate magic resistance allows it to escape this effect). Even if the fiend's magic resistance protects it, the words of the scroll cause considerable agony, and if the creature has the ability to escape it is only 10% likely to remain and try to stop the final reading (0% likelihood if it has no means of attacking the magic user, gaining possession of the scroll, or otherwise influencing events in its favour). After one full minute of reading the scroll (i.e., in the second round), the fiend loses 1 hp/ hit die from pain. In the third round, the fiend loses 50% of its remaining hit points from the agony caused by the words of the scroll. After the third round of reading, the fiend is banished to its home plane, where it writhes in agony for a period of years equal to the caster's level.
+
+Obviously, any fiend caught with this ritual will seek to negotiate its way out; the GM will determine probabilities based on the fiend's goals and personality, but the base likelihood will be roughly 25% per round that the fiend will agree to perform a task for the caster in exchange for nothing more than the cessation of the ritual.
+
+### Statue
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | Touch |
+| **Duration:** | 6 turns/level |
+| **Area of Effect:** | Creature touched |
+| **Components:** | V,S,M |
+| **Casting Time:** | 7 segments |
+| **Saving Throw:** | See below |
+
+The *statue* spell allows the caster or other recipient of the spell to turn, apparently, into a statue made of stone. The creature can still utilize all of its senses, although the sense of touch is dulled, and only actual damage to the stone is felt. The ensorcelled creature can shift in and out of the statue form in one second and is not limited to one such shift in a single round. During the initial transformation, the creature must make a special system shock roll with a flat 82% chance of success, with a +1 for every point of constitution the creature possesses (100% chance at Con 18). Failing this roll means that the creature dies. The statue does radiate magic slightly and can be detected in this manner as well as with other similar divination spells or items. The initial transformation requires a full round. Damage that actually manages to hurt the stone statue will be incurred by the creature, but the stone is as hard and durable as granite and not easy to chip or break.
+
+### Stinking Cloud
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 30-ft |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | 20-ft radius spherical cloud |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | See below |
+
+This spell creates a nauseating cloud of vapours to billow forth in a location chosen by the caster. All creatures caught within (or later entering) the noxious cloud must make saving throws. Any creature failing to save will be completely unable to act for 1d4+1 rounds, falling to the ground retching and gagging (treated as stunned). A creature that succeeds in making the saving throw may move from within the cloud and be free of the effects after only one round of gasping fresh air (again, being treated as stunned for this round). Even creatures that succeed in making a saving throw cannot do anything within the cloud other than to leave as fast as possible.
+
+### Stone Shape
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | Touch |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | 1 cubic-ft/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | None |
+
+The magic user moulds stone by the power of his or her will, shaping it into whatever object or form he or she desires, from a weapon to a sculpture to an ornate stone footstool. Whether used to decorate the wizard's tower with gargoyles or to make an escape hole from a stone prison, this spell is extremely versatile and useful.
+
+### Stone to Flesh (Reversible)
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | 10-ft/level |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | See below |
+
+This spell transforms stone into flesh, or vice versa if the caster has elected to memorise the reversed version, *flesh to stone*. A creature that has been turned to stone will be returned to its normal state (provided that a system shock roll is successful). If the spell is used upon normal stone (as opposed to restoring a petrified creature), up to 9 cubic-ft/caster level may be transformed. A saving throw is permitted only against the spell's reverse, *flesh to stone*.
+
+### Strength
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | Touch |
+| **Duration:** | 6 turns/level |
+| **Area of Effect:** | One person |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+This spell increases a person's strength (affecting the same sorts of creatures as hold person). The recipient's strength increases by 1d6, and members of the various fighter-type classes gain a +1 to this roll. If the spell is cast upon a monster (such as an orc), the GM is free to rule for convenience that the effect of the spell is to grant +1 to damage, and if the d6 roll is a 5 or 6, a +1 “to hit” as well.
+
+### Suggestion
+
+*Arcane Enchantment/Charm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 30-ft |
+| **Duration:** | 6 turns+6 turns/level |
+| **Area of Effect:** | One creature |
+| **Components:** | V,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None (negates) |
+
+This spell empowers the caster to suggest facts or courses of action with an almost unavoidable power of persuasion. Factual suggestions (“These are not the halflings you seek”), suggestions of a course of action (“You won't mention you saw us, I have no doubt”), or a combination of both are possible. Even a victim who has failed a saving throw against the spell will not undertake a course of action that is palpably unreasonable, but the experienced caster can easily phrase his or her requests in such a way as to avoid this problem. No creature will leap off a cliff for no reason; but the caster might need to scout the bottom of a chasm and promise to cast a *feather fall* spell, or hand the victim a “magical” torch that supposedly permits the power of flight. The creature to be influenced must be able to hear and understand the language spoken by the caster.
+
+### Symbol
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | Touch |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 8 segments |
+| **Saving Throw:** | See below |
+
+The *symbol* spell is used to enchant magical runes written on a surface. Any creature that passes by, over, or under the rune; touches it; or reads it will be affected by its magic. There are numerous symbols that can be created with this spell. Those best known are as follows:
+
+**Symbol of Death:** Creatures with hit points totalling not more than 80 are slain.
+
+**Symbol of Discord:** All creatures in the area begin arguing with one another. Those that do not share the same alignment have a 50% chance of actually fighting one another. The duration of the effect is 5d4 rounds, but if a fight breaks out, the duration is reduced to 2d4 rounds.
+
+**Symbol of Fear:** As per *fear* spell, but save at -4.
+
+**Symbol of Hopelessness:** Creatures that fail to save vs spells are affected by deep depression for 3d4 turns. Each round during this period they act randomly, not acting at all (25%), or walking away from the symbol (75%), even if this means breaking off from combat. Such creatures will submit to any demand made by an enemy or ally, including a command to surrender.
+
+**Symbol of Insanity:** Creatures with total hit points of not more than 120 are affected by lunacy, acting per the random actions described in the confusion spell. The effect is permanent (or until removed by magical means).
+
+**Symbol of Pain:** Any creature triggering the symbol is subjected to horrible pain, losing 2 points of dexterity and gaining a penalty of -4 on all “to hit” rolls for a period of 2d10 turns.
+
+**Symbol of Sleep:** This symbol causes any creature of 8+1 HD or less to fall into an enchanted slumber; it is impossible to awaken the victims for 4d4+1 turns.
+
+**Symbol of Stunning:** Creatures with a total of 160 or fewer hit points are stunned for 3d4 rounds, dropping whatever they are holding.
+
+Material components for this spell cost at least 10,000 gp.
+
+### Telekinesis
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 2 rounds+1/level |
+| **Area of Effect:** | 25 lbs/level |
+| **Components:** | V,S |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+This spell allows the caster to move objects through force of will, up to a weight limit of 25 lbs per level. An object can be accelerated to a deadly velocity over the course of a few minutes. The base speed is 20-ft/round, but the caster can double this speed every round (to 40-ft, then 80-ft, then 160-ft) to a maximum of 102,400-ft/round (1,706-ft/second). For every 2,000-ft/round that an object is travelling, it will sustain 1d6 damage if it strikes another object. The spell allows an object to be moved in any direction, horizontally or vertically.
+
+### Teleport
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | Touch |
+| **Duration:** | Instantaneous |
+| **Area of Effect:** | 250 lbs+150/level over 10th |
+| **Components:** | V   |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+The *teleport* spell permits the caster to transport him- or herself, and any additional weight he or she can carry, instantly from one place to another. The magic user must be familiar with the destination (see below), but there is no effective range to the spell, although it does not permit travel to other planes.
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Familiarity** | **On Target** | **Off Target** | **Similar Area** | **Mishap** |
+| Very familiar | 01-97 | 98-99 | 100 | –   |
+| Studied carefully | 01-94 | 95-97 | 98-99 | 100 |
+| Seen casually | 01-88 | 89-94 | 95-96 | 97-100 |
+| Viewed once | 01-76 | 77-88 | 89-90 | 99-100 |
+| False destination | (1d20+80) | –   | 81-92 | 93-100 |
+
+To see how well the teleportation works, the player will roll d% and consult the preceding table. Refer to the following information for definitions of the terms contained in table:
+
+**Familiarity:** “Very familiar” is a place where the caster has been very often and feels at home. “Studied carefully” is a place the caster knows well, either because he or she can currently see it, has been there often, or has used other means (such as scrying) to study the place for at least one hour. “Seen casually” is a place that the caster has seen more than once but with which he or she is not very familiar. “Viewed once” is a place that the caster has seen once, possibly using magic. “False destination” is a place that does not truly exist, or if the caster is teleporting to an otherwise familiar location that no longer exists as such, or has been so completely altered as to no longer be considered “familiar.”
+
+When travelling to a false destination, the player rolls 1d20+80 on the table rather than rolling d%, as there is no real destination.
+
+**On Target:** The caster appears in the correct location.
+
+**Off Target:** The caster appears safely, a random distance away from the destination in a random direction. Distance off target is 1d10×1d10% of the distance that was to be travelled. The direction off target is determined randomly
+
+**Similar Area:** The caster winds up in an area that is visually or thematically (depending on how the caster identified it while casting) similar to the target area. It is possible (25% chance) that this result will indicate that the correct location has been reached but that the caster and party will arrive too high, falling 1-ft to 100-ft unless there is means to arrest the fall. If the party arrives too high and the result would entomb them in a solid surface, they die instantly. Generally, the caster will appear in the closest similar place within range. If no such area exists within the spell's range, the spell simply fails.
+
+**Mishap:** The caster and anyone else teleporting with him or her arrive beneath the destination point, causing instant death if the area is solid.
+
+### Temporal Stasis (Reversible)
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | 10-ft |
+| **Duration:** | Permanent |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | None |
+
+This spell places the victim into a magical sleep so deep that it is akin to suspended animation. The victim does not age or change in any way and does not need to breathe or eat. The sleep lasts until the victim is awakened by the use of *dispel magic* or the spell's reverse form.
+
+### Time Stop
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | 10-ft |
+| **Duration:** | 1 segment/ 2 levels+1d8 segments |
+| **Area of Effect:** | 15-ft radius sphere |
+| **Components:** | V   |
+| **Casting Time:** | 9 segments |
+| **Saving Throw:** | None |
+
+This spell allows the caster to act between two moments of time, in a bubble where the outside is frozen in place, not moving in the flow of time's passage. The spell's common name is a misnomer, for time does not actually stop; rather the caster simply gains a few “extra” moments, captured in between the points of time's normal passage. Effectively, the caster simply gains the duration of the spell as extra time in which he or she may perform whatever actions he or she wishes, while the rest of the universe is effectively frozen relative to the caster.
+
+### Tiny Hut
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 0   |
+| **Duration:** | 6 turns/level |
+| **Area of Effect:** | 5-ft radius sphere |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+This spell causes a bubble of magical force to form around the caster. The field will extend through solid substances if necessary, providing a complete sphere of protection even against burrowing creatures. When the caster stands on the ground, the sphere will thus appear to be a hemisphere, with half of it beneath the ground. The field's outside surface is not transparent and is usually a dark amber colour, but anyone inside the sphere can see through to the outside as if the force field did not exist. The spell provides protection against inclement winds and temperature within a certain range, but offers no protection against attacks from outside. Anyone can pass into and out of the hut, and up to 6 medium-sized or 8 small creatures can shelter inside with the caster. If the caster leaves the hut, the spell ends.
+
+Inside the hut, the inhabitants will not feel winds of up to 50 mph, which are completely blocked by the bubble of force, but if the wind reaches gale force of 50 mph the tiny hut will be shredded into oblivion. The temperature inside the hut remains at a pleasant 70-deg Fahrenheit for so long as the outside temperature remains in a range from 0 to 100-deg. For every degree of outside temperature beyond this range, the temperature inside the hut will rise or fall accordingly from 70-deg. The caster may illuminate the inside of the hut with a dim, ambient light that will not, of course, show to the outside.
+
+### Tongues (Reversible)
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | 0   |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | 30-ft radius |
+| **Components:** | V,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+Within the radius established by this spell, the caster, and the caster alone, will be able to speak and understand any verbal language, including alignment tongues. Note that the spell's area of effect does not move with the caster. The reverse of the spell makes any verbal communication impossible for any person (not just the caster) in the spell's area, or may be used to cancel out the effects of the *tongues* spell.
+
+### Transformation
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 6 |
+| **Range:** | Caster |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Caster |
+| **Components:** | V,S,M |
+| **Casting Time:** | 6 segments |
+| **Saving Throw:** | None |
+
+Upon the completion of this spell, the caster's form and mind alter as he or she takes on the spirit and attributes of a powerful berserker warrior. The caster's existing hit points are doubled, and any damage sustained is first deducted from the “additional” hit points with no deduction from the “true” hit points until the additional hit points are gone. Once the additional hit points are gone, however, the caster sustains twice normal damage from attacks. The caster's armour class improves by four points, and he or she attacks as a fighter of the same level. The transformed magic user may only use a dagger as a weapon while in this berserk state, but may attack twice per round, inflicting a +2 bonus on all damage. The magic user cannot cancel the effects of this spell, and will continue to attack until all enemies are killed or the spell duration ends. In order to cast this spell, the magic user must consume a ***potion of heroism***.
+
+### Transmute Rock to Mud
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 10-ft/level |
+| **Duration:** | See below |
+| **Area of Effect:** | 20-ft cube/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+This spell transforms solid rock into mud, the volume transformed being proportionate to the caster's level. Any volume of mud will sink until its depth is equal to about one half the pool's diameter. If this spell is cast upon a ceiling, the resulting volume of mud will immediately collapse, possibly trapping or suffocating those caught beneath. Similarly, if a floor is turned to mud, creatures standing in the area will sink and may be trapped. If *dispel magic* is cast upon the mud before it eventually dries into dirt, the mud will return to stone, but in the shape and location of the mud (i.e., a collapsed ceiling will not return to its original place; it will be frozen back into stone where it collapsed). The spell's reverse transforms mud into sandstone or a similar sedimentary rock.
+
+### Trap the Soul
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 8 |
+| **Range:** | 10-ft |
+| **Duration:** | Permanent |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | See below |
+| **Saving Throw:** | See below |
+
+This spell traps a victim's soul within a gem for eternity unless the prisoner is rescued. The prison must be prepared ahead of time, by the use of various spells and rituals costing 1,000 gp per level or hit die of the creature to be trapped. The trap may be sprung by either of two methods: either speaking the final word of the spell (which requires one segment and grants the target a saving throw) or persuading the victim to accept a pre-prepared trigger item (in which case no saving throw is permitted–the imprisonment is automatic). When a being is freed from imprisonment, even player characters, the being that has performed the rescue may demand a service or task from the freed prisoner. For unknown reasons, the request affects the prisoner in the same manner as a *geas*.
+
+### Unseen Servant
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Caster |
+| **Duration:** | 6 turns+1 turn/level |
+| **Area of Effect:** | 30-ft radius around spell caster |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | None |
+
+By means of this spell, the caster summons a mindless magical force to perform simple tasks. The servant can fetch and carry things, open doors, hold chairs, clean, mend, etc. It will continue at its assigned task until it is given another command. An unseen servant cannot exert force of more than twenty lbs. Unseen servants can neither attack nor move beyond the spell's area of effect.
+
+### Vanish
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 7 |
+| **Range:** | Touch |
+| **Duration:** | Instantaneous or permanent–see below |
+| **Area of Effect:** | One object |
+| **Components:** | V   |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+The caster's magic words cause an object to vanish, either being teleported away or shifted into the æthereal plane and replaced with stone on the material plane. The caster can teleport an object that weighs no more than 50 lbs per caster level to a location of his or her choice (subject to the normal rules of a *teleport* spell). If the object is larger, or if the caster chooses not to change its location, he may instead shift the object into the æthereal plane, to be replaced with shapeless stone. A *dispel magic* cast upon such stone will return the object to the material plane. Items that are part of larger structures, such as doors or windows, may be caused to vanish.
+
+### Ventriloquism
+
+*Arcane Illusion/Phantasm*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | 10-ft/level (max. 60-ft) |
+| **Duration:** | 2 rounds+1 round/level |
+| **Area of Effect:** | One object |
+| **Components:** | V,M |
+| **Casting Time:** | 1 segment |
+| **Saving Throw:** | See below |
+
+The caster makes his or her voice (or any sound he or she can vocalize) seem to issue from someplace else, such as from another creature, a statue, from behind a door, down a passage, etc. For each point of intelligence of the listener over 12, there is a cumulative 10% chance to correctly perceive the source of the sound.
+
+### Wall of Fire
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 60-ft |
+| **Duration:** | See below |
+| **Area of Effect:** | See below |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+A magic user's *wall of fire* does base damage of 2d6 hit points plus 1 hp/level. If the wall is configured as a ring its radius will be 10-ft+3-ft/level. In all other respects, the spell resembles the druidic spell *wall of fire*.
+
+### Wall of Force
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 30-ft |
+| **Duration:** | 1 turn+1 turn/level |
+| **Area of Effect:** | 20-ft square/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+A *wall of force is* a barrier of magical power, invisible but virtually impervious to all attacks, blocking almost anything from passing through it. The wall is utterly unaffected by physical attacks and spells, including dispel magic, and all forms of energy, such as electricity, heat, and cold. The only way actually to destroy a wall of force is with a disintegrate spell. The wall remains in place even if the ground beneath it is destroyed or transformed, hanging magically in place where it was evoked.
+
+### Wall of Ice
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | 10-ft/level |
+| **Duration:** | 1 turn/level |
+| **Area of Effect:** | Wall, area 100 square-ft/level, 10-ft thick/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 4 segments |
+| **Saving Throw:** | None |
+
+A *wall of ice* spell creates a huge wall of ice, with a front face of up to 100 square-ft per level. Its exact dimensions are adjustable by the caster. Thus, if the wall is cast by a 20th level caster, the dimensions of the wall could be any combination of dimensions that multiply to equal 2,000 square-ft. The wall might be 10-ft high and 200-ft long, or 5-ft high and 400-ft long, or 20-ft high and 100-ft long, etc. The wall need not be cast so that it is attached to anything, and it can even be cast in the air to fall upon opponents, doing 3d10 points of damage in the area where it falls. Breaking through the ice with a melee weapon causes 2 hit points of damage from ice shards per inch of thickness, and can be broken out at a rate of 10-ft per round. Normal fire has no measurable effect upon the wall, but magical fire will melt through it in one round. If the wall is destroyed by fire in a single round, it will cause a massive cloud of water vapour to form and linger for a full turn, obscuring vision by 50%.
+
+### Wall of Iron
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 5-ft/level |
+| **Duration:** | Permanent |
+| **Area of Effect:** | 15-ft×15-ft square/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+By casting wall of iron, the magic user creates a sheet of solid iron, one quarter of an inch thick per caster level, with dimensions of 15 square-ft/caster level. The configuration of the square footage is determined by the caster, but must be rectangular. The wall must be vertical if it is created upon the ground, but may be created horizontally in the air, falling to crush whatever is beneath. The wall is natural iron and can be affected by rust or transmutations, but its existence is magical and may be dispelled.
+
+### Wall of Stone
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 5 |
+| **Range:** | 5-ft/level |
+| **Duration:** | Permanent |
+| **Area of Effect:** | 20-ft×20-ft square/level |
+| **Components:** | V,S,M |
+| **Casting Time:** | 5 segments |
+| **Saving Throw:** | None |
+
+When the spell is completed, a wall of stone is called into being, sprouting from existing stone formations. In order for the spell to succeed, there must be existing rock large enough to serve as the anchor on each side of the wall. No rock from the foundation is consumed; the wall's stone is created from nothing, but needs existing rock from which to emerge and with which to meld. The wall itself is one quarter of an inch thick for each level of the magic user and has an area of 20-ft×20-ft per caster level. The wall need not be vertical, but must be anchored–a bridge is a good example of a way to create and use a horizontal wall of stone. The wall may be dispelled, but otherwise has all the characteristics of natural stone.
+
+### Water Breathing (Reversible)
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 3 |
+| **Range:** | Touch |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | One creature |
+| **Components:** | V,S,M |
+| **Casting Time:** | 3 segments |
+| **Saving Throw:** | None |
+
+This spell grants the ability to breathe underwater while the spell lasts. The reverse of the spell allows a water-breathing creature to breathe in the air.
+
+### Web
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | 5-ft/level |
+| **Duration:** | 2 turns/level |
+| **Area of Effect:** | 80 cubic-ft between anchoring points |
+| **Components:** | V,S,M |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | See below |
+
+This spell causes a mass of tough, sticky webs to appear, filling in any open spaces where the webs can be anchored on both sides (floor and ceiling, between walls, etc.), up to the maximum of the spell's area of effect. Any creature in the area must make a saving throw at a penalty of -2. The effect of a successful saving throw depends upon how close the target is to the edge of the area of effect; if the creature is within five ft of the edge of the spell's area of effect, the creature has jumped free and is not affected by the web. If the creature is not within five ft of the edge and makes its save, that creature will be able to fight its way through the web at twice normal speed (at a rate of 1-ft per turn if its strength is less than 13) and will have no chance of suffocating. No creature within the area of effect, whether a saving throw is made or not, can cast spells or attack. Any creature that fails its saving throw has a cumulative 5% chance of suffocating per turn. Creatures with a strength of less than 13 that fail the saving throw are trapped within the web and cannot move or act at all. Creatures with a strength of 13-17 are capable of moving through 1-ft of webs per turn. A creature with strength 18+ can move through the web at a rate of 10-ft per turn, and creatures such as dragons virtually ignore the webs, breaking through at a rate of 100-ft per turn. The strands of a *web* spell are very flammable. If they are ignited, fire will flash through the entire web, dealing 2d4 points of damage to all creatures within and burning away the webs.
+
+### Wish
+
+*Arcane Conjuration/Summoning*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 9 |
+| **Range:** | Unlimited |
+| **Duration:** | Varies (GM discretion) |
+| **Area of Effect:** | Varies (GM discretion) |
+| **Components:** | V   |
+| **Casting Time:** | Varies (GM discretion) |
+| **Saving Throw:** | Varies (GM discretion) |
+
+A *wish* spell is the true version of *limited wish*, an extraordinarily potent invocation of eldritch power. After casting a *wish* spell, the caster will be weakened considerably, requiring 2d4 days of bed rest. The only exception to this is when the wish is used for transport, healing, or resurrection of the dead. In general, the exact wording of the *wish* is carried out regardless of its intent, but the GM will not normally be stringent upon this point unless the wish is an attempt to overreach the spell's power.
+
+In the case of unreasonable wishes, the GM may decide to follow the wording of the spell precisely but pervert the intent, limit the duration of the spell to a very limited time (perhaps mere seconds!) or simply rule that the whole spell fails.
+
+The guideline here is that wishes are granted by someone or something, which may or may not be kindly disposed to the player characters. The more greedy or selfish a wish, the greater the chance that a mischievous or actually evil power will take the opportunity to teach this upstart mortal a lesson.
+
+### Wizard Eye
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 4 |
+| **Range:** | Caster |
+| **Duration:** | 1 round/level |
+| **Area of Effect:** | Magical eye |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 turn |
+| **Saving Throw:** | None |
+
+The *wizard eye* is a scrying spell allowing the wizard to create a material (but invisible) visual organ that transmits to the caster whatever it sees. The eye has infravision with a range of 100-ft and can see at a distance of 600-ft in normal lighting. The eye travels at a rate of 30-ft per round if it is not scrutinising its surroundings closely, but can proceed no faster than 10-ft per round if it is examining floors, ceilings, and walls. The magic user can detect secret doors through the eye as per his or her normal chance, but cannot view through the eye with any special vision the magic user has, for the eye's vision is limited to its own sensory capabilities. The eye cannot pass through solid substances, but it can move through a hole no more than an inch in diameter.
+
+### Wizard Lock
+
+*Arcane Transmutation/Alteration*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 2 |
+| **Range:** | Touch |
+| **Duration:** | Permanent |
+| **Area of Effect:** | 30 square-ft/level |
+| **Components:** | V,S |
+| **Casting Time:** | 2 segments |
+| **Saving Throw:** | None |
+
+A *wizard lock* spell functions similarly to a powerful *hold portal* spell, except that extra-dimensional creatures cannot pass through a *wizard lock* as they can a *held portal*.
+
+### Write
+
+*Arcane Evocation*
+
+|     |     |
+| --- | --- |
+| **Level:** | Magic user 1 |
+| **Range:** | Caster |
+| **Duration:** | 1 hour/level |
+| **Area of Effect:** | Caster |
+| **Components:** | V,S,M |
+| **Casting Time:** | 1 round |
+| **Saving Throw:** | None |
+
+This spell enables the magic user to make a written copy of a spell he or she cannot yet cast, a somewhat dangerous proposition. In order to succeed in this task, the caster must make a saving throw vs spells, with a modifier determined by the difficulty of the spell being transcribed. If the spell is up to one level higher than the magic user can cast, the saving throw is made at +2. If the spell is two levels higher than the magic user can cast, there is no bonus or penalty to the saving throw. If the spell is more than 2 levels higher than the magic user can cast, each additional level adds a -1 penalty. If the magic user fails this saving throw, the spell is not successfully copied, the caster takes 1d4 points of damage for each level of the spell, and he or she is knocked unconscious for 1 turn per hit point sustained thereby. The damage sustained cannot be healed more quickly than 4 hp per day, even with the assistance of magical healing. If the saving throw is successful, the magic user may copy the spell, which takes one hour per level of the spell. The material component is ink costing at least 200 gp.
