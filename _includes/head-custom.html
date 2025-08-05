@@ -1,11 +1,16 @@
 <!-- Betűtípus Google Fonts-ból -->
 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap" rel="stylesheet">
+
 <!-- Egyéni stílus -->
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
-<!-- Anchor link ikon -->
+
+<!-- AnchorJS könyvtár betöltése -->
+<script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
+
+<!-- Egyedi ikon beállítása -->
 <script>
   anchors.options = {
-    icon: '🔗', // vagy '§', '¶', '∞' stb.
+    icon: '🔗'
   };
   anchors.add();
 </script>
