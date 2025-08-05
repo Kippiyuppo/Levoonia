@@ -129,7 +129,6 @@ blockquote {
   color: #7a2b17;
   font-weight: bold;
   white-space: nowrap;      /* Ne törje meg a linket */
-  display: inline-block;
 }
 
 .dropdown-navbar ul ul {
