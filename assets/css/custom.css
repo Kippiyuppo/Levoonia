@@ -138,6 +138,7 @@ blockquote {
   color: #7a2b17;
   font-weight: bold;
   white-space: nowrap;      /* Ne törje meg a linket */
+  z-index: 1000;
 }
 
 .dropdown-navbar ul ul {
