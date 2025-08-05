@@ -100,17 +100,9 @@ blockquote {
   z-index: 1;
 }
 
-.nav-wrapper:first-of-type .dropdown-navbar {
-  position: relative;
-  z-index: 10;
-}
-.nav-wrapper:last-of-type .dropdown-navbar {
-  position: relative;
-  z-index: 20;
-}
-.nav-wrapper:first-of-type .dropdown-navbar ul ul {
-  z-index: 30;
-}
+.dropdown-navbar:nth-of-type(1) { position: relative; z-index:10; }
+.dropdown-navbar:nth-of-type(2) { position: relative; z-index:20; }
+.dropdown-navbar:nth-of-type(1) ul ul { z-index:30; }
 
 .dropdown-navbar ul {
   display: flex;
