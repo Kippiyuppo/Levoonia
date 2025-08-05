@@ -58,6 +58,13 @@ The system is built for those who appreciate the challenge, unpredictability, an
         <li><a href="/Levoonia/Gameplay/Combat">Combat</a></li>
       </ul>
     </li>
-    <li><a href="/Levoonia/Spells (Alt)/Spell Lists">Spell Lists</a></li>
+    <li>
+      <a href="/Levoonia/Spells (Alt)/Spell Lists">Spell Lists</a></li>
+      <ul>
+        <li><a href="/Levoonia/Spells/cleric-spells">Cleric</a></li>
+        <li><a href="/Levoonia/Spells/druid-spells">Druid</a></li>
+        <li><a href="/Levoonia/Spells/illusionist-spells">Illusionist</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells">Magic User</a></li>
+        </ul>
   </ul>
 </nav>
