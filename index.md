@@ -21,7 +21,6 @@ A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló 
         <li><a href="/Levoonia/Races/Half-Orc">Half-Orc</a></li>
       </ul>
     </li>
-    <br>
     <li>
       <a href="#">Classes</a>
       <ul>
