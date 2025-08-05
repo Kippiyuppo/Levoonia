@@ -117,6 +117,8 @@ blockquote {
 
 .dropdown-navbar > ul > li {
   padding: 10px;
+  display: flex;
+  align-items: center;
   vertical-align: middle;
 }
 
