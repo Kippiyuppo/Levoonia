@@ -59,7 +59,7 @@ The system is built for those who appreciate the challenge, unpredictability, an
       </ul>
     </li>
     <li>
-      <a href="/Levoonia/Spells (Alt)/Spell Lists">Spell Lists</a></li>
+      <a href="#">Spell Lists</a></li>
       <ul>
         <li><a href="/Levoonia/Spells/cleric-spells">Cleric</a></li>
         <li><a href="/Levoonia/Spells/druid-spells">Druid</a></li>
