@@ -8,7 +8,7 @@ A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló 
 
 <nav class="dropdown-navbar">
   <ul>
-    <li><a href="/Levoonia/Step-by-Step Characters">Creating a character</a></li>
+    <li><a href="/Levoonia/Characterization/Step-by-Step Characters">Creating a character</a></li>
     <li>
       <a href="#">Races</a>
       <ul>
