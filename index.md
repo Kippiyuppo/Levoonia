@@ -6,7 +6,7 @@ A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló 
 
 ## Characters
 
-<nav class="dropdown-navbar">
+<nav class="dropdown-navbar 1st">
   <ul>
     <li><a href="/Levoonia/Characterizations/Step-by-Step Characters">Creating a character</a></li>
     <li>
@@ -52,7 +52,7 @@ A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló 
 </nav>
 
 ## How to Play
-<nav class="dropdown-navbar">
+<nav class="dropdown-navbar 2nd">
   <ul>
     <li><a href="/Levoonia/Step-by-Step Characters">Creating a character</a></li>
     <li>
