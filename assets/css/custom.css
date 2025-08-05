@@ -109,10 +109,14 @@ blockquote {
   overflow: visible;  /* engedi, hogy a lenyíló menü kilógjon */
   list-style: none; /* eltünteti a pontokat/karikákat */
   z-index: 10;
+  align-items: center;
+  vertical-align: middle;
 }
 
 .dropdown-navbar li {
   position: relative;
+  align-items: center;
+  vertical-align: middle;
 }
 
 .dropdown-navbar > ul > li {
@@ -125,6 +129,7 @@ blockquote {
 .dropdown-navbar > ul > li > a {
   display: flex;
   align-items: center;
+  vertical-align: middle;
   height: 100%;
 }
 
