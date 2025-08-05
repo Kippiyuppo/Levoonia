@@ -58,6 +58,6 @@ A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló 
         <li><a href="/Levoonia/Gameplay/Combat">Combat</a></li>
       </ul>
     </li>
-    <li><a href="/Levoonia/Spells (Alt)/## Spell Lists">Spell lists</a></li>
+    <li><a href="/Levoonia/Spells (Alt)/Spell Lists">Spell Lists</a></li>
   </ul>
 </nav>
