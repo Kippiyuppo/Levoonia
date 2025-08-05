@@ -72,12 +72,11 @@ a:hover {
 a.anchorjs-link::after {
   font-family: 'Material Icons';
   content: '🔗';
-  font-size: 1em;
+  font-size: 0.5em;
   vertical-align: middle;
   margin-left: 0.25em;
-  color: red;
   user-select: none;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 blockquote {
