@@ -69,6 +69,16 @@ a:hover {
   color: #a8371f;
 }
 
+a.anchorjs-link::after {
+  font-family: 'Material Icons';
+  content: 'link';
+  font-size: 1em;
+  vertical-align: middle;
+  margin-left: 0.25em;
+  color: currentColor;
+  user-select: none;
+}
+
 blockquote {
   background-color: #e9ecda !important;
   border-left: 4px solid #7a2b17;
