@@ -95,6 +95,11 @@ blockquote {
 }
 
 /* NAVBAR */
+.dropdown-navbar {
+  position: relative;
+  z-index: 50;
+}
+
 .dropdown-navbar ul {
   display: flex;
   flex-wrap: wrap;
