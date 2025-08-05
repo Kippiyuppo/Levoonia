@@ -8,7 +8,7 @@ A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló 
 
 <nav class="dropdown-navbar">
   <ul>
-    <li><a href="/Levoonia/Characterization/Step-by-Step Characters">Creating a character</a></li>
+    <li><a href="/Levoonia/Characterizations/Step-by-Step Characters">Creating a character</a></li>
     <li>
       <a href="#">Races</a>
       <ul>
@@ -33,7 +33,7 @@ A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló 
         <li><a href="/Levoonia/Races/Half-Orc">Half-Orc</a></li>
       </ul>
     </li>
-    <li><a href="/Levoonia/Characterization/Alignment">Alignment</a></li>
+    <li><a href="/Levoonia/Characterizations/Alignment">Alignment</a></li>
     <li>
       <a href="#">Equipment</a>
       <ul>
