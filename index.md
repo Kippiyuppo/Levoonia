@@ -48,25 +48,16 @@ A Levoonia egy erősen háziszabályotott, modern szabályrendszereken alapuló 
         <li><a href="/Levoonia/Equipment/Weapons">Weapons</a></li>
       </ul>
     </li>
-  </ul>
-</nav>
-
-## How to Play
-<nav class="dropdown-navbar">
-  <ul>
-    <li><a href="/Levoonia/Step-by-Step Characters">Creating a character</a></li>
+    <li><a href="/Levoonia/Characterizations/Beyond 1st Level">Gaining Levels</a></li>
+    <li><a href="/Levoonia/Characterizations/Multiclassing">Multiclassing</a></li>
     <li>
-      <a href="#">Races</a>
+      <a href="#">Gameplay</a>
       <ul>
-        <li><a href="/Levoonia/Races/Elf">Elf</a></li>
-        <li><a href="/Levoonia/Races/Dwarf">Dwarf</a></li>
-        <li><a href="/Levoonia/Races/Halfling">Halfling</a></li>
-        <li><a href="/Levoonia/Races/Human">Human</a></li>
-        <li><a href="/Levoonia/Races/Gnome">Gnome</a></li>
-        <li><a href="/Levoonia/Races/Half-Elf">Half-Elf</a></li>
-        <li><a href="/Levoonia/Races/Half-Orc">Half-Orc</a></li>
+        <li><a href="/Levoonia/Gameplay/Abilities">Abilities</a></li>
+        <li><a href="/Levoonia/Gameplay/Adventuring">Adventuring</a></li>
+        <li><a href="/Levoonia/Gameplay/Combat">Combat</a></li>
       </ul>
     </li>
-    <li><a href="/Levoonia/Characterization/Alignment">Alignment</a></li>
+    <li><a href="/Levoonia/Spells (Alt)/Spell Lists">Spell lists</a></li>
   </ul>
 </nav>
