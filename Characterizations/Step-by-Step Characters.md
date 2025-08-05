@@ -1,8 +1,6 @@
-# Characters
-
 # Step by Step Character Creation
 
-## **Generate Character Ability Scores**
+### **Generate Character Ability Scores**
 
 - Choose method
 
