@@ -2,8 +2,6 @@
 
 Without modifications, according to the OSRIC ruleset.
 
-## Cleric Spell List by Level
-
 <nav class="dropdown-navbar">
   <ul>
     <li>
