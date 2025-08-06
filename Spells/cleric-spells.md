@@ -1,5 +1,38 @@
 # Cleric Spells
 
+## Cleric Spell List by Level
+
+| Level One | Level Two | Level Three |
+| --- | --- | --- |
+| Bless\* | Augury | Animate Dead |
+| Command | Chant | Continual Light\* |
+| Create Water | Detect Charm\* | Create Food & Water |
+| Cure Light Wounds\* | Find Traps | Cure Blindness\* |
+| Detect Evil\* | Hold Person | Cure Disease\* |
+| Detect Magic | Know Alignment\* | Dispel Magic |
+| Light | Resist Fire | Feign Death |
+| Protection from Evil\* | Silence, 15-ft Radius | Glyph of Warding |
+| Purify Food and Drink\* | Slow Poison | Locate Object\* |
+| Remove Fear\* | Snake Charm | Prayer |
+| Resist Cold | Speak With Animals | Remove Curse\* |
+| Sanctuary | Spiritual Weapon | Speak with Dead |
+
+| Level Four | Level Five | Level Six | Level Seven |
+| --- | --- | --- | --- |
+| Cure Serious Wounds\* | Atonement | Aerial Servant | Astral Spell |
+| Detect Lie\* | Commune | Animate Object | Control Weather |
+| Divination | Cure Critical Wounds\* | Blade Barrier | Earthquake |
+| Exorcise | Dispel Evil\* | Conjure Animals | Gate |
+| Lower Water\* | Flame Strike | Find the Path\* | Holy Word\* |
+| Neutralise Poison\* | Insect Plague | Heal\* | Regenerate\* |
+| Pro. From Evil 10-ft R.\* | Plane Shift | Part Water | Restoration\* |
+| Speak With Plants | Quest | Speak w/Monsters | Resurrection\* |
+| Sticks to Snakes\* | Raise Dead\* | Stone Tell | Symbol |
+| Tongues\* | True Seeing\* | Word of Recall | Wind Walk |
+
+\*spell is reversible
+
+## Cleric Spell List in aplhabetical order
 [Aerial Servant](#aerial-servant) • [Animate Dead](#animate-dead) • [Animate Object](#animate-object) • [Astral Spell](#astral-spell) • [Atonement](#atonement) • [Augury](#augury) • [Blade Barrier](#blade-barrier) • [Bless (Reversible)](#bless-reversible) • [Chant](#chant) • [Command](#command) • [Commune](#commune) • [Conjure Animals](#conjure-animals) • [Continual Light (Reversible)](#continual-light-reversible) • [Control Weather](#control-weather) • [Create Food and Water](#create-food-and-water) • [Create Water (Reversible)](#create-water-reversible) • [Cure Blindness (Reversible)](#cure-blindness-reversible) • [Cure Critical Wounds (Reversible)](#cure-critical-wounds-reversible) • [Cure Disease (Reversible)](#cure-disease-reversible) • [Cure Light Wounds (Reversible)](#cure-light-wounds-reversible) • [Cure Serious Wounds (Reversible)](#cure-serious-wounds-reversible) • [Detect Charm (Reversible)](#detect-charm-reversible) • [Detect Evil (Reversible)](#detect-evil-reversible) • [Detect Lie (Reversible)](#detect-lie-reversible) • [Detect Magic](#detect-magic) • [Dispel Evil (Reversible)](#dispel-evil-reversible) • [Dispel Magic](#dispel-magic) • [Divination](#divination) • [Earthquake](#earthquake) • [Exorcise](#exorcise) • [Feign Death](#feign-death) • [Find the Path (Reversible)](#find-the-path-reversible) • [Find Traps](#find-traps) • [Flame Strike](#flame-strike) • [Gate](#gate) • [Glyph of Warding](#glyph-of-warding) • [Heal (Reversible)](#heal-reversible) • [Hold Person](#hold-person) • [Holy Word (Reversible)](#holy-word-reversible) • [Insect Plague](#insect-plague) • [Know Alignment (Reversible)](#know-alignment-reversible) • [Light (Reversible)](#light-reversible) • [Locate Object (Reversible)](#locate-object-reversible) • [Lower Water (Reversible)](#lower-water-reversible) • [Neutralise Poison (Reversible)](#neutralise-poison-reversible) • [Part Water](#part-water) • [Plane Shift](#plane-shift) • [Prayer](#prayer) • [Protection from Evil (Reversible)](#protection-from-evil-reversible) • [Protection from Evil, 10-ft Radius (Reversible)](#protection-from-evil-10-ft-radius-reversible) • [Purify Food and Drink (Reversible)](#purify-food-and-drink-reversible) • [Quest](#quest) • [Raise Dead (Reversible)](#raise-dead-reversible) • [Regenerate (Reversible)](#regenerate-reversible) • [Remove Curse (Reversible)](#remove-curse-reversible) • [Remove Fear (Reversible)](#remove-fear-reversible) • [Resist Cold](#resist-cold) • [Resist Fire](#resist-fire) • [Restoration (Reversible)](#restoration-reversible) • [Resurrection (Reversible)](#resurrection-reversible) • [Sanctuary](#sanctuary) • [Silence, 15-ft Radius](#silence-15-ft-radius) • [Slow Poison](#slow-poison) • [Snake Charm](#snake-charm) • [Speak with Animals](#speak-with-animals) • [Speak with Dead](#speak-with-dead) • [Speak with Monsters](#speak-with-monsters) • [Speak with Plants](#speak-with-plants) • [Spiritual Weapon](#spiritual-weapon) • [Sticks to Snakes (Reversible)](#sticks-to-snakes-reversible) • [Stone Tell](#stone-tell) • [Symbol](#symbol) • [Tongues (Reversible)](#tongues-reversible) • [True Seeing (Reversible)](#true-seeing-reversible) • [Wind Walk](#wind-walk) • [Word of Recall](#word-of-recall)
 
 
