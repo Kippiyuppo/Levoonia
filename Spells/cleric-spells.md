@@ -31,7 +31,7 @@
         <li><a href="/Levoonia/Spells/cleric-spells#hold-person">Hold Person</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#know-alignment-reversible">Know Alignment (Reversible)</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#resist-fire">Resist Fire</a></li>
-        <li><a href="/Levoonia/Spells/cleric-spells#silence-15-ft-radius">Silence, 15-ft Radius</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#silence-15-ft-radius">Silence, 15-ft r.</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#slow-poison">Slow Poison</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#snake-charm">Snake Charm</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#speak-with-animals">Speak with Animals</a></li>
@@ -64,7 +64,7 @@
         <li><a href="/Levoonia/Spells/cleric-spells#exorcise">Exorcise</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#lower-water-reversible">Lower Water (Reversible)</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#neutralise-poison-reversible">Neutralise Poison (Reversible)</a></li>
-        <li><a href="/Levoonia/Spells/cleric-spells#protection-from-evil-10-ft-radius-reversible">Protection from Evil, 10-ft Radius (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#protection-from-evil-10-ft-radius-reversible">Protection from Evil, 10-ft r. (Reversible)</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#speak-with-plants">Speak with Plants</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#sticks-to-snakes-reversible">Sticks to Snakes (Reversible)</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#tongues-reversible">Tongues (Reversible)</a></li>
@@ -117,10 +117,6 @@
     </li>
   </ul>
 </nav>
-
-## Cleric Spell List in aplhabetical order
-[Aerial Servant](#aerial-servant) • [Animate Dead](#animate-dead) • [Animate Object](#animate-object) • [Astral Spell](#astral-spell) • [Atonement](#atonement) • [Augury](#augury) • [Blade Barrier](#blade-barrier) • [Bless (Reversible)](#bless-reversible) • [Chant](#chant) • [Command](#command) • [Commune](#commune) • [Conjure Animals](#conjure-animals) • [Continual Light (Reversible)](#continual-light-reversible) • [Control Weather](#control-weather) • [Create Food and Water](#create-food-and-water) • [Create Water (Reversible)](#create-water-reversible) • [Cure Blindness (Reversible)](#cure-blindness-reversible) • [Cure Critical Wounds (Reversible)](#cure-critical-wounds-reversible) • [Cure Disease (Reversible)](#cure-disease-reversible) • [Cure Light Wounds (Reversible)](#cure-light-wounds-reversible) • [Cure Serious Wounds (Reversible)](#cure-serious-wounds-reversible) • [Detect Charm (Reversible)](#detect-charm-reversible) • [Detect Evil (Reversible)](#detect-evil-reversible) • [Detect Lie (Reversible)](#detect-lie-reversible) • [Detect Magic](#detect-magic) • [Dispel Evil (Reversible)](#dispel-evil-reversible) • [Dispel Magic](#dispel-magic) • [Divination](#divination) • [Earthquake](#earthquake) • [Exorcise](#exorcise) • [Feign Death](#feign-death) • [Find the Path (Reversible)](#find-the-path-reversible) • [Find Traps](#find-traps) • [Flame Strike](#flame-strike) • [Gate](#gate) • [Glyph of Warding](#glyph-of-warding) • [Heal (Reversible)](#heal-reversible) • [Hold Person](#hold-person) • [Holy Word (Reversible)](#holy-word-reversible) • [Insect Plague](#insect-plague) • [Know Alignment (Reversible)](#know-alignment-reversible) • [Light (Reversible)](#light-reversible) • [Locate Object (Reversible)](#locate-object-reversible) • [Lower Water (Reversible)](#lower-water-reversible) • [Neutralise Poison (Reversible)](#neutralise-poison-reversible) • [Part Water](#part-water) • [Plane Shift](#plane-shift) • [Prayer](#prayer) • [Protection from Evil (Reversible)](#protection-from-evil-reversible) • [Protection from Evil, 10-ft Radius (Reversible)](#protection-from-evil-10-ft-radius-reversible) • [Purify Food and Drink (Reversible)](#purify-food-and-drink-reversible) • [Quest](#quest) • [Raise Dead (Reversible)](#raise-dead-reversible) • [Regenerate (Reversible)](#regenerate-reversible) • [Remove Curse (Reversible)](#remove-curse-reversible) • [Remove Fear (Reversible)](#remove-fear-reversible) • [Resist Cold](#resist-cold) • [Resist Fire](#resist-fire) • [Restoration (Reversible)](#restoration-reversible) • [Resurrection (Reversible)](#resurrection-reversible) • [Sanctuary](#sanctuary) • [Silence, 15-ft Radius](#silence-15-ft-radius) • [Slow Poison](#slow-poison) • [Snake Charm](#snake-charm) • [Speak with Animals](#speak-with-animals) • [Speak with Dead](#speak-with-dead) • [Speak with Monsters](#speak-with-monsters) • [Speak with Plants](#speak-with-plants) • [Spiritual Weapon](#spiritual-weapon) • [Sticks to Snakes (Reversible)](#sticks-to-snakes-reversible) • [Stone Tell](#stone-tell) • [Symbol](#symbol) • [Tongues (Reversible)](#tongues-reversible) • [True Seeing (Reversible)](#true-seeing-reversible) • [Wind Walk](#wind-walk) • [Word of Recall](#word-of-recall)
-
 
 Clerical spells draw upon divine power, channelling unearthly forces through the cleric's words and gestures. Any clerical spell with a material component requires (at a minimum) the use of the cleric's holy symbol unless the spell description states otherwise.
 
