@@ -128,7 +128,7 @@ blockquote {
 
 .dropdown-navbar li {
   position: relative;
-  border: 1px solid red;
+  border: 1px solid green;
 }
 
 .dropdown-navbar > ul > li {
@@ -147,7 +147,7 @@ blockquote {
   font-weight: bold;
   white-space: nowrap;      /* Ne törje meg a linket */
   z-index: 500;
-  line-height: 1.2;
+  line-height: 20px;
 }
 
 .dropdown-navbar ul ul {
