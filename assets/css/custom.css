@@ -134,11 +134,13 @@ blockquote {
 .dropdown-navbar > ul > li {
   padding: 10px;
   display: flex;
+  border: 1px dashed blue;
 }
 
 .dropdown-navbar > ul > li > a {
   display: flex;
   height: 100%;
+  border: 1px solid red;
 }
 
 .dropdown-navbar a {
