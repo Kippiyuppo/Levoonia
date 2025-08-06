@@ -8,6 +8,18 @@
       <a href="#">Level One</a>
       <ul>
         <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#command">Command</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#create-water-reversible">Create Water (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#cure-light-wounds-reversible">Cure Light Wounds (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#detect-evil-reversible">Detect Evil (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#detect-magic">Detect Magic</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#light-reversible">Light (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#protection-from-evil-reversible">Protection from Evil (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#purify-food-and-drink-reversible">Purify Food and Drink (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#remove-fear-reversible">Remove Fear (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#resist-cold">Resist Cold</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#sanctuary">Sanctuary</a></li>
       </ul>
     </li>
     <li>
