@@ -7,7 +7,7 @@
 If the ability scores rolled (after adjustment for race) do not reach the limits, then the class is not a valid choice for the character.
 
 |     | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|
 | Assassin | 12  | 12  | 6   | 11  | 6   | 6   |
 | Barbarian | 12  | 6   | 15  | 3   | 6   | 6   |
 | Cleric | 6   | 3   | 6   | 6   | 9   | 6   |
