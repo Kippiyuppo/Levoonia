@@ -128,19 +128,16 @@ blockquote {
 
 .dropdown-navbar li {
   position: relative;
-  border: 1px solid blue;
 }
 
 .dropdown-navbar > ul > li {
   padding: 10px;
   display: flex;
-  border: 1px dashed red;
 }
 
 .dropdown-navbar > ul > li > a {
   display: flex;
   height: 100%;
-  border: 1px solid green;
 }
 
 .dropdown-navbar a {
