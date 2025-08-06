@@ -1,6 +1,122 @@
 # Druid Spells
 
-[Animal Friendship](#animal-friendship) • [Animal Growth (Reversible)](#animal-growth-reversible) • [Animal Summoning I](#animal-summoning-i) • [Animal Summoning II](#animal-summoning-ii) • [Animal Summoning III](#animal-summoning-iii) • [Animate Rock](#animate-rock) • [Anti-Animal Shell](#anti-animal-shell) • [Anti-Plant Shell](#anti-plant-shell) • [Barkskin](#barkskin) • [Call Lightning](#call-lightning) • [Call Woodland Beings](#call-woodland-beings) • [Chariot of Fire](#chariot-of-fire) • [Charm Person or Mammal](#charm-person-or-mammal) • [Commune With Nature](#commune-with-nature) • [Confusion](#confusion) • [Conjure Earth Elemental (Reversible)](#conjure-earth-elemental-reversible) • [Conjure Fire Elemental (Reversible)](#conjure-fire-elemental-reversible) • [Control Temperature, 10-ft Radius](#control-temperature-10-ft-radius) • [Control Weather](#control-weather) • [Control Winds](#control-winds) • [Create Water](#create-water) • [Creeping Doom](#creeping-doom) • [Cure Disease (Reversible)](#cure-disease-reversible) • [Cure Critical Wounds (Reversible)](#cure-critical-wounds-reversible) • [Cure Light Wounds (Reversible)](#cure-light-wounds-reversible) • [Cure Serious Wounds (Reversible)](#cure-serious-wounds-reversible) • [Detect Magic](#detect-magic) • [Detect Pits and Snares](#detect-pits-and-snares) • [Dispel Magic](#dispel-magic) • [Entangle](#entangle) • [Faerie Fire](#faerie-fire) • [Feeblemind](#feeblemind) • [Feign Death](#feign-death) • [Finger of Death](#finger-of-death) • [Fire Seeds](#fire-seeds) • [Fire Storm (Reversible)](#fire-storm-reversible) • [Fire Trap](#fire-trap) • [Hallucinatory Forest](#hallucinatory-forest) • [Heat Metal (Reversible)](#heat-metal-reversible) • [Hold Animal](#hold-animal) • [Hold Plant](#hold-plant) • [Insect Plague](#insect-plague) • [Invisibility to Animals](#invisibility-to-animals) • [Locate Animals](#locate-animals) • [Locate Plants](#locate-plants) • [Neutralise Poison (Reversible)](#neutralise-poison-reversible) • [Obscurement](#obscurement) • [Pass Plant](#pass-plant) • [Pass Without Trace](#pass-without-trace) • [Plant Door](#plant-door) • [Plant Growth](#plant-growth) • [Predict Weather](#predict-weather) • [Produce Fire (Reversible)](#produce-fire-reversible) • [Produce Flame](#produce-flame) • [Protection From Fire](#protection-from-fire)
+<nav class="dropdown-navbar">
+  <ul>
+    <li>
+      <a href="#">Level One</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/druid-spells#animal-friendship">Animal Friendship</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#detect-magic">Detect Magic</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#detect-pits-and-snares">Detect Pits and Snares</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#entangle">Entangle</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#faerie-fire">Faerie Fire</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#invisibility-to-animals">Invisibility to Animals</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#locate-animals">Locate Animals</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#pass-without-trace">Pass Without Trace</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#predict-weather">Predict Weather</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#purify-water-reversible">Purify Water (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#shillelagh">Shillelagh</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#speak-with-animals">Speak With Animals</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Two</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/druid-spells#barkskin">Barkskin</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#charm-person-or-mammal">Charm Person or Mammal</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#create-water">Create Water</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#cure-light-wounds-reversible">Cure Light Wounds (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#feign-death">Feign Death</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#fire-trap">Fire Trap</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#heat-metal-reversible">Heat Metal (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#locate-plants">Locate Plants</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#obscurement">Obscurement</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#produce-flame">Produce Flame</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#trip">Trip</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#warp-wood">Warp Wood</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Three</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/druid-spells#call-lightning">Call Lightning</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#cure-disease-reversible">Cure Disease (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#hold-animal">Hold Animal</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#neutralise-poison-reversible">Neutralise Poison (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#plant-growth">Plant Growth</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#protection-from-fire">Protection From Fire</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#pyrotechnics">Pyrotechnics</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#snare">Snare</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#stone-shape">Stone Shape</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#summon-insects">Summon Insects</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#tree">Tree</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#water-breathing-reversible">Water Breathing (Reversible)</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Four</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/druid-spells#animal-summoning-i">Animal Summoning I</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#call-woodland-beings">Call Woodland Beings</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#control-temperature-10-ft-radius">Control Temperature, 10-ft Radius</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#cure-serious-wounds-reversible">Cure Serious Wounds (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#dispel-magic">Dispel Magic</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#hallucinatory-forest">Hallucinatory Forest</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#hold-plant">Hold Plant</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#plant-door">Plant Door</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#produce-fire-reversible">Produce Fire (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#protection-from-lightning">Protection From Lightning</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#repel-insects">Repel Insects</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#speak-with-plants">Speak With Plants</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Five</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/druid-spells#animal-growth-reversible">Animal Growth (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#animal-summoning-ii">Animal Summoning II</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#anti-plant-shell">Anti-Plant Shell</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#commune-with-nature">Commune With Nature</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#control-winds">Control Winds</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#insect-plague">Insect Plague</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#pass-plant">Pass Plant</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#sticks-to-snakes-reversible">Sticks to Snakes (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#transmute-rock-to-mud-reversible">Transmute Rock to Mud (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#wall-of-fire">Wall of Fire</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Six</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/druid-spells#animal-summoning-iii">Animal Summoning III</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#anti-animal-shell">Anti-Animal Shell</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#conjure-fire-elemental-reversible">Conjure Fire Elemental (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#cure-critical-wounds-reversible">Cure Critical Wounds (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#feeblemind">Feeblemind</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#fire-seeds">Fire Seeds</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#transport-via-plants">Transport via Plants</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#turn-wood">Turn Wood</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#wall-of-thorns">Wall of Thorns</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#weather-summoning">Weather Summoning</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Seven</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/druid-spells#animate-rock">Animate Rock</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#chariot-of-fire">Chariot of Fire</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#confusion">Confusion</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#conjure-earth-elemental-reversible">Conjure Earth Elemental (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#control-weather">Control Weather</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#creeping-doom">Creeping Doom</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#finger-of-death">Finger of Death</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#fire-storm-reversible">Fire Storm (Reversible)</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#reincarnate">Reincarnate</a></li>
+<li><a href="/Levoonia/Spells/druid-spells#transmute-metal-to-wood">Transmute Metal to Wood</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
 
 Druidic spells draw upon the divine power of nature, and operate according to similar principles as clerical spells. Any druidic spell with a material component requires (at a minimum) the use of mistletoe, holly, or oak leaves as described under the Druid class.
 
