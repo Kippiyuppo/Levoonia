@@ -1,6 +1,240 @@
 # Magic User Spells
 
-
+<nav class="dropdown-navbar">
+  <ul>
+    <li>
+      <a href="#">Level One</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/magic-user-spells#affect-normal-fires">Affect Normal Fires</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#burning-hands">Burning Hands</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#charm-person">Charm Person</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#comprehend-languages-reversible">Comprehend Languages (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#dancing-lights">Dancing Lights</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#detect-magic">Detect Magic</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#enlarge-reversible">Enlarge (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#erase">Erase</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#feather-fall">Feather Fall</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#find-familiar">Find Familiar</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#floating-disk">Floating Disk</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#friends">Friends</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#hold-portal">Hold Portal</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#identify">Identify</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#jump">Jump</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#light">Light</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#magic-aura">Magic Aura</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#magic-missile">Magic Missile</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#mending">Mending</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#message">Message</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#protection-from-evil-reversible">Protection From Evil (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#push">Push</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#read-magic-reversible">Read Magic (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#shield">Shield</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#shocking-grasp">Shocking Grasp</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#sleep">Sleep</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#spider-climb">Spider Climb</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#unseen-servant">Unseen Servant</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#ventriloquism">Ventriloquism</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#write">Write</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Two</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/magic-user-spells#audible-glamour">Audible Glamour</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#continual-light">Continual Light</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#darkness-15-ft-radius">Darkness, 15-ft Radius</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#detect-evil-reversible">Detect Evil (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#detect-invisibility">Detect Invisibility</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#esp">ESP</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#fools-gold">Fool's Gold</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#forget">Forget</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#invisibility">Invisibility</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#knock">Knock</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#false-trap">False Trap</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#levitate">Levitate</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#locate-object">Locate Object</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#magic-mouth">Magic Mouth</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#mirror-image">Mirror Image</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#pyrotechnics">Pyrotechnics</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#ray-of-enfeeblement">Ray of Enfeeblement</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#rope-trick">Rope Trick</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#scare">Scare</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#shatter">Shatter</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#stinking-cloud">Stinking Cloud</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#strength">Strength</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#web">Web</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#wizard-lock">Wizard Lock</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Three</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/magic-user-spells#blink">Blink</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#clairaudience">Clairaudience</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#clairvoyance">Clairvoyance</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#dispel-magic">Dispel Magic</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#explosive-runes">Explosive Runes</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#feign-death">Feign Death</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#fireball">Fireball</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#flame-arrow">Flame Arrow</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#fly">Fly</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#gust-of-wind">Gust of Wind</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#haste">Haste</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#hold-person">Hold Person</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#infravision">Infravision</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#invisibility-10-ft-radius">Invisibility, 10-ft Radius</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#lightning-bolt">Lightning Bolt</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#monster-summoning-i">Monster Summoning I</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#phantasmal-force">Phantasmal Force</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#protection-from-evil-10-ft-radius-reversible">Protection From Evil, 10-ft r. (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#protection-from-normal-missiles">Protection From Normal Missiles</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#slow">Slow</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#suggestion">Suggestion</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#tiny-hut">Tiny Hut</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#tongues-reversible">Tongues (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#water-breathing-reversible">Water Breathing (Reversible)</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Four</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/magic-user-spells#charm-monster">Charm Monster</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#confusion">Confusion</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#dig">Dig</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#dimension-door">Dimension Door</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#enchanted-weapon-reversible">Enchanted Weapon (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#extension-i">Extension I</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#fear">Fear</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#fire-charm">Fire Charm</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#fire-shield">Fire Shield</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#fire-trap">Fire Trap</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#fumble">Fumble</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#hallucinatory-terrain">Hallucinatory Terrain</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#ice-storm">Ice Storm</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#massmorph">Massmorph</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#minor-globe-of-invulnerability">Minor Globe of Invulnerability</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#mnemonic-enhancement">Mnemonic Enhancement</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#monster-summoning-ii">Monster Summoning II</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#plant-growth">Plant Growth</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#polymorph-other">Polymorph Other</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#polymorph-self">Polymorph Self</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#remove-curse-reversible">Remove Curse (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#wall-of-fire">Wall of Fire</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#wall-of-ice">Wall of Ice</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#wizard-eye">Wizard Eye</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Five</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/magic-user-spells#airy-water">Airy Water</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#animal-growth-reversible">Animal Growth (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#animate-dead">Animate Dead</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#cloudkill">Cloudkill</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#cone-of-cold">Cone of Cold</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#conjure-elemental">Conjure Elemental</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#contact-other-plane">Contact Other Plane</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#distance-distortion">Distance Distortion</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#extension-ii">Extension II</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#feeblemind">Feeblemind</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#hold-monster">Hold Monster</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#interposing-hand">Interposing Hand</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#mages-faithful-hound">Mage's Faithful Hound</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#magic-jar">Magic Jar</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#monster-summoning-iii">Monster Summoning III</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#passwall">Passwall</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#secret-chest">Secret Chest</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#stone-shape">Stone Shape</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#telekinesis">Telekinesis</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#teleport">Teleport</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#transmute-rock-to-mud">Transmute Rock to Mud</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#wall-of-force">Wall of Force</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#wall-of-iron">Wall of Iron</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#wall-of-stone">Wall of Stone</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Six</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/magic-user-spells#anti-magic-shell">Anti-Magic Shell</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#control-weather">Control Weather</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#death-spell">Death Spell</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#disintegrate">Disintegrate</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#enchant-an-item">Enchant an Item</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#extension-iii">Extension III</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#forceful-hand">Forceful Hand</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#freezing-sphere">Freezing Sphere</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#geas">Geas</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#glasseye">Glasseye</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#globe-of-invulnerability">Globe of Invulnerability</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#guards-and-wards">Guards and Wards</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#invisible-stalker">Invisible Stalker</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#legend-lore">Legend Lore</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#lower-water-reversible">Lower Water (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#monster-summoning-iv">Monster Summoning IV</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#move-earth">Move Earth</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#part-water">Part Water</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#project-image">Project Image</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#reincarnation">Reincarnation</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#repulsion">Repulsion</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#spirit-rack">Spirit-Rack</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#stone-to-flesh-reversible">Stone to Flesh (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#transformation">Transformation</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Seven</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/magic-user-spells#cacodemon">Cacodemon</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#charm-plants">Charm Plants</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#delayed-blast-fireball">Delayed Blast Fireball</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#duo-dimension">Duo-Dimension</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#grasping-hand">Grasping Hand</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#instant-summons">Instant Summons</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#limited-wish">Limited Wish</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#mages-sword">Mage's Sword</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#mass-invisibility">Mass Invisibility</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#monster-summoning-v">Monster Summoning V</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#phase-door">Phase Door</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#power-word-stun">Power Word, Stun</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Eight</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/magic-user-spells#antipathysympathy">Antipathy/Sympathy</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#clenched-fist">Clenched Fist</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#clone">Clone</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#glass-steel">Glass-steel</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#incendiary-cloud">Incendiary Cloud</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#irresistible-dance">Irresistible Dance</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#mass-charm">Mass Charm</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#maze">Maze</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#mind-blank">Mind Blank</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#monster-summoning-vi">Monster Summoning VI</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#permanency">Permanency</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#polymorph-object">Polymorph Object</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Nine</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/magic-user-spells#astral-spell">Astral Spell</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#crushing-hand">Crushing Hand</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#gate">Gate</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#imprisonment-reversible">Imprisonment (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#meteor-swarm">Meteor Swarm</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#monster-summoning-vii">Monster Summoning VII</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#power-word-kill">Power Word, Kill</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#prismatic-sphere">Prismatic Sphere</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#shape-change">Shape Change</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#temporal-stasis-reversible">Temporal Stasis (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#time-stop">Time Stop</a></li>
+        <li><a href="/Levoonia/Spells/magic-user-spells#wish">Wish</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
 
 Unlike clerical and druidic spells, magic user spells do not require a holy symbol or mistletoe as material components.
 
