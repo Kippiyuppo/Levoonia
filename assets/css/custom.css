@@ -114,7 +114,7 @@ blockquote {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-  padding: 0px;
+  padding: 10px;
   background-color: #f7ebcb;
   border-bottom: 1px solid #ddd;
   max-width: 100vw;         /* Ne lógjon ki a viewportból */
@@ -124,28 +124,19 @@ blockquote {
   overflow: visible;  /* engedi, hogy a lenyíló menü kilógjon */
   list-style: none; /* eltünteti a pontokat/karikákat */
   z-index: 10;
-  align-items: center;
-  vertical-align: middle;
 }
 
 .dropdown-navbar li {
   position: relative;
-  align-items: center;
-  vertical-align: middle;
 }
 
 .dropdown-navbar > ul > li {
-  padding: 0px;
+  padding: 10px;
   display: flex;
-  align-items: center;
-  vertical-align: middle;
 }
 
 .dropdown-navbar > ul > li > a {
   display: flex;
-  align-items: center;
-  vertical-align: middle;
-  height: 100%;
 }
 
 .dropdown-navbar a {
