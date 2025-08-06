@@ -100,7 +100,7 @@
 <li><a href="/Levoonia/Spells/illusionist-spells#prismatics-pray">Prismatic Spray</a></li>
 <li><a href="/Levoonia/Spells/illusionist-spells#prismatic-wall">Prismatic Wall</a></li>
 <li><a href="/Levoonia/Spells/illusionist-spells#vision">Vision</a></li>
-<li><a href="/Levoonia/Spells/illusionist-spells#arcane-spells-level1">Arcane Spells, Level 1</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#arcane-spells-level-1">Arcane Spells, Level 1</a></li>
       </ul>
     </li>
   </ul>
