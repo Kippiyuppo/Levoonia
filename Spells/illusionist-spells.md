@@ -1,7 +1,110 @@
 # Illusionist Spells
 
-[Alter Reality](#alterreality) • [Arcane Spells, Level 1](#arcanespells-level1) • [Astral Spell](#astralspell) • [Audible Glamour](#audibleglamour) • [Blindness](#blindness) • [Blur](#blur) • [Change Self](#changeself) • [Chaos](#chaos) • [Colour Spray](#colourspray) • [Confusion](#confusion) • [Conjure Animals](#conjureanimals) • [Continual Darkness](#continualdarkness) • [Continual Light](#continuallight) • [Dancing Lights](#dancinglights) • [Darkness](#darkness) • [Deafness](#deafness) • [Demi-Shadow Magic](#demi-shadowmagic) • [Demi-Shadow Monsters](#demi-shadowmonsters) • [Detect Illusion](#detectillusion) • [Detect Invisibility](#detectinvisibility) • [Detect Magic](#detectmagic) • [Dispel Exhaustion](#dispelexhaustion) • [Dispel Illusion](#dispelillusion) • [Emotion](#emotion) • [Fear](#fear) • [Fog Cloud](#fogcloud) • [Gaze Reflection](#gazereflection) • [Hallucinatory Terrain](#hallucinatoryterrain) • [Hypnotic Pattern](#hypnoticpattern) • [Hypnotism](#hypnotism) • [Illusory Script](#illusoryscript) • [Improved Invisibility](#improvedinvisibility) • [Improved Phantasmal Force](#improvedphantasmalforce) • [Invisibility](#invisibility) • [Invisibility, 10-ft Radius](#invisibility-10-ftradius) • [Light](#light) • [Magic Mouth](#magicmouth) • [Major Creation](#majorcreation) • [Mass Suggestion](#masssuggestion) • [Massmorph](#massmorph) • [Maze](#maze) • [Minor Creation](#minorcreation) • [Mirror Image](#mirrorimage) • [Misdirection](#misdirection) • [Non-Detection](#non-detection) • [Paralysation](#paralysation) • [Permanent Illusion](#permanentillusion) • [Phantasmal Force](#phantasmalforce) • [Phantasmal Killer](#phantasmalkiller) • [Prismatic Spray](#prismaticspray) • [Prismatic Wall](#prismaticwall) • [Programmed Illusion](#programmedillusion) • [Project Image](#projectimage) • [Rope Trick](#ropetrick) • [Shades](#shades) • [Shadow Door](#shadowdoor) • [Shadow Magic](#shadowmagic) • [Shadow Monsters](#shadowmonsters) • [Spectral Force](#spectralforce) • [Suggestion](#suggestion) • [Summon Shadow](#summonshadow) • [True Sight](#truesight) • [Veil](#veil) • [Ventriloquism](#ventriloquism) • [Vision](#vision) • [Wall of Fog](#walloffog)
-
+<nav class="dropdown-navbar">
+  <ul>
+    <li>
+      <a href="#">Level One</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/illusionist-spells#audibleglamour">Audible Glamour</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#changeself">Change Self</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#colourspray">Colour Spray</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#dancinglights">Dancing Lights</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#darkness">Darkness</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#detectillusion">Detect Illusion</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#detectinvisibility">Detect Invisibility</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#gazereflection">Gaze Reflection</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#hypnotism">Hypnotism</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#light">Light</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#phantasmalforce">Phantasmal Force</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#walloffog">Wall of Fog</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Two</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/illusionist-spells#blindness">Blindness</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#blur">Blur</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#deafness">Deafness</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#detectmagic">Detect Magic</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#fogcloud">Fog Cloud</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#hypnoticpattern">Hypnotic Pattern</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#improvedphantasmalforce">Improved Phantasmal Force</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#invisibility">Invisibility</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#magicmouth">Magic Mouth</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#mirrorimage">Mirror Image</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#misdirection">Misdirection</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#ventriloquism">Ventriloquism</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Three</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/illusionist-spells#continualdarkness">Continual Darkness</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#continuallight">Continual Light</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#dispelillusion">Dispel Illusion</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#fear">Fear</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#hallucinatoryterrain">Hallucinatory Terrain</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#illusoryscript">Illusory Script</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#invisibility-10-ftradius">Invisibility, 10-ft Radius</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#non-detection">Non-Detection</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#paralysation">Paralysation</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#ropetrick">Rope Trick</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#spectralforce">Spectral Force</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#suggestion">Suggestion</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Four</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/illusionist-spells#confusion">Confusion</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#dispelexhaustion">Dispel Exhaustion</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#emotion">Emotion</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#improvedinvisibility">Improved Invisibility</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#massmorph">Massmorph</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#minorcreation">Minor Creation</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#phantasmalkiller">Phantasmal Killer</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#shadowmonsters">Shadow Monsters</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Five</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/illusionist-spells#chaos">Chaos</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#demi-shadowmonsters">Demi-Shadow Monsters</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#majorcreation">Major Creation</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#maze">Maze</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#projectimage">Project Image</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#shadowdoor">Shadow Door</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#shadowmagic">Shadow Magic</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#summonshadow">Summon Shadow</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Six</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/illusionist-spells#conjureanimals">Conjure Animals</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#demi-shadowmagic">Demi-Shadow Magic</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#masssuggestion">Mass Suggestion</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#permanentillusion">Permanent Illusion</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#programmedillusion">Programmed Illusion</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#shades">Shades</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#truesight">True Sight</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#veil">Veil</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#">Level Seven</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/illusionist-spells#alterreality">Alter Reality</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#astralspell">Astral Spell</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#prismaticspray">Prismatic Spray</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#prismaticwall">Prismatic Wall</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#vision">Vision</a></li>
+<li><a href="/Levoonia/Spells/illusionist-spells#arcanespells-level1">Arcane Spells, Level 1</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
 
 Unlike clerical and druidic spells, illusionist spells (also known as Phantasmal spells in the OSRIC system) do not require any special material components. There are some illusionist spells that can be cast within the area of effect of a silence spell, since they have no verbal component.
 
