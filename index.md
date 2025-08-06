@@ -24,13 +24,13 @@ The system is built for those who appreciate the challenge, unpredictability, an
     <li>
       <a href="#">Classes</a>
       <ul>
-        <li><a href="/Levoonia/Classes/Classes#Assassin">Assassin</a></li>  /* így kéne kinéznie majd mindegyiknek, ha egy md-ba teszem fel az összes classt */
+        <li><a href="/Levoonia/Classes/Classes#Assassin">Assassin</a></li>  <!-- így kéne kinéznie majd mindegyiknek, ha egy md-ba teszem fel az összes classt -->
         <li><a href="/Levoonia/Classes/Barbarian">Barbarian</a></li>
         <li><a href="/Levoonia/Classes/Cleric">Cleric</a></li>
         <li><a href="/Levoonia/Classes/Druid">Druid</a></li>
         <li><a href="/Levoonia/Classes/Fighter">Fighter</a></li>
         <li><a href="/Levoonia/Classes/Illusionist">Illusionist</a></li>
-        <li><a href="/Levoonia/Classes/Magic User">Magic User</a></li>  /* itt a szóköz lehet, hogy nem jó az md nevében */
+        <li><a href="/Levoonia/Classes/Magic User">Magic User</a></li>  <!-- itt a szóköz lehet, hogy nem jó a md nevében -->
         <li><a href="/Levoonia/Classes/Paladin">Paladin</a></li>
         <li><a href="/Levoonia/Classes/Half-Elf">Ranger</a></li>
         <li><a href="/Levoonia/Classes/Sorcerer">Sorcerer</a></li>
