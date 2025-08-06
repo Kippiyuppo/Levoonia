@@ -4,5 +4,44 @@
 <!-- Egyéni stílus -->
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 
+<!-- back-to-top Style -->
+<style>
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #333;
+  color: white;
+  padding: 10px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 14px;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+  z-index: 1000;
+  display: none;
+}
+.back-to-top:hover {
+  opacity: 1;
+}
+</style>
 
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- back-to-top Script -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const btn = document.querySelector('.back-to-top');
+  window.addEventListener('scroll', function() {
+    if (window.scrollY > 300) {
+      btn.style.display = 'block';
+    } else {
+      btn.style.display = 'none';
+    }
+  });
+});
+</script>
+
+<body>
+  {{ content }}
+
+  <a href="#top" class="back-to-top">⬆ Lap tetejére</a>
+</body>
