@@ -136,6 +136,11 @@ blockquote {
   align-items: center;
 }
 
+.dropdown-navbar > ul > li:first-child {
+  position: relative;
+  top: -2px;
+}
+
 .dropdown-navbar > ul > li > a {
   display: flex;
   align-items: center;
