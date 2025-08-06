@@ -8,7 +8,6 @@
       <a href="#">Level One</a>
       <ul>
         <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
-        <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#command">Command</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#create-water-reversible">Create Water (Reversible)</a></li>
         <li><a href="/Levoonia/Spells/cleric-spells#cure-light-wounds-reversible">Cure Light Wounds (Reversible)</a></li>
@@ -25,37 +24,95 @@
     <li>
       <a href="#">Level Two</a>
       <ul>
-        <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#augury">Augury</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#chant">Chant</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#detect-charm-reversible">Detect Charm (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#find-traps">Find Traps</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#hold-person">Hold Person</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#know-alignment-reversible">Know Alignment (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#resist-fire">Resist Fire</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#silence-15-ft-radius">Silence, 15-ft Radius</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#slow-poison">Slow Poison</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#snake-charm">Snake Charm</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#speak-with-animals">Speak with Animals</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#spiritual-weapon">Spiritual Weapon</a></li>
       </ul>
     </li>
     <li>
       <a href="#">Level Three</a>
       <ul>
-        <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#animate-dead">Animate Dead</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#continual-light-reversible">Continual Light (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#create-food-and-water">Create Food and Water</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#cure-blindness-reversible">Cure Blindness (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#cure-disease-reversible">Cure Disease (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#dispel-magic">Dispel Magic</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#feign-death">Feign Death</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#glyph-of-warding">Glyph of Warding</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#locate-object-reversible">Locate Object (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#prayer">Prayer</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#remove-curse-reversible">Remove Curse (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#speak-with-dead">Speak with Dead</a></li>
       </ul>
     </li>
         <li>
       <a href="#">Level Four</a>
       <ul>
-        <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#cure-serious-wounds-reversible">Cure Serious Wounds (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#detect-lie-reversible">Detect Lie (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#divination">Divination</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#exorcise">Exorcise</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#lower-water-reversible">Lower Water (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#neutralise-poison-reversible">Neutralise Poison (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#protection-from-evil-10-ft-radius-reversible">Protection from Evil, 10-ft Radius (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#speak-with-plants">Speak with Plants</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#sticks-to-snakes-reversible">Sticks to Snakes (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#tongues-reversible">Tongues (Reversible)</a></li>
       </ul>
     </li>
         <li>
       <a href="#">Level Five</a>
       <ul>
-        <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#atonement">Atonement</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#commune">Commune</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#cure-critical-wounds-reversible">Cure Critical Wounds (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#dispel-evil-reversible">Dispel Evil (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#flame-strike">Flame Strike</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#insect-plague">Insect Plague</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#plane-shift">Plane Shift</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#quest">Quest</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#raise-dead-reversible">Raise Dead (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#true-seeing-reversible">True Seeing (Reversible)</a></li>
       </ul>
     </li>
         <li>
       <a href="#">Level Six</a>
       <ul>
-        <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#aerial-servant">Aerial Servant</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#animate-object">Animate Object</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#blade-barrier">Blade Barrier</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#conjure-animals">Conjure Animals</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#find-the-path-reversible">Find the Path (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#heal-reversible">Heal (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#part-water">Part Water</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#speak-with-monsters">Speak with Monsters</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#stone-tell">Stone Tell</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#word-of-recall)">Word of Recall</a></li>
       </ul>
     </li>
         <li>
       <a href="#">Level Seven</a>
       <ul>
-        <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#astral-spell">Astral Spell</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#control-weather">Control Weather</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#earthquake">Earthquake</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#gate">Gate</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#holy-word-reversible">Holy Word (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#regenerate-reversible">Regenerate (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#restoration-reversible">Restoration (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#resurrection-reversible">Resurrection (Reversible)</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#symbol">Symbol</a></li>
+        <li><a href="/Levoonia/Spells/cleric-spells#wind-walk">Wind Walk</a></li>
       </ul>
     </li>
   </ul>
