@@ -2,6 +2,32 @@
 
 ## Cleric Spell List by Level
 
+<nav class="dropdown-navbar">
+  <ul>
+    <li>
+      <a href="#">Level One</a>
+      <ul>
+        <li><a href="/Levoonia/Spells/cleric-spells#bless-reversible">Bless (Reversible)</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Two</a>
+      <ul>
+        <li><a href="/Levoonia/Classes/Classes#Assassin">Assassin</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Level Three</a>
+      <ul>
+        <li><a href="/Levoonia/Equipment/Armor">Armor</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+
 | Level One | Level Two | Level Three |
 | --- | --- | --- |
 | Bless\* | Augury | Animate Dead |
