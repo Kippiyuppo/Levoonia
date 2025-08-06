@@ -133,7 +133,6 @@ blockquote {
 .dropdown-navbar > ul > li {
   padding: 10px;
   display: flex;
-  align-items: center;
 }
 
 .dropdown-navbar > ul > li:first-child {
@@ -143,7 +142,6 @@ blockquote {
 
 .dropdown-navbar > ul > li > a {
   display: flex;
-  align-items: center;
   height: 100%;
 }
 
