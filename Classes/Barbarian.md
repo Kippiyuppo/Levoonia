@@ -36,7 +36,7 @@ Among adventurers, a Barbarian may serve as a mighty ally or a dangerous rival. 
 
 ### Barbarian Saving Throw Table
 
-| **Level** | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
+| **Level** &nbsp; &nbsp; | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
 | --- |:---:|:---:|:---:|:---:|:---:|
 | 1-2 | 18  | 16  | 14  | 16  | 18  |
 | 3-4 | 17  | 14  | 13  | 14  | 17  |
