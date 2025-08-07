@@ -1,18 +1,18 @@
-# Step by Step Character Creation
+## Step by Step Character Creation
 
-### **Generate Character Ability Scores**
+#### **Generate Character Ability Scores**
 
 - Choose method
 
 - Generate ability scores
 
-## **Select Race**
+### **Select Race**
 
 - Select race and record ability score bonuses/penalties
 
 - Record various racial features
 
-## **Select Class**
+### **Select Class**
 
 - Select class
 
@@ -24,16 +24,16 @@
 
 - Determine age, height, weight
 
-## **Select Alignment**
+### **Select Alignment**
 
 - Select the alignment of the character based on the specifications of
   the character class
 
-## **Determine Starting Money**
+### **Determine Starting Money**
 
 - Determine and record starting money
 
-## **Purchase Starting Equipment**
+### **Purchase Starting Equipment**
 
 - Purchase starting equipment
 
@@ -43,9 +43,9 @@
 
 - Check the encumbrance and determine the speed of the character
 
-# Ability Scores
+## Ability Scores
 
-## **Abilities**
+### **Abilities**
 
 Six abilities provide a quick description of every creature\'s physical
 and mental characteristics:
@@ -66,7 +66,7 @@ The normal human average score is between 9 and 12. A score of 18 is the
 highest that a person usually reaches. Adventurers can have scores as
 high as 20.
 
-### **Rolling Abilities**
+#### **Rolling Abilities**
 
 Each of these abilities is represented by a number from 3-18, the higher
 the better. The Game Master ("GM") will decide how you should generate
@@ -86,7 +86,7 @@ A character with more than one very low (3-6) Ability Score, is not
 suitable for dangerous adventures, and the player may be allowed to roll
 up a new character instead of the \'hopeless\' one.
 
-### **Ability Scores and Modifiers**
+#### **Ability Scores and Modifiers**
 
 Each ability also has a modifier, derived from the score and ranging
 from -5 (for an ability score of 1) to +5 (for a score of 20). The table
@@ -94,7 +94,7 @@ below notes the ability modifiers for the range of possible ability
 scores, from 1 to 20.
 
 | **Score** | **Modifier** |
-|-----------|--------------|
+|-----------|:------------:|
 | 1         | -5           |
 | 2         | -4           |
 | 3         | -3           |
@@ -107,17 +107,17 @@ scores, from 1 to 20.
 | 19        | +4           |
 | 20        | +5           |
 
-## Using Each Ability
+### Using Each Ability
 
 This section explains in more detail what those abilities mean and the
 ways they are used in the game.
 
-### Strength
+#### Strength
 
 Strength measures bodily power, athletic training, and the extent to
 which you can exert raw physical force.
 
-#### Strength Checks
+##### Strength Checks
 
 A Strength check can model any attempt to lift, push, pull, or break
 something, to force your body through a space, or to otherwise apply
@@ -134,14 +134,14 @@ like the following:
 
 - Keep a boulder from rolling
 
-#### Attack Rolls and Damage
+##### Attack Rolls and Damage
 
 You add your Strength modifier to your attack roll and your damage roll
 when attacking with a melee weapon such as a mace, a battleaxe, or a
 javelin. You use melee weapons to make melee attacks in hand-to-hand
 combat, and some of them can be thrown to make a ranged attack.
 
-#### Encumbrance
+##### Encumbrance
 
 Encumbrance is measured by item \"slots\" rather than weight. Slot
 values are assigned at referee\'s discretion based on size and bulk, not
@@ -167,11 +167,11 @@ Encumbrance Thresholds:
 worth of gear and remain unencumbered. Carrying between 10 and 19 slots
 renders him encumbered. At 20 or more slots, he is heavily encumbered.
 
-### Dexterity
+#### Dexterity
 
 Dexterity measures agility, reflexes and balance.
 
-#### Dexterity Checks
+##### Dexterity Checks
 
 A Dexterity check can model any attempt to move nimbly, quickly, or
 quietly, or to keep from falling on tricky footing. The GM might call
@@ -186,28 +186,28 @@ following:
 
 - Craft a small or detailed object
 
-#### Attack Rolls and Damage
+##### Attack Rolls and Damage
 
 You add your Dexterity modifier to your attack roll and your damage roll
 when attacking with a ranged weapon, such as a sling or a longbow.
 
-#### Surprise Bonus
+##### Surprise Bonus
 
 The Surprise Bonus gives the character a chance to act before the enemy
 in the first round of combat, provided the enemy is unaware of the
 character\'s exact location. Add the Dexterity modifier to the d6 roll
 to determine success.
 
-#### Armor Class
+##### Armor Class
 
 Depending on the armor you wear, you might add your Dexterity modifier
 to your Armor Class (AC).
 
-### Constitution
+#### Constitution
 
 Constitution measures health, stamina, and vital force.
 
-#### Constitution Checks
+##### Constitution Checks
 
 A Constitution check can model your attempt to push beyond normal
 limits. The GM might call for a Constitution check when you try to
@@ -221,7 +221,7 @@ accomplish tasks like the following:
 
 - Quaff an entire stein of ale in one go
 
-#### Survive Resurrection/Raise Dead/System Shock
+##### Survive Resurrection/Raise Dead/System Shock
 
 A character must succeed on a Difficulty Class (DC) of 5 saving throw to
 survive powerful effects such as resurrection, being raised from the
@@ -230,7 +230,7 @@ ability to endure extreme magical effects. Add the Constitution modifier
 to the result of the saving throw to determine if the character
 survives.
 
-#### Hit Points
+##### Hit Points
 
 Your Constitution modifier contributes to your hit points. Typically,
 you add your Constitution modifier to each Hit Die you roll for your hit
@@ -244,7 +244,7 @@ modifier had always been +2. Or if you're 7th level and some effect
 lowers your Constitution score so as to reduce your Constitution
 modifier by 1, your hit point maximum is reduced by 7.
 
-### Intelligence
+#### Intelligence
 
 Intelligence is a measure of a character\'s raw mental power---his or
 her ability to calculate, recall facts, and solve abstract problems. It
@@ -259,7 +259,7 @@ effects of first level illusion spells. If a character were somehow to
 attain the godly intelligence of 20, he or she would also be immune to
 second level illusion spells, and so on.
 
-#### Intelligence Checks
+##### Intelligence Checks
 
 An Intelligence check comes into play when you need to draw on logic,
 education, memory, or deductive reasoning. The GM might call for an
@@ -271,19 +271,19 @@ Intelligence check when you try to accomplish tasks like the following:
 
 - Recall lore about a craft or trade
 
-#### Additional Languages
+##### Additional Languages
 
 Characters with high Intelligence can learn extra languages besides
 their native tongue. This reflects their ability to understand and
 communicate in multiple forms of speech due to sharp mental aptitude.
 This number is equal to the Intelligence modifier.
 
-### Wisdom
+#### Wisdom
 
 Wisdom reflects how attuned you are to the world around you and
 represents perceptiveness and intuition.
 
-#### Wisdom Checks
+##### Wisdom Checks
 
 The GM might call for a Wisdom check when you try to accomplish tasks
 like the following:
@@ -296,14 +296,14 @@ like the following:
 
 - Discern whether a seemingly dead or living creature is undead
 
-#### Mental Saving Throw Bonus
+##### Mental Saving Throw Bonus
 
 Characters add their Wisdom modifier to saving throws against
 mind-affecting magic such as charm, fear, or confusion. This bonus
 applies only to mental magical effects and modifies the standard saving
 throw vs. spells. This number is equal to the Wisdom modifier.
 
-### Charisma
+#### Charisma
 
 Charisma measures your ability to interact effectively with others. It
 includes such factors as confidence and eloquence, and it can represent
@@ -320,7 +320,7 @@ will affect them. The GM may well wish to roleplay through the encounter
 and determine the creature or NPC\'s reactions based on what the player
 says rather than the scores on the character sheet.
 
-#### Maximum Henchmen
+##### Maximum Henchmen
 
 Maximum Henchmen is the number of NPC followers that can serve as loyal,
 long-term companions to your character. This limit does not apply to
@@ -328,7 +328,7 @@ hired help, such as soldiers, guards, assistants, or other hirelings
 employed by the character. This number is equal to 4 + Charisma
 modifier.
 
-#### Loyalty Bonus
+##### Loyalty Bonus
 
 Loyalty represents a follower\'s willingness to remain loyal, follow
 orders and continue to serve the character, especially in dangerous or
@@ -337,18 +337,18 @@ loyalty of their henchmen and retainers. This bonus reflects the
 character's ability to inspire trust and obedience in their followers.
 This number is equal to the Charisma modifier.
 
-#### Reaction Bonus
+##### Reaction Bonus
 
 Characters add their Charisma modifier to reaction rolls when dealing
 with NPCs or creatures. This bonus affects initial attitudes, making
 others more likely to respond favorably or peacefully. This number is
 equal to the Charisma modifier.
 
-# Racial Limitations
+## Racial Limitations
 
 Racial limitations exist to preserve balance, emphasize diversity, and reflect the distinct cultural and biological traits of each race. Just as dwarves excel in toughness and craftsmanship but lack an affinity for arcane magic, or elves possess keen senses and magical insight but are more physically fragile, these limitations help to ensure that no race is the "best choice" in all situations. They reinforce archetypes rooted in myth and fantasy literature and encourage players to embrace the unique strengths and histories of their chosen heritage. This promotes diversity and role playing depth over mechanical optimization.
 
-## Minimum/Maximum ability scores
+### Minimum/Maximum ability scores
 
 If the ability scores rolled (after adjustment for race) do not fall within these limits, then the race is not a valid choice for the character.
 
@@ -361,7 +361,7 @@ If the ability scores rolled (after adjustment for race) do not fall within thes
 | Wisdom | 3/18 | 3/18 | 3/18 | 3/18 | 3/17 | 3/14 | 3/19 |
 | Charisma | 3/16 | 8/18 | 3/18 | 3/18 | 3/18 | 3/12 | 3/19 |
 
-## Level Limitations
+### Level Limitations
 
 “N/A” means, this is not a permitted class option for this race.
 
@@ -381,7 +381,7 @@ If the ability scores rolled (after adjustment for race) do not fall within thes
 | Sorcerer | N/A | 10  | N/A | 10  | N/A | N/A | U   |
 | Thief | U   | U   | U   | U   | U   | 10  | U   |
 
-## Startin Age
+### Startin Age
 
 A player may either determine the character’s starting age randomly using the table below, or select it freely, subject to the referee’s approval.
 
@@ -393,8 +393,6 @@ In cases where a character's age is noticeably advanced, the referee may allow a
 | Barbarian, Fighter, Paladin, Ranger | 40+5d4 | 130+5d6 | 60+5d4 | 22+3d4 | 40+3d4 | 13+1d4 | 15+1d4 |
 | Illusionist, Magic User, Sorcerer | N/A | 150+5d6 | 100+2d12 | 30+2d8 | N/A | N/A | 24+2d8 |
 | Thief, Assassin | 75+3d6 | 100+5d6 | 80+5d4 | 22+3d8 | 40+2d4 | 20+2d4 | 20+1d4 |
-
-
 
 ## Class Limitations
 
