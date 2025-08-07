@@ -73,7 +73,7 @@ Magic users do not gain bonus spells for high intelligence scores; intelligence 
 
 ### Magic User Saving Throw Table
 
-| **Level** | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
+| **Level** &nbsp; &nbsp; | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
 | --- |:---:|:---:|:---:|:---:|:---:|
 | 1-5 | 11  | 15  | 14  | 13  | 12  |
 | 6-10 | 9   | 13  | 13  | 11  | 10  |
