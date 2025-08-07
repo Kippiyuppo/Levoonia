@@ -85,7 +85,7 @@ The loser of the contest goes down to the next lowest level (losing all experien
 
 ### Druid Saving Throw Table
 
-| **Level** | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
+| **Level** &nbsp; &nbsp; | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
 | --- |:---:|:---:|:---:|:---:|:---:|
 | 1-3 | 14  | 16  | 10  | 13  | 15  |
 | 4-6 | 13  | 15  | 9   | 12  | 14  |
