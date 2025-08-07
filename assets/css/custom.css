@@ -146,6 +146,7 @@ blockquote {
 
 .dropdown-navbar li {
   position: relative;
+  border: 1px solid red;
 }
 
 .dropdown-navbar > ul > li {
