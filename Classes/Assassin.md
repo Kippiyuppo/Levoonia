@@ -36,7 +36,7 @@ The assassin has thief skills as a thief two levels below the assassin's level. 
 
 ### Assassin Saving Throw Table
 
-| &nbsp; **Level** &nbsp; | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
+| **Level** &nbsp; &nbsp; | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
 |    ---    |:---:|:---:|:---:|:---:|:---:|
 | 1-4 | 14  | 16  | 13  | 12  | 15  |
 | 5-8 | 12  | 15  | 12  | 11  | 13  |
