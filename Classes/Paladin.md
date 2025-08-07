@@ -44,9 +44,9 @@ Third, paladins will not associate with characters who are not Good in alignment
 
 #### Paladin Spellcasting Table
 
+| **Level** | **Spellcasting Level** | **Spells By Level** |     |     |     |
 | --- | --- | --- | --- | --- | --- |
-| **Level** | **Spellcasting Level** | **Spells By Level** |     |     |     |     |
-|           |                        | **1** | **2** | **3** | **4** |
+|     |     | **1** | **2** | **3** | **4** |
 | 1   | 0   | —   | —   | —   | —   |
 | 2   | 0   | —   | —   | —   | —   |
 | 3   | 0   | —   | —   | —   | —   |
