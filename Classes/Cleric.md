@@ -74,7 +74,7 @@ Clerics play an important support role for an adventuring party. Most clerical s
 ### Cleric Saving Throw Table
 
 | **Level** | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
-| --- | --- | --- | --- | --- | --- |
+| --- |:---:|:---:|:---:|:---:|:---:|
 | 1-3 | 14  | 16  | 10  | 13  | 15  |
 | 4-6 | 13  | 15  | 9   | 12  | 14  |
 | 7-9 | 11  | 13  | 7   | 10  | 12  |
