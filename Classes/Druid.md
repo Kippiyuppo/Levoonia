@@ -35,7 +35,7 @@ Player character druids must be neutral, although druids of differing alignments
 #### Druid Spells by Level
 
 | **Level** | **1** | **2** | **3** | **4** | **5** | **6** | **7** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1   | 2   | —   | —   | —   | —   | —   | —   |
 | 2   | 2   | 1   | —   | —   | —   | —   | —   |
 | 3   | 3   | 2   | 1   | —   | —   | —   | —   |
@@ -54,7 +54,7 @@ Player character druids must be neutral, although druids of differing alignments
 ***Bonus Spells.*** These are awarded to druids with high wisdom. They are not cumulative and are awarded by level; hence “2/2/1/1” means the druid is granted 2-1st level, 2-2nd level, 1-3rd level, and 1-4th level bonus spells.
 
 | **Wisdom Score** | **Bonus Spells** | **Chance of Spell failure (d%)\*** |
-| --- | --- | --- |
+|:---:|:---:|:---:|
 | 9   | 0   | 15  |
 | 10  | 0   | 10  |
 | 11  | 0   | 5   |
