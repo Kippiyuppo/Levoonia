@@ -1,0 +1,94 @@
+## Druid
+
+Druids worship the spiritual power of nature, maintain and protect holy places, perform festivals and ritual observances, and protect balance and harmony between civilization and nature. Their magic is rooted in the mystical oneness of nature, and they have particular power over fire, stone, and weather, as well as over plant and animal life.
+
+Some druids pay homage to particular nature gods (some of these quite savage), while others eschew all deities and commune directly with the spiritual power of nature.
+
+Rather than using a holy symbol as clerics do, druids require mistletoe, holly, or (if neither can be found) oak leaves to cast their spells, and one of these is a required component for all druidic spells unless a druidic spell has no material component specified in the spell description.
+
+The druid must harvest these materials by the light of a full moon, or the darkness of a new moon, in order for the component to work with full efficacy. If mistletoe or holly is not gathered by the druid's hand at the proper time, the druid's spells will have only half the normal effect. Oak leaves always produce spells of half power, and if they are not harvested properly, oak leaves will permit spells of only one-quarter power.
+
+Player character druids must be neutral, although druids of differing alignments may be found as non-player characters in some GMs' campaigns.
+
+### The Druid Character
+
+- **Minimum Scores:** Str 6, Dex 6, Con 6, Int 6, Wis 12, Cha 15
+- **Hit Die Type:** d8 (max 14\*)
+- **Alignment:** Neutral only
+- **Armor/Shield Permitted:** Leather only, wooden shields only
+- **Weapons Permitted:** Club, dagger, dart, hammer, oil, scimitar, sling, spear, staff
+- **Weapon Proficiencies:** 2 +1 every 3 levels
+- **Attack Bonus:** +2 every 3 levels
+
+\*14th level is the ceiling for druids. Any further experience points the druid receives will simply be lost.
+
+### Druid Class Abilities
+
+***Druids' Cant.*** All druids speak a secret language called the druids' cant. The druidic cant cannot be learned by non-druids (unless otherwise noted, such as in the case of higher-level assassins).
+
+***Saving Throw Bonus.*** All druids gain a saving throw bonus of +2 against fire and lightning attacks of all kinds.
+
+***Spellcasting.*** Druids may memorise and cast druidic spells in accordance with the tables provided below.
+
+***Prepared Spells.*** A druid may prepare a number of spells each day equal to their available spell slots plus their Wisdom modifier.
+
+#### Druid Spells by Level
+
+| **Level** | **1** | **2** | **3** | **4** | **5** | **6** | **7** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | 2   | —   | —   | —   | —   | —   | —   |
+| 2   | 2   | 1   | —   | —   | —   | —   | —   |
+| 3   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 4   | 4   | 2   | 2   | —   | —   | —   | —   |
+| 5   | 4   | 3   | 2   | —   | —   | —   | —   |
+| 6   | 4   | 3   | 2   | 1   | —   | —   | —   |
+| 7   | 4   | 4   | 3   | 1   | —   | —   | —   |
+| 8   | 4   | 4   | 3   | 2   | —   | —   | —   |
+| 9   | 5   | 4   | 3   | 2   | 1   | —   | —   |
+| 10  | 5   | 4   | 3   | 3   | 2   | —   | —   |
+| 11  | 5   | 5   | 3   | 3   | 2   | 1   | —   |
+| 12  | 5   | 5   | 4   | 4   | 3   | 2   | 1   |
+| 13  | 6   | 5   | 5   | 5   | 4   | 3   | 2   |
+| 14\* | 6   | 6   | 6   | 6   | 5   | 4   | 3   |
+
+***Bonus Spells.*** These are awarded to druids with high wisdom. They are not cumulative and are awarded by level; hence “2/2/1/1” means the druid is granted 2-1st level, 2-2nd level, 1-3rd level, and 1-4th level bonus spells.
+
+| **Wisdom Score** | **Bonus Spells** | **Chance of Spell failure (d%)\*** |
+| --- | --- | --- |
+| 9   | 0   | 15  |
+| 10  | 0   | 10  |
+| 11  | 0   | 5   |
+| 12  | 0   | 1   |
+| 13  | 1   | 0   |
+| 14  | 2   | 0   |
+| 15  | 2/1 | 0   |
+| 16  | 2/2 | 0   |
+| 17  | 2/2/1 | 0   |
+| 18  | 2/2/1/1 | 0   |
+| 19  | 3/2/1/1 | 0   |
+
+\*Druids with low wisdom may fail to cast a spell.
+
+***Druid's Knowledge.*** At third level and higher, a druid can identify plant and animal types, and can determine when water is pure and safe to drink.
+
+***Wilderness Movement.*** At third level and higher, a druid can move through any natural undergrowth leaving no trace of his or her passage, and may do so with no reduction in his or her normal movement speed.
+
+***Immunity to Fey Charm.*** At seventh level and higher, the druid becomes immune to charms and other such mental enchantments cast by fey creatures such as dryads, pixies, brownies, etc.
+
+***Shapeshift.*** Druids of 7th level or higher may change their forms up to three times per day. The form assumed must be a natural animal, no smaller than a mouse, and no larger than double the druid's normal weight; in the process of shapeshifting, the druid recovers 1d6×10 percent of any hit points he or she might have sustained as damage.
+
+***Druidic Hierarchy.*** There can only be a certain number of high-level druids in the world. The limits are: 12th level druid (High Druid)—no more than 3 in the world at any one time; 13th level druid (Archdruid)—no more than 2 in the world at any given time, 14th level druid (Supreme Druid)—no more than a single Supreme Druid can exist.
+
+If a druid receives so many experience points that he or she is eligible to increase to these levels, but all the vacant slots are already filled, then he or she must create a vacancy. This is done by issuing a formal challenge to the druid in question, following which the two characters must compete in a contest of some kind - often, but not necessarily, a duel.
+
+The loser of the contest goes down to the next lowest level (losing all experience down to the very minimum to qualify for the new level). This may, in turn, result in a further contest if the preceding level is also fully occupied.
+
+### Druid Saving Throw Table
+
+| **Level** | **Aimed Magic Items (e.g., rod, staff, wand)** | **Breath Weapons** | **Death, Paralysis, Poison** | **Petrifaction, Polymorph** | **Spells for unlisted categories** |
+| --- |:---:|:---:|:---:|:---:|:---:|
+| 1-3 | 14  | 16  | 10  | 13  | 15  |
+| 4-6 | 13  | 15  | 9   | 12  | 14  |
+| 7-9 | 11  | 13  | 7   | 10  | 12  |
+| 10-12 | 10  | 12  | 6   | 9   | 11  |
+| 13-14 | 9   | 11  | 5   | 8   | 10  |
