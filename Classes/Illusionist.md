@@ -23,7 +23,7 @@ Illusionists are practitioners of phantasmal magic, a type of Spellcasting that 
 #### Illusionist Spells by Level
 
 | **Level** | **1** | **2** | **3** | **4** | **5** | **6** | **7** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1   | 1   | —   | —   | —   | —   | —   | —   |
 | 2   | 2   | —   | —   | —   | —   | —   | —   |
 | 3   | 2   | 1   | —   | —   | —   | —   | —   |
