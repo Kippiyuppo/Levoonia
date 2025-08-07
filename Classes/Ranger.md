@@ -42,7 +42,7 @@ Fourth, rangers travel light and may not keep any more treasure than they can li
 
 | --- | --- | --- | --- | --- | --- | --- |
 | **Level** | **Spellcasting Level** | **Druid Spells** |     |     | **Magic User Spells** |     |
-|     |     || **1** | **2** | **3** | **1** | **2** |
+|     |     | **1** | **2** | **3** | **1** | **2** |
 | 1   | 0   | —   | —   | —   | —   | —   |
 | 2   | 0   | —   | —   | —   | —   | —   |
 | 3   | 0   | —   | —   | —   | —   | —   |
