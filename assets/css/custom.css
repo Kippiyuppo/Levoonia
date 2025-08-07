@@ -104,24 +104,6 @@ blockquote {
   }
 }
 
-/* custom header */
-.site-title {
-  display: block !important;
-  width: 100%;
-  text-align: center;
-  font-size: 0; /* elrejti a szöveget */
-}
-
-.site-title::before {
-  content: "";
-  display: inline-block;
-  background-image: url('/assets/header.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 149px;
-  width: 817px; /* vagy amekkora a képed */
-}
-
 /* NAVBAR */
 .dropdown-navbar {
   position: relative;
