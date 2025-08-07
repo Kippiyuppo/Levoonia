@@ -104,10 +104,9 @@ blockquote {
   }
 }
 
-
 /* custom header */
 .site-title {
-  display: block;
+  display: block !important;
   width: 100%;
   text-align: center;
   font-size: 0; /* elrejti a szöveget */
