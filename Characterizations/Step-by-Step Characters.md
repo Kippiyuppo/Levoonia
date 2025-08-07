@@ -343,3 +343,79 @@ Characters add their Charisma modifier to reaction rolls when dealing
 with NPCs or creatures. This bonus affects initial attitudes, making
 others more likely to respond favorably or peacefully. This number is
 equal to the Charisma modifier.
+
+# Racial Limitations
+
+Racial limitations exist to preserve balance, emphasize diversity, and reflect the distinct cultural and biological traits of each race. Just as dwarves excel in toughness and craftsmanship but lack an affinity for arcane magic, or elves possess keen senses and magical insight but are more physically fragile, these limitations help to ensure that no race is the "best choice" in all situations. They reinforce archetypes rooted in myth and fantasy literature and encourage players to embrace the unique strengths and histories of their chosen heritage. This promotes diversity and role playing depth over mechanical optimization.
+
+## Minimum/Maximum ability scores
+
+If the ability scores rolled (after adjustment for race) do not fall within these limits, then the race is not a valid choice for the character.
+
+|     | Dwarf | Elf | Gnome | Half-Elf | Halfling | Half-Orc | Human |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Strength | 8/18 | 3/18 | 6/17 | 6/18 | 6/17 | 6/19 | 3/19 |
+| Dexterity | 3/17 | 7/19 | 3/18 | 3/18 | 8/19 | 3/17 | 3/19 |
+| Constitution | 12/19 | 8/17 | 8/18 | 8/18 | 10/18 | 13/19 | 3/19 |
+| Intelligence | 3/18 | 8/18 | 7/19 | 7/18 | 6/18 | 3/17 | 3/19 |
+| Wisdom | 3/18 | 3/18 | 3/18 | 3/18 | 3/17 | 3/14 | 3/19 |
+| Charisma | 3/16 | 8/18 | 3/18 | 3/18 | 3/18 | 3/12 | 3/19 |
+
+## Level Limitations
+
+“N/A” means, this is not a permitted class option for this race.
+
+“U” means, there is no class level limit for this race.
+
+|     | Dwarf | Elf | Gnome | Half-Elf | Halfling | Half-Orc | Human |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Assassin | 10  | 10  | 10  | 10  | N/A | 15  | 15  |
+| Barbarian | 10  | N/A | N/A | 10  | N/A | U   | U   |
+| Cleric | 10  | 10  | 10  | 5   | N/A | 5   | U   |
+| Druid | N/A | N/A | N/A | N/A | 5   | N/A | 14  |
+| Fighter | 10  | 10  | 5   | 10  | 5   | 10  | U   |
+| Illusionist | N/A | N/A | 10  | N/A | N/A | N/A | U   |
+| Magic User | N/A | 10  | N/A | 10  | N/A | N/A | U   |
+| Paladin | N/A | N/A | N/A | N/A | N/A | N/A | U   |
+| Ranger | N/A | N/A | N/A | 10  | N/A | N/A | U   |
+| Sorcerer | N/A | 10  | N/A | 10  | N/A | N/A | U   |
+| Thief | U   | U   | U   | U   | U   | 10  | U   |
+
+## Startin Age
+
+A player may either determine the character’s starting age randomly using the table below, or select it freely, subject to the referee’s approval.
+
+In cases where a character's age is noticeably advanced, the referee may allow a reduction of one point in a physical ability score (Strength, Dexterity, or Constitution) in order to increase a mental ability score (Intelligence, Wisdom, or Charisma) by one point.
+
+|     | Dwarf | Elf | Gnome | Half-Elf | Halfling | Half-Orc | Human |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Cleric, Druid | 250+2d20 | 500+10d10 | 300+3d12 | 40+2d4 | 20+3d4 | 20+1d4 | 20+1d4 |
+| Barbarian, Fighter, Paladin, Ranger | 40+5d4 | 130+5d6 | 60+5d4 | 22+3d4 | 40+3d4 | 13+1d4 | 15+1d4 |
+| Illusionist, Magic User, Sorcerer | N/A | 150+5d6 | 100+2d12 | 30+2d8 | N/A | N/A | 24+2d8 |
+| Thief, Assassin | 75+3d6 | 100+5d6 | 80+5d4 | 22+3d8 | 40+2d4 | 20+2d4 | 20+1d4 |
+
+
+
+## Class Limitations
+
+### Minimum ability scores
+
+If the ability scores rolled (after adjustment for race) do not reach the limits, then the class is not a valid choice for the character.
+
+|     | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|
+| Assassin | 12  | 12  | 6   | 11  | 6   | 6   |
+| Barbarian | 12  | 6   | 15  | 3   | 6   | 6   |
+| Cleric | 6   | 3   | 6   | 6   | 9   | 6   |
+| Druid | 6   | 6   | 6   | 6   | 12  | 15  |
+| Fighter | 9   | 6   | 7   | 3   | 6   | 6   |
+| Illusionist | 6   | 16  | 6   | 15  | 6   | 6   |
+| Magic User | 3   | 6   | 6   | 9   | 6   | 6   |
+| Paladin | 12  | 6   | 9   | 9   | 13  | 17  |
+| Ranger | 13  | 6   | 14  | 13  | 14  | 6   |
+| Sorcerer | 3   | 6   | 9   | 6   | 6   | 12  |
+| Thief | 6   | 9   | 6   | 6   | 6   | 6   |
+
+### Hopeless Characters
+
+A character who does not qualify for any class is unfit to play. Such a character would not survive even the first dungeon. Discard the character and roll again.
