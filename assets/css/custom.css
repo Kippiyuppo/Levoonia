@@ -62,7 +62,7 @@ p + p {
 /* Alap linkek */
 a {
   color: #7a2b17;
-  text-decoration: underline;
+  text-decoration: none !important;
 }
 
 a:hover {
