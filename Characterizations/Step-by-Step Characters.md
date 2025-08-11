@@ -93,6 +93,11 @@ from -5 (for an ability score of 1) to +5 (for a score of 20). The table
 below notes the ability modifiers for the range of possible ability
 scores, from 1 to 20.
 
+| **Score**    | 1         | 2         | 3         | 4-5       | 6-8       | 9-12      | 13-15     | 16-17     | 18        | 19        | 20        |
+|--------------|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| **Modifier** | -5        | -4        | -3        | -2        | -1        | +0        | +1        | +2        | +3        | +4        | +5        |
+
+
 | **Score** | **Modifier** |
 |-----------|:------------:|
 | 1         | -5           |
